@@ -1,0 +1,234 @@
+[
+  {
+    "name": "CENTRO DE ENSINO E PESQUISA APLICADA À EDUCAÇÃO ",
+    "value": "856"
+  },
+  {
+    "name": "CENTRO INTEGRADO DE APRENDIZAGEM EM REDE ",
+    "value": "916"
+  },
+  {
+    "name": "DEPTO DE PARASITOL MICROB E IMUNOLOGIA ",
+    "value": "907"
+  },
+  {
+    "name": "DISCIPLINAS SEM UNIDADE ",
+    "value": "99999999"
+  },
+  {
+    "name": "ESCOLA DE AGRONOMIA ",
+    "value": "857"
+  },
+  {
+    "name": "ESCOLA DE ENGENHARIA CIVIL E AMBIENTAL ",
+    "value": "858"
+  },
+  {
+    "name": "ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO ",
+    "value": "859"
+  },
+  {
+    "name": "ESCOLA DE MÚSICA E ARTES CÊNICAS ",
+    "value": "860"
+  },
+  {
+    "name": "ESCOLA DE VETERINÁRIA E ZOOTECNIA ",
+    "value": "861"
+  },
+  {
+    "name": "FACULDADE DE ADMINISTRAÇÃO, CIÊNCIAS CONTÁBEIS E CIÊNCIAS ECONÔMICAS ",
+    "value": "914"
+  },
+  {
+    "name": "FACULDADE DE ARTES VISUAIS ",
+    "value": "863"
+  },
+  {
+    "name": "FACULDADE DE CIÊNCIAS E TECNOLOGIA ",
+    "value": "1314"
+  },
+  {
+    "name": "FACULDADE DE CIÊNCIAS HUMANAS E FILOSOFIA ",
+    "value": "864"
+  },
+  {
+    "name": "FACULDADE DE CIÊNCIAS SOCIAIS ",
+    "value": "919"
+  },
+  {
+    "name": "FACULDADE DE DIREITO ",
+    "value": "869"
+  },
+  {
+    "name": "FACULDADE DE EDUCAÇÃO ",
+    "value": "873"
+  },
+  {
+    "name": "FACULDADE DE EDUCAÇÃO FISICA E DANÇA ",
+    "value": "877"
+  },
+  {
+    "name": "FACULDADE DE ENFERMAGEM ",
+    "value": "878"
+  },
+  {
+    "name": "FACULDADE DE FARMÁCIA ",
+    "value": "879"
+  },
+  {
+    "name": "FACULDADE DE FILOSOFIA ",
+    "value": "918"
+  },
+  {
+    "name": "FACULDADE DE HISTÓRIA ",
+    "value": "917"
+  },
+  {
+    "name": "FACULDADE DE INFORMAÇÃO E COMUNICAÇÃO ",
+    "value": "868"
+  },
+  {
+    "name": "FACULDADE DE LETRAS ",
+    "value": "880"
+  },
+  {
+    "name": "FACULDADE DE MEDICINA ",
+    "value": "883"
+  },
+  {
+    "name": "FACULDADE DE NUTRIÇÃO ",
+    "value": "895"
+  },
+  {
+    "name": "FACULDADE DE ODONTOLOGIA ",
+    "value": "891"
+  },
+  {
+    "name": "INSTITUTO DE CIENCIAS BIOLOGICAS ",
+    "value": "897"
+  },
+  {
+    "name": "INSTITUTO DE ESTUDOS SÓCIO",
+    "value": "901"
+  },
+  {
+    "name": "INSTITUTO DE FÍSICA ",
+    "value": "903"
+  },
+  {
+    "name": "INSTITUTO DE INFORMÁTICA ",
+    "value": "904"
+  },
+  {
+    "name": "INSTITUTO DE MATEMÁTICA E ESTATÍSTICA ",
+    "value": "905"
+  },
+  {
+    "name": "INSTITUTO DE PATOLOGIA TROPICAL E SAÚDE PÚBLICA ",
+    "value": "906"
+  },
+  {
+    "name": "INSTITUTO DE QUÍMICA ",
+    "value": "909"
+  },
+  {
+    "name": "LABORATORIO ROMULO ROCHA ",
+    "value": "913"
+  },
+  {
+    "name": "REGIONAL CATALÃO ",
+    "value": "833"
+  },
+  {
+    "name": "REGIONAL GOIÁS ",
+    "value": "920"
+  },
+  {
+    "name": "REGIONAL JATAÍ ",
+    "value": "834"
+  },
+  {
+    "name": "UAE ",
+    "value": "1242"
+  },
+  {
+    "name": "UAE ",
+    "value": "1952"
+  },
+  {
+    "name": "UAE REJ CIÊNCIAS HUMANAS E LETRAS ",
+    "value": "1254"
+  },
+  {
+    "name": "UAE REJ CIÊNCIAS SOCIAIS APLICADAS ",
+    "value": "3019"
+  },
+  {
+    "name": "UAE REJ ESPECIAL DE EDUCAÇÃO ",
+    "value": "3021"
+  },
+  {
+    "name": "UAE REJ ESTUDOS GEOGRÁFICOS ",
+    "value": "3020"
+  },
+  {
+    "name": "UNID. ACAD. ESP./EDUCAÇÃO ",
+    "value": "1248"
+  },
+  {
+    "name": "UNID. ACAD. ESP/BIOTECNOLOGIA ",
+    "value": "1243"
+  },
+  {
+    "name": "UNID. ACAD. ESP/CIENCIAS AGRARIAS",
+    "value": "1252"
+  },
+  {
+    "name": "UNID. ACAD. ESP/CIENCIAS BIOLOGICAS",
+    "value": "1256"
+  },
+  {
+    "name": "UNID. ACAD. ESP/CIENCIAS DA SAUDE",
+    "value": "1253"
+  },
+  {
+    "name": "UNID. ACAD. ESP/CIENCIAS EXATAS ",
+    "value": "1255"
+  },
+  {
+    "name": "UNID. ACAD. ESP/CIENCIAS HUMANAS ",
+    "value": "1251"
+  },
+  {
+    "name": "UNID. ACAD. ESP/FISICA ",
+    "value": "3317"
+  },
+  {
+    "name": "UNID. ACAD. ESP/GEOGRAFIA ",
+    "value": "1249"
+  },
+  {
+    "name": "UNID. ACAD. ESP/LETRAS E LINGUISTICA C ",
+    "value": "1247"
+  },
+  {
+    "name": "UNID. ACAD. ESP/MATEMATICA E TECNOLOGI ",
+    "value": "1246"
+  },
+  {
+    "name": "UNID. ACAD. ESP/QUIMICA ",
+    "value": "1245"
+  },
+  {
+    "name": "UNID.ACAD.ESP/CIENC SOCIAIS APLIC",
+    "value": "1250"
+  },
+  {
+    "name": "UNID.ACAD.ESP/HIST. E CIENCIAS SOCIAIS ",
+    "value": "1244"
+  },
+  {
+    "name": "UNIVERSIDADE FEDERAL DE GOIÁS ",
+    "value": "605"
+  }
+]
