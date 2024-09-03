@@ -3,15 +3,26 @@ package main
 import (
 	"fmt"
 	"log"
+	"me-livra-scraping/src/unb"
 )
 
 func main() {
-	err := writeDepartmentsToJSON()
+	// err := ufg.WriteDepartmentsToJSON()
+	// if err != nil {
+	// 	log.Fatalf("Error: %v", err)
+	// }
+
+	// err = ufg.WriteTeachersToJSON()
+	// if err != nil {
+	// 	log.Fatalf("Error: %v", err)
+	// }
+
+	err := unb.WriteDepartmentsToJSON()
 	if err != nil {
 		log.Fatalf("Error: %v", err)
 	}
 
-	err = writeTeachersToJSON()
+	err = unb.WriteTeachersToJSON()
 	if err != nil {
 		log.Fatalf("Error: %v", err)
 	}

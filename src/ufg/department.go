@@ -1,7 +1,8 @@
-package main
+package ufg
 
 import (
 	"encoding/json"
+	"me-livra-scraping/src/models"
 	"os"
 	"path/filepath"
 	"strings"
@@ -9,12 +10,6 @@ import (
 
 	"github.com/gocolly/colly"
 )
-
-// Department represents a department with a name and value.
-type Department struct {
-	Name  string `json:"name"`
-	Value string `json:"value"`
-}
 
 // titleCase converts a string to title case.
 func titleCase(s string) string {
@@ -24,8 +19,8 @@ func titleCase(s string) string {
 }
 
 // getDepartmentsList retrieves the list of departments from the webpage.
-func getDepartmentsList() ([]Department, error) {
-	var departments []Department
+func getDepartmentsList() ([]models.Department, error) {
+	var departments []models.Department
 
 	c := colly.NewCollector()
 
@@ -35,8 +30,8 @@ func getDepartmentsList() ([]Department, error) {
 		value := e.Attr("value")
 
 		if value != "" && value != "0" {
-			department := Department{
-				Name:  titleCase(strings.Split(name, "-")[0]),
+			department := models.Department{
+				Name:  strings.TrimSpace(titleCase(strings.Split(name, "-")[0])),
 				Value: strings.TrimSpace(value),
 			}
 			departments = append(departments, department)
@@ -53,9 +48,9 @@ func getDepartmentsList() ([]Department, error) {
 }
 
 // writeDepartmentsToJSON writes the departments list to a JSON file.
-func writeDepartmentsToJSON() error {
+func WriteDepartmentsToJSON() error {
 	// Define the file path
-	filePath := filepath.Join("files", "departments.json")
+	filePath := filepath.Join("files", "ufg", "departments.json")
 
 	// Ensure the directory exists
 	if err := os.MkdirAll(filepath.Dir(filePath), 0755); err != nil {

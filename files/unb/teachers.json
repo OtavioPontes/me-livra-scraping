@@ -1,0 +1,390 @@
+[
+  {
+    "department": "CENTRO DE DESENVOLVIMENTO SUSTENTÁVEL",
+    "teachers": []
+  },
+  {
+    "department": "CENTRO DE EXCELÊNCIA EM TURISMO",
+    "teachers": []
+  },
+  {
+    "department": "CENTRO ESTUDOS AVANÇADOS MULTIDISCIPLIN",
+    "teachers": []
+  },
+  {
+    "department": "CENTRO INTEGRADO ORDENAMENTO TERRITORIAL",
+    "teachers": []
+  },
+  {
+    "department": "CENTRO INTERNACIONAL DE BIOÉTICA E HUMANIDADES",
+    "teachers": []
+  },
+  {
+    "department": "CENTRO UNB CERRADO",
+    "teachers": []
+  },
+  {
+    "department": "DECANATO DE ENSINO DE GRADUACAO / DEG",
+    "teachers": []
+  },
+  {
+    "department": "DECANATO DE PÓS",
+    "teachers": []
+  },
+  {
+    "department": "DECANATO EXTENSÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE AUDIOVISUAIS E PUBLICIDADE/DAP",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE COMUNICAÇÃO ORGANIZACIONAL/COM",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE DESIGN (11.01.01.14.04)",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE ENGENHARIA MECANICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE ESTUDOS LATINO AMERICANO",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE FARMACIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE GESTAO DE POLITICAS PUBL",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE JORNALISMO/JOR",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE MATEMÁTICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE MÉTODOS E TÉCNICAS",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE PSICOLOGIA CLÍNICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE SOCIOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPARTAMENTO DE TEORIA E FUNDAMENTOS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ADMINISTRAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ANTROPOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ARTES CÊNICAS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ARTES VISUAIS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO BIOLOGIA CELULAR",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO BOTÂNICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO CIÊNCIAS CONTÁBEIS ATUARIAIS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO CIÊNCIAS DA COMPUTAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO CIÊNCIAS FISIOLÓGICAS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO CIÊNCIAS INFORMAÇÃO DOCUMENTAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ECOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ECONOMIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ENFERMAGEM",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ENGENHARIA CIVIL E AMBIENTAL",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ENGENHARIA DE PRODUCAO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ENGENHARIA ELETRICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ENGENHARIA FLORESTAL",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ESTATÍSTICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO FILOSOFIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO FITOPATOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO GENÉTICA E MORFOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO GEOGRAFIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO GEOLOGIA GERAL APLICADA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO GEOQUÍMICA E RECURSOS MINERAIS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO HISTÓRIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO LINGUISTICA, PORT. LING. CLASSICAS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO LÍNGUAS ESTRANGEIRAS E TRADUÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO MINERALOGIA E PETROLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO MÚSICA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO NUTRICAO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ODONTOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO PROCESSOS PSICOLÓGICOS BÁSICOS",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO PROJETOS EXPRES REPRES ARQ E URBAN",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO PSICOLOGIA ESCOLAR DESENVOLVIMENTO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO PSICOLOGIA SOCIAL E DO TRABALHO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO SAUDE COLETIVA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO SERVIÇO SOCIAL",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO TECNOLOGIA ARQUITETURA URBANISMO",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO TEORIA HISTORIA ARQUIT E URBANISM",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO TEORIA LITERÁRIA E LITERATURA",
+    "teachers": []
+  },
+  {
+    "department": "DEPTO ZOOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "DIRETORIA DO CENTRO DE APOIO AO DESENVOLVIMENTO TECNOLÓGICO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE AGRONOMIA E MEDICINA VETERINÁRIA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE ARQUITETURA E URBANISMO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE CEILÂNDIA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE CIÊNCIAS DA SAÚDE",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE COMUNICAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE DIREITO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE EDUCAÇÃO",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE EDUCAÇÃO FÍSICA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE MEDICINA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE PLANALTINA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DE TECNOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE DO GAMA",
+    "teachers": []
+  },
+  {
+    "department": "FACULDADE ECONOMIA,  ADMINISTRAÇÃO,  CONTABILIDADE E  GEST POL PÚBLICAS",
+    "teachers": []
+  },
+  {
+    "department": "HOSP",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE ARTES",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE CIÊNCIA POLÍTICA",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE CIÊNCIAS EXATAS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE CIÊNCIAS HUMANAS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE CIÊNCIAS SOCIAIS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE FÍSICA",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE GEOCIÊNCIAS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE LETRAS",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE PSICOLOGIA",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE QUÍMICA",
+    "teachers": []
+  },
+  {
+    "department": "INSTITUTO DE RELAÇÕES INTERNACIONAIS",
+    "teachers": []
+  },
+  {
+    "department": "OBSERVATÓRIO SISMOLÓGICO",
+    "teachers": []
+  },
+  {
+    "department": "PARQUE CIENTÍFICO E TECNOLÓGICO DA UNB",
+    "teachers": []
+  },
+  {
+    "department": "PARQUE DE INOVAÇÃO E SUSTENTABILIDADE DO AMBIENTE CONSTRUÍDO",
+    "teachers": []
+  },
+  {
+    "department": "REITORIA",
+    "teachers": []
+  },
+  {
+    "department": "SECRETARIA DE ADMINISTRACAO ACADEMICA",
+    "teachers": []
+  }
+]

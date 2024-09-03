@@ -1,29 +1,26 @@
-package main
+package unb
 
 import (
 	"context"
 	"encoding/json"
 	"log"
+	"me-livra-scraping/src/models"
 	"os"
 	"path/filepath"
 
 	"github.com/chromedp/chromedp"
 )
 
-type Teacher struct {
-	Name string `json:"name"`
-}
-
-func getTeachersList(ctx context.Context, value string) ([]Teacher, error) {
+func getTeachersList(ctx context.Context, value string) ([]models.Teacher, error) {
 	var names []string
 
 	err := chromedp.Run(ctx,
-		chromedp.Navigate("https://sigaa.sistemas.ufg.br/sigaa/public/docente/busca_docentes.jsf?aba=p-academico"),
+		chromedp.Navigate("https://sigaa.unb.br/sigaa/public/docente/busca_docentes.jsf?aba=p-academico"),
 		chromedp.SetValue(`form:departamento`, value),
 		chromedp.Click(`form:buscar`),
-		chromedp.WaitVisible(`table`),
 
-		chromedp.Evaluate(`Array.from(document.querySelectorAll('.listagem td .nome')).map(name => name.textContent)`, &names),
+		chromedp.WaitVisible(`table`),
+		chromedp.Evaluate(`Array.from(document.querySelectorAll('.listagem td .nome')).map(name => name.outerHTML);`, &names),
 	)
 
 	if err != nil {
@@ -31,7 +28,7 @@ func getTeachersList(ctx context.Context, value string) ([]Teacher, error) {
 	}
 
 	// Combina os nomes e URLs em structs `Teacher`
-	teachers := make([]Teacher, len(names))
+	teachers := make([]models.Teacher, len(names))
 	for i := range names {
 		log.Println(names[i])
 		teachers[i].Name = titleCase(names[i])
@@ -40,17 +37,17 @@ func getTeachersList(ctx context.Context, value string) ([]Teacher, error) {
 	return teachers, nil
 }
 
-func writeTeachersToJSON() error {
+func WriteTeachersToJSON() error {
 	// Load department data
-	departmentFilePath := filepath.Join("files", "departments.json")
-	filePath := filepath.Join("files", "teachers.json")
+	departmentFilePath := filepath.Join("files", "unb", "departments.json")
+	filePath := filepath.Join("files", "unb", "teachers.json")
 
 	departmentFile, err := os.ReadFile(departmentFilePath)
 	if err != nil {
 		return err
 	}
 
-	var departments []Department
+	var departments []models.Department
 	err = json.Unmarshal(departmentFile, &departments)
 	if err != nil {
 		return err
