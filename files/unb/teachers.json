@@ -1,15 +1,120 @@
 [
   {
     "department": "CENTRO DE DESENVOLVIMENTO SUSTENTÁVEL",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALEXANDRE BETINARDI STRAPASSON"
+      },
+      {
+        "name": "AMANDA FREDERICO MORTATI"
+      },
+      {
+        "name": "ANA KARINE PEREIRA"
+      },
+      {
+        "name": "CRISTIANE GOMES BARRETO"
+      },
+      {
+        "name": "DIEGO PEREIRA LINDOSO"
+      },
+      {
+        "name": "DORIS ALEIDA VILLAMIZAR SAYAGO"
+      },
+      {
+        "name": "FABIANO TONI"
+      },
+      {
+        "name": "FREDERIC ADELIN GEORGES MERTENS"
+      },
+      {
+        "name": "LAURA ANGELICA FERREIRA DARNET"
+      },
+      {
+        "name": "MAURICIO DE CARVALHO AMAZONAS"
+      },
+      {
+        "name": "MAURO GUILHERME MAIDANA CAPPELLARO"
+      },
+      {
+        "name": "MONICA CELEIDA RABELO NOGUEIRA"
+      },
+      {
+        "name": "STEPHANIE CAROLINE NASUTI"
+      },
+      {
+        "name": "TALITA FLORIANO DOS SANTOS"
+      }
+    ]
   },
   {
     "department": "CENTRO DE EXCELÊNCIA EM TURISMO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA ROSA DOMINGUES DOS SANTOS"
+      },
+      {
+        "name": "ANGELA TEBERGA DE PAULA"
+      },
+      {
+        "name": "AYLANA LAISSA MEDEIROS BORGES"
+      },
+      {
+        "name": "FAGNO TAVARES DE OLIVEIRA"
+      },
+      {
+        "name": "JOAO PAULO FARIA TASSO"
+      },
+      {
+        "name": "KERLEI ENIELE SONAGLIO"
+      },
+      {
+        "name": "LIVIA CRISTINA BARROS DA SILVA WIESINIESKI"
+      },
+      {
+        "name": "LUIZ CARLOS SPILLER PENA"
+      },
+      {
+        "name": "MARUTSCHKA MARTINI MOESCH"
+      },
+      {
+        "name": "TAINA BACELLAR ZANETI"
+      },
+      {
+        "name": "THIAGO SEBASTIANO DE MELO"
+      },
+      {
+        "name": "ANASTASIYA GOLETS"
+      }
+    ]
   },
   {
     "department": "CENTRO ESTUDOS AVANÇADOS MULTIDISCIPLIN",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ASSIS DA COSTA OLIVEIRA"
+      },
+      {
+        "name": "MARIA CARMEN AIRES GOMES"
+      },
+      {
+        "name": "ELIZABETH DEL SOCORRO RUANO IBARRA"
+      },
+      {
+        "name": "FABIANA DA CUNHA SADDI"
+      },
+      {
+        "name": "JOSE MARCELO FREITAS DE LUNA"
+      },
+      {
+        "name": "OLGA MARIA BOSCHI AGUIAR"
+      },
+      {
+        "name": "AELSON SILVA DE ALMEIDA"
+      },
+      {
+        "name": "HILTON PEREIRA DA SILVA"
+      }
+    ]
   },
   {
     "department": "CENTRO INTEGRADO ORDENAMENTO TERRITORIAL",
@@ -17,11 +122,22 @@
   },
   {
     "department": "CENTRO INTERNACIONAL DE BIOÉTICA E HUMANIDADES",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "MONIQUE TERESINHA PYRRHO DE SOUZA SILVA"
+      },
+      {
+        "name": "SWEDENBERGER DO NASCIMENTO BARBOSA"
+      }
+    ]
   },
   {
     "department": "CENTRO UNB CERRADO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "MARIA JULIA MARTINS SILVA"
+      }
+    ]
   },
   {
     "department": "DECANATO DE ENSINO DE GRADUACAO / DEG",
@@ -37,95 +153,2479 @@
   },
   {
     "department": "DEPARTAMENTO DE AUDIOVISUAIS E PUBLICIDADE/DAP",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ARMANDO BULCAO"
+      },
+      {
+        "name": "BEATRIZ BERALDO BATISTA"
+      },
+      {
+        "name": "CARINA LUISA OCHI FLEXOR"
+      },
+      {
+        "name": "CARLOS EDUARDO MACHADO DA COSTA ESCH"
+      },
+      {
+        "name": "CARLOS HENRIQUE NOVIS"
+      },
+      {
+        "name": "DENISE MORAES CAVALCANTE"
+      },
+      {
+        "name": "EDUARDO BENTES MONTEIRO"
+      },
+      {
+        "name": "EMILIA SILVEIRA SILBERSTEIN"
+      },
+      {
+        "name": "GUSTAVO DE CASTRO DA SILVA"
+      },
+      {
+        "name": "ISABELA LARA OLIVEIRA"
+      },
+      {
+        "name": "JOAO BATISTA LANARI BO"
+      },
+      {
+        "name": "LUCIANO MENDES DE SOUZA"
+      },
+      {
+        "name": "MARCELO FEIJO ROCHA LIMA"
+      },
+      {
+        "name": "MARIA FERNANDA DANGELO VALENTIM"
+      },
+      {
+        "name": "MARIANA FERREIRA LOPES"
+      },
+      {
+        "name": "MARIANA SOUTO DE MELO SILVA"
+      },
+      {
+        "name": "MAURICIO GOMES DA SILVA FONTELES"
+      },
+      {
+        "name": "MAURO GIUNTINI VIANA"
+      },
+      {
+        "name": "PABLO GONCALO PIRES DE CAMPOS MARTINS"
+      },
+      {
+        "name": "PEDRO DAVID RUSSI DUARTE"
+      },
+      {
+        "name": "PRISCILA MONTEIRO BORGES"
+      },
+      {
+        "name": "RAFAEL DIETZSCH"
+      },
+      {
+        "name": "RENATA ALVES DE ALBUQUERQUE OTHON"
+      },
+      {
+        "name": "SERGIO RIBEIRO DE AGUIAR SANTOS"
+      },
+      {
+        "name": "SUELEN BRANDES MARQUES VALENTE"
+      },
+      {
+        "name": "SUSANA MADEIRA DOBAL JORDAN"
+      },
+      {
+        "name": "GABRIEL PERRONE VIANNA"
+      },
+      {
+        "name": "TATIANA REGINA GOMES DE AMORIM"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE COMUNICAÇÃO ORGANIZACIONAL/COM",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ABRA T AFRAA LIONCO"
+      },
+      {
+        "name": "ELEN CRISTINA GERALDES"
+      },
+      {
+        "name": "ELTON BRUNO BARBOSA PINHEIRO"
+      },
+      {
+        "name": "FABIOLA ORLANDO CALAZANS MACHADO"
+      },
+      {
+        "name": "GABRIELA PEREIRA DE FREITAS"
+      },
+      {
+        "name": "JANARA KALLINE LEAL LOPES DE SOUSA"
+      },
+      {
+        "name": "KATIA MARIA BELISARIO"
+      },
+      {
+        "name": "LIZIANE SOARES GUAZINA"
+      },
+      {
+        "name": "MARLISE VIEGAS BRENOL"
+      },
+      {
+        "name": "SIVALDO PEREIRA DA SILVA"
+      },
+      {
+        "name": "FERNANDA CASAGRANDE MARTINELLI LIMA GRANJA XAVIER DA SILVA"
+      },
+      {
+        "name": "GUILHERME LOBAO DE QUEIROZ"
+      },
+      {
+        "name": "ISABEL ALMEIDA MARINHO DO REGO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE DESIGN (11.01.01.14.04)",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CLAUDIA MAYNARDES"
+      },
+      {
+        "name": "ANA MANSUR DE OLIVEIRA"
+      },
+      {
+        "name": "ANDRE CAMARGO THOME MAYA MONTEIRO"
+      },
+      {
+        "name": "BRENO TENORIO RAMALHO DE ABREU"
+      },
+      {
+        "name": "DANIELA FAVARO GARROSSINI"
+      },
+      {
+        "name": "FATIMA APARECIDA DOS SANTOS"
+      },
+      {
+        "name": "FLAVIA MARIETA MAGALHAES RIGONI"
+      },
+      {
+        "name": "GABRIEL LYRA CHAVES"
+      },
+      {
+        "name": "GEORGIA MARIA DE CASTRO SANTOS"
+      },
+      {
+        "name": "MARISA COBBE MAASS"
+      },
+      {
+        "name": "MIGUEL EDUARDO GUTIERREZ PAREDES"
+      },
+      {
+        "name": "NAYARA MORENO DE SIQUEIRA"
+      },
+      {
+        "name": "ROGERIO JOSE CAMARA"
+      },
+      {
+        "name": "SYMONE RODRIGUES JARDIM"
+      },
+      {
+        "name": "TIAGO BARROS PONTES E SILVA"
+      },
+      {
+        "name": "VIRGINIA TIRADENTES SOUTO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE ENGENHARIA MECANICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANO POSSEBON ROSA"
+      },
+      {
+        "name": "ADRIANO TODOROVIC FABRO"
+      },
+      {
+        "name": "ALBERTO CARLOS GUIMARAES CASTRO DINIZ"
+      },
+      {
+        "name": "ALBERTO JOSE ALVARES"
+      },
+      {
+        "name": "ALINE SOUZA DE PAULA"
+      },
+      {
+        "name": "ALYSSON MARTINS ALMEIDA SILVA"
+      },
+      {
+        "name": "ANDRE VON BORRIES LOPES"
+      },
+      {
+        "name": "ANTONIO CESAR PINHO BRASIL JUNIOR"
+      },
+      {
+        "name": "ANTONIO MANOEL DIAS HENRIQUES"
+      },
+      {
+        "name": "ANTONIO PIRATELLI FILHO"
+      },
+      {
+        "name": "BRAULIO GUTIERREZ PIMENTA"
+      },
+      {
+        "name": "CARLOS ALBERTO GURGEL VERAS"
+      },
+      {
+        "name": "CARLOS HUMBERTO LLANOS QUINTERO"
+      },
+      {
+        "name": "COSME ROBERTO MOREIRA DA SILVA"
+      },
+      {
+        "name": "DANIEL MONTEIRO ROSA"
+      },
+      {
+        "name": "DEBORAH DE OLIVEIRA"
+      },
+      {
+        "name": "DIANNE MAGALHAES VIANA"
+      },
+      {
+        "name": "EDER LIMA DE ALBUQUERQUE"
+      },
+      {
+        "name": "EDGAR AMARAL SILVEIRA"
+      },
+      {
+        "name": "EDSON PAULO DA SILVA"
+      },
+      {
+        "name": "EUGENIO LIBORIO FEITOSA FORTALEZA"
+      },
+      {
+        "name": "FABIO COMES DE CASTRO"
+      },
+      {
+        "name": "FRANCISCO RICARDO DA CUNHA"
+      },
+      {
+        "name": "GUILHERME CARIBE DE CARVALHO"
+      },
+      {
+        "name": "JOAO MANOEL DIAS PIMENTA"
+      },
+      {
+        "name": "JONES YUDI MORI ALVES DA SILVA"
+      },
+      {
+        "name": "JORGE LUIZ DE ALMEIDA FERREIRA"
+      },
+      {
+        "name": "JOSE ALEXANDER ARAUJO"
+      },
+      {
+        "name": "JOSE LUIZ ALVES DA FONTOURA RODRIGUES"
+      },
+      {
+        "name": "JOSE MAURICIO SANTOS TORRES DA MOTTA"
+      },
+      {
+        "name": "LUCIVAL MALCHER"
+      },
+      {
+        "name": "LUIS AUGUSTO CONTE MENDES VELOSO"
+      },
+      {
+        "name": "MAKSYM ZIBEROV"
+      },
+      {
+        "name": "MARCELA RODRIGUES MACHADO"
+      },
+      {
+        "name": "MARCUS VINICIUS GIRAO DE MORAIS"
+      },
+      {
+        "name": "MARIO BENJAMIM BAPTISTA DE SIQUEIRA"
+      },
+      {
+        "name": "PALLOMA VIEIRA MUTERLLE"
+      },
+      {
+        "name": "ROBERTO FRANCISCO BOBENRIETH MISERDA"
+      },
+      {
+        "name": "SIMONE MONTEIRO E SILVA"
+      },
+      {
+        "name": "TAYGOARA FELAMINGO DE OLIVEIRA"
+      },
+      {
+        "name": "THIAGO DE CARVALHO RODRIGUES DOCA"
+      },
+      {
+        "name": "WALTER DE BRITTO VIDAL FILHO"
+      },
+      {
+        "name": "WALTER GENNARI JUNIOR"
+      },
+      {
+        "name": "LAIS BITTENCOURT VISNADI"
+      },
+      {
+        "name": "RAFAEL GABLER GONTIJO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE ESTUDOS LATINO AMERICANO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "CRISTHIAN TEOFILO DA SILVA"
+      },
+      {
+        "name": "DANIEL BIN"
+      },
+      {
+        "name": "ELAINE MOREIRA"
+      },
+      {
+        "name": "FLAVIA LESSA DE BARROS"
+      },
+      {
+        "name": "LEONARDO CAVALCANTI DA SILVA"
+      },
+      {
+        "name": "LILIA GONCALVES MAGALHAES"
+      },
+      {
+        "name": "MARTIN LEON JACQUES IBANEZ DE NOVION"
+      },
+      {
+        "name": "RAPHAEL LANA SEABRA"
+      },
+      {
+        "name": "REBECCA FORATTINI LEMOS IGREJA"
+      },
+      {
+        "name": "SIMONE RODRIGUES PINTO"
+      },
+      {
+        "name": "ROGERIO GIMENES GIUGLIANO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE FARMACIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALEXANDRE DE GOES MARTINI"
+      },
+      {
+        "name": "ALINE COSTA SANTOS NUNES"
+      },
+      {
+        "name": "ANDREA BARRETTO MOTOYAMA"
+      },
+      {
+        "name": "ANGELICA AMORIM AMATO"
+      },
+      {
+        "name": "DAMARIS SILVEIRA"
+      },
+      {
+        "name": "DEBORA SANTOS LULA BARROS"
+      },
+      {
+        "name": "DJANE BRAZ DUARTE"
+      },
+      {
+        "name": "ELOISA DUTRA CALDAS"
+      },
+      {
+        "name": "ENRIQUE ROBERTO ARGANARAZ"
+      },
+      {
+        "name": "FABIANA BRANDAO ALVES SILVA"
+      },
+      {
+        "name": "FABIO PITTELLA SILVA"
+      },
+      {
+        "name": "FELIPE SALDANHA DE ARAUJO"
+      },
+      {
+        "name": "GERLON DE ALMEIDA RIBEIRO OLIVEIRA"
+      },
+      {
+        "name": "GUILHERME MARTINS GELFUSO"
+      },
+      {
+        "name": "GUILHERME MARTINS SANTOS"
+      },
+      {
+        "name": "GUSTAVO ADOLFO ARGANARAZ"
+      },
+      {
+        "name": "HELAINE CARNEIRO CAPUCHO"
+      },
+      {
+        "name": "INGRID FERREIRA METZGER"
+      },
+      {
+        "name": "ISAMU KANZAKI"
+      },
+      {
+        "name": "JANICE LISBOA DE MARCO"
+      },
+      {
+        "name": "LAILA SALMEN ESPINDOLA"
+      },
+      {
+        "name": "LORENA CARNEIRO ALBERNAZ"
+      },
+      {
+        "name": "LUIZ ALBERTO SIMEONI"
+      },
+      {
+        "name": "LUIZ ANTONIO SOARES ROMEIRO"
+      },
+      {
+        "name": "MARCILIO SERGIO SOARES DA CUNHA FILHO"
+      },
+      {
+        "name": "MARIA DE FATIMA BORIN"
+      },
+      {
+        "name": "MARIANA LAUNDRY DE MESQUITA"
+      },
+      {
+        "name": "MARIE TOGASHI"
+      },
+      {
+        "name": "MARILEUSA DOSOLINA CHIARELLO"
+      },
+      {
+        "name": "MARILIA BARROS"
+      },
+      {
+        "name": "MARTHA CECILIA AMBROSIO LABOISSIERE"
+      },
+      {
+        "name": "MAURICIO HOMEM DE MELLO"
+      },
+      {
+        "name": "MONICA VALERO DA SILVA"
+      },
+      {
+        "name": "NAIRA DA SILVA CAMPOS"
+      },
+      {
+        "name": "NOEMIA URRUTH LEAO TAVARES"
+      },
+      {
+        "name": "PATRICIA MEDEIROS DE SOUZA"
+      },
+      {
+        "name": "PAULA MARIA QUAGLIO BELLOZI"
+      },
+      {
+        "name": "PEROLA DE OLIVEIRA MAGALHAES DIAS BATISTA"
+      },
+      {
+        "name": "RAFAEL MOTA PINHEIRO"
+      },
+      {
+        "name": "RAFAEL SANTOS SANTANA"
+      },
+      {
+        "name": "RODRIGO FONSECA LIMA"
+      },
+      {
+        "name": "TAIS GRATIERI"
+      },
+      {
+        "name": "YANNA KARLA DE MEDEIROS NOBREGA"
+      },
+      {
+        "name": "YRIS MARIA FONSECA BAZZO"
+      },
+      {
+        "name": "DAYDE LANE MENDONCA DA SILVA"
+      },
+      {
+        "name": "ANDREA PECCE BENTO"
+      },
+      {
+        "name": "BARBARA MANUELLA CARDOSO SODRE ALVES"
+      },
+      {
+        "name": "GUILHERME RABELO DE SOUZA"
+      },
+      {
+        "name": "PAULA MARIA CORREA DE OLIVEIRA"
+      },
+      {
+        "name": "CARLOS EDUARDO DE MELO SALVADOR"
+      },
+      {
+        "name": "MARIA CHRISTINA DOS SANTOS VERDAM"
+      },
+      {
+        "name": "TANISE VENDRUSCOLO DALMOLIN"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE GESTAO DE POLITICAS PUBL",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA PAULA ANTUNES MARTINS"
+      },
+      {
+        "name": "ANA PAULA VIDAL BASTOS"
+      },
+      {
+        "name": "CAMILO NEGRI"
+      },
+      {
+        "name": "CHRISTIANA SOARES DE FREITAS"
+      },
+      {
+        "name": "ELISABETH APARECIDA CORREA MENEZES"
+      },
+      {
+        "name": "FERNANDA NATASHA BRAVO CRUZ"
+      },
+      {
+        "name": "FRANCO DE MATOS"
+      },
+      {
+        "name": "LUIZ FERNANDO MACEDO BESSA"
+      },
+      {
+        "name": "MAGDA DE LIMA LUCIO"
+      },
+      {
+        "name": "ROSANA DE FREITAS BOULLOSA"
+      },
+      {
+        "name": "SHEILA CRISTINA TOLENTINO BARBOSA"
+      },
+      {
+        "name": "SUYLAN DE ALMEIDA MIDLEJ E SILVA"
+      },
+      {
+        "name": "FABIO JACINTO BARRETO DE SOUZA"
+      },
+      {
+        "name": "MARCELLE GOMES FIGUEIRA"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE JORNALISMO/JOR",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CAROLINA KALUME MARANHAO"
+      },
+      {
+        "name": "CELIA KINUKO MATSUNAGA HIGAWA"
+      },
+      {
+        "name": "DAVID RENAULT DA SILVA"
+      },
+      {
+        "name": "DIONE OLIVEIRA MOURA"
+      },
+      {
+        "name": "FABIO HENRIQUE PEREIRA"
+      },
+      {
+        "name": "FERNANDA VASQUES FERREIRA"
+      },
+      {
+        "name": "FERNANDO OLIVEIRA PAULINO"
+      },
+      {
+        "name": "LILIANE MARIA MACEDO MACHADO"
+      },
+      {
+        "name": "LUIZ CLAUDIO MARTINO"
+      },
+      {
+        "name": "MARCIA MARQUES"
+      },
+      {
+        "name": "MARIA LETICIA RENAULT CARNEIRO DE ABREU E SOUZA"
+      },
+      {
+        "name": "PAULO JOSE ARAUJO DA CUNHA"
+      },
+      {
+        "name": "PAULO ROBERTO ASSIS PANIAGO"
+      },
+      {
+        "name": "RAFIZA LUZIANI VARAO RIBEIRO CARVALHO"
+      },
+      {
+        "name": "SERGIO ARAUJO DE SA"
+      },
+      {
+        "name": "SOLANO DOS SANTOS NASCIMENTO"
+      },
+      {
+        "name": "SUZANA GUEDES CARDOSO"
+      },
+      {
+        "name": "THAIS DE MENDONCA JORGE"
+      },
+      {
+        "name": "WLADIMIR GANZELEVITCH GRAMACHO"
+      },
+      {
+        "name": "ZANEI RAMOS BARCELLOS"
+      },
+      {
+        "name": "ANA GABRIELA GUERREIRO VIOLA DA SILVEIRA LEITE"
+      },
+      {
+        "name": "LAURO ALMEIDA DE MORAES"
+      },
+      {
+        "name": "VALMIR TEIXEIRA DE ARAUJO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE MATEMÁTICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADAIL DE CASTRO CAVALHEIRO"
+      },
+      {
+        "name": "ALBERTO MASAYOSHI FARIA OHASHI"
+      },
+      {
+        "name": "ALEX CARRAZEDO DANTAS"
+      },
+      {
+        "name": "ALEXEI KRASSILNIKOV"
+      },
+      {
+        "name": "ALINE GOMES DA SILVA PINTO"
+      },
+      {
+        "name": "ANDREA GENOVESE DE OLIVEIRA"
+      },
+      {
+        "name": "ANDRE CALDAS DE SOUZA"
+      },
+      {
+        "name": "ANGEL RODOLFO BAIGORRI"
+      },
+      {
+        "name": "ARY VASCONCELOS MEDINO"
+      },
+      {
+        "name": "BENEDITO LEANDRO NETO"
+      },
+      {
+        "name": "CARLOS ALBERTO PEREIRA DOS SANTOS"
+      },
+      {
+        "name": "CARLOS MABER CARRION RIVEROS"
+      },
+      {
+        "name": "CATIA REGINA GONCALVES"
+      },
+      {
+        "name": "CLAUS AKIRA MATSUSHIGUE"
+      },
+      {
+        "name": "CLEYTON HERCULES GONTIJO"
+      },
+      {
+        "name": "CRISTINA ACCIARRI"
+      },
+      {
+        "name": "DANIELA AMORIM AMATO"
+      },
+      {
+        "name": "DANIELE DA SILVA BARATELA MARTINS NETO"
+      },
+      {
+        "name": "DANIELE NANTES SOBRINHO"
+      },
+      {
+        "name": "DIEGO MARQUES FERREIRA"
+      },
+      {
+        "name": "EDUARDO ANTONIO DA SILVA"
+      },
+      {
+        "name": "EMERSON FERREIRA DE MELO"
+      },
+      {
+        "name": "FLAVIA FERREIRA RAMOS ZAPATA"
+      },
+      {
+        "name": "GIOVANY DE JESUS MALCHER FIGUEIREDO"
+      },
+      {
+        "name": "GUY GREBOT"
+      },
+      {
+        "name": "HEMAR TEIXEIRA GODINHO"
+      },
+      {
+        "name": "IGOR DOS SANTOS LIMA"
+      },
+      {
+        "name": "IRINA SVIRIDOVA"
+      },
+      {
+        "name": "JANETE SOARES DE GAMBOA"
+      },
+      {
+        "name": "JAQUELINE GODOY MESQUITA"
+      },
+      {
+        "name": "JIAZHENG ZHOU"
+      },
+      {
+        "name": "JOAO PAULO DOS SANTOS"
+      },
+      {
+        "name": "JOSE ANTONIO OLIVEIRA DE FREITAS"
+      },
+      {
+        "name": "JOSE LUIS TERUEL CARRETERO"
+      },
+      {
+        "name": "KELLCIO OLIVEIRA ARAUJO"
+      },
+      {
+        "name": "LEANDRO MARTINS CIOLETTI"
+      },
+      {
+        "name": "LILIANE DE ALMEIDA MAIA"
+      },
+      {
+        "name": "LINEU DA COSTA ARAUJO NETO"
+      },
+      {
+        "name": "LUCAS CONQUE SECO FERREIRA"
+      },
+      {
+        "name": "LUCIANA MARIA DIAS DE AVILA RODRIGUES"
+      },
+      {
+        "name": "LUIS HENRIQUE DE MIRANDA"
+      },
+      {
+        "name": "LUIS ROBERTO LUCINGER DE ALMEIDA"
+      },
+      {
+        "name": "MANUELA CAETANO MARTINS DE REZENDE"
+      },
+      {
+        "name": "MARCELO FERNANDES FURTADO"
+      },
+      {
+        "name": "MARCUS VINICIUS ARAUJO SOARES"
+      },
+      {
+        "name": "MARTINO GARONZI"
+      },
+      {
+        "name": "MAURO MORAES ALVES PATRAO"
+      },
+      {
+        "name": "MAYRA SOARES COSTA RODRIGUES"
+      },
+      {
+        "name": "MIRELSON MARTINS FREITAS"
+      },
+      {
+        "name": "NILTON MOURA BARROSO NETO"
+      },
+      {
+        "name": "NORAI ROMEU ROCCO"
+      },
+      {
+        "name": "PAULO HENRIQUE PEREIRA DA COSTA"
+      },
+      {
+        "name": "PAVEL SHUMYATSKY"
+      },
+      {
+        "name": "PAVEL ZALESSKI"
+      },
+      {
+        "name": "PEDRO ROITMAN"
+      },
+      {
+        "name": "RADERSON RODRIGUES DA SILVA"
+      },
+      {
+        "name": "RAIMUNDO DE ARAUJO BASTOS JUNIOR"
+      },
+      {
+        "name": "RAQUEL CARNEIRO DORR"
+      },
+      {
+        "name": "REGINA DA SILVA PINA NEVES"
+      },
+      {
+        "name": "RICARDO PARREIRA DA SILVA"
+      },
+      {
+        "name": "RUI SEIMETZ"
+      },
+      {
+        "name": "SHEILA CAMPOS CHAGAS"
+      },
+      {
+        "name": "SIMONE MAZZINI BRUSCHI"
+      },
+      {
+        "name": "TARCISIO CASTRO SILVA"
+      },
+      {
+        "name": "THEO ALLAN DARN ZAPATA"
+      },
+      {
+        "name": "VICTOR PETROGRADSKIY"
+      },
+      {
+        "name": "WANG QIAOLING"
+      },
+      {
+        "name": "WILLIAN CINTRA DA SILVA"
+      },
+      {
+        "name": "XIA CHANGYU"
+      },
+      {
+        "name": "YURI DUMARESQ SOBRAL"
+      },
+      {
+        "name": "MA TO FU"
+      },
+      {
+        "name": "MAURO LUIZ RABELO"
+      },
+      {
+        "name": "ALANCOC DOS SANTOS ALENCAR"
+      },
+      {
+        "name": "AYANE ADELINA DA SILVA"
+      },
+      {
+        "name": "HECTOR ANDRES ROSERO GARCIA"
+      },
+      {
+        "name": "JULIA AREDES DE ALMEIDA"
+      },
+      {
+        "name": "MATEUS FIGUEIREDO DE SOUZA"
+      },
+      {
+        "name": "NATHALIA NOGUEIRA GONCALVES"
+      },
+      {
+        "name": "YACKELIN ZULIBETH RODRIGUEZ LOPEZ"
+      },
+      {
+        "name": "ALEXANDRE EFIMOVICH ZALESSKI"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE MÉTODOS E TÉCNICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANDREA CRISTINA VERSUTI"
+      },
+      {
+        "name": "CLAUDIA GUILMAR LINHARES SANZ"
+      },
+      {
+        "name": "CRISTINA MARIA COSTA LEITE"
+      },
+      {
+        "name": "EDILEUZA FERNANDES DA SILVA"
+      },
+      {
+        "name": "EDVONETE SOUZA DE ALENCAR"
+      },
+      {
+        "name": "ETIENNE BALDEZ LOUZADA BARBOSA"
+      },
+      {
+        "name": "FERNANDA MULLER"
+      },
+      {
+        "name": "FRANCISCO THIAGO SILVA"
+      },
+      {
+        "name": "GERALDO EUSTAQUIO MOREIRA"
+      },
+      {
+        "name": "GILBERTO LACERDA DOS SANTOS"
+      },
+      {
+        "name": "HELIO JOSE SANTOS MAIA"
+      },
+      {
+        "name": "JOAO ROBERTO VIEIRA"
+      },
+      {
+        "name": "LILIANE CAMPOS MACHADO"
+      },
+      {
+        "name": "LYGIANNE BATISTA VIEIRA"
+      },
+      {
+        "name": "MARCELO FABIANO RODRIGUES PEREIRA"
+      },
+      {
+        "name": "MARIA CLARISSE VIEIRA"
+      },
+      {
+        "name": "MARIA EMILIA GONZAGA DE SOUZA"
+      },
+      {
+        "name": "MARIA LIDIA BUENO FERNANDES"
+      },
+      {
+        "name": "MONIQUE APARECIDA VOLTARELLI"
+      },
+      {
+        "name": "OTILIA MARIA ALVES DA NOBREGA ALBERTO DANTAS"
+      },
+      {
+        "name": "PATRICIA LIMA MARTINS PEDERIVA"
+      },
+      {
+        "name": "PAULA GOMES DE OLIVEIRA"
+      },
+      {
+        "name": "PAULA MARIA COBUCCI RIBEIRO DIAS"
+      },
+      {
+        "name": "PAULO HENRIQUE PEREIRA SILVA DE FELIPE"
+      },
+      {
+        "name": "RENATA SILVA ALMENDRA"
+      },
+      {
+        "name": "RENISIA CRISTINA GARCIA FILICE"
+      },
+      {
+        "name": "RITA SILVANA SANTANA DOS SANTOS"
+      },
+      {
+        "name": "RODRIGO MATOS DE SOUZA"
+      },
+      {
+        "name": "RONI IVAN ROCHA DE OLIVEIRA"
+      },
+      {
+        "name": "ROSANA CESAR DE ARRUDA FERNANDES"
+      },
+      {
+        "name": "SOLANGE ALVES DE OLIVEIRA MENDES"
+      },
+      {
+        "name": "TEL AMIEL"
+      },
+      {
+        "name": "VIVIANE FERNANDES FARIA PINTO"
+      },
+      {
+        "name": "ANA CLAUDIA VIEIRA BRAGA"
+      },
+      {
+        "name": "ELIAS BATISTA DOS SANTOS"
+      },
+      {
+        "name": "LEYVIJANE ALBUQUERQUE DE ARAUJO"
+      },
+      {
+        "name": "SHEYLA GOMES DE ALMEIDA"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA ALMEIDA SALES DE MELO"
+      },
+      {
+        "name": "ANA MARIA DE ALBUQUERQUE MOREIRA"
+      },
+      {
+        "name": "ANA SHEILA FERNANDES COSTA"
+      },
+      {
+        "name": "ANDREIA MELLO LACE"
+      },
+      {
+        "name": "CATARINA DE ALMEIDA SANTOS"
+      },
+      {
+        "name": "CRISTINA HELENA ALMEIDA DE CARVALHO"
+      },
+      {
+        "name": "DANIELLE XABREGAS PAMPLONA NOGUEIRA"
+      },
+      {
+        "name": "FLAVIO BEZERRA DE SOUSA"
+      },
+      {
+        "name": "GIRLENE RIBEIRO DE JESUS"
+      },
+      {
+        "name": "JANAINA ANGELINA TEIXEIRA"
+      },
+      {
+        "name": "JOSE VIEIRA DE SOUSA"
+      },
+      {
+        "name": "KATIA AUGUSTA CURADO PINHEIRO CORDEIRO DA SILVA"
+      },
+      {
+        "name": "MARIA ZELIA BORBA ROCHA"
+      },
+      {
+        "name": "NATHALIA CASSETTARI"
+      },
+      {
+        "name": "RAQUEL DE ALMEIDA MORAES"
+      },
+      {
+        "name": "REMI CASTIONI"
+      },
+      {
+        "name": "SHIRLEIDE PEREIRA DA SILVA CRUZ"
+      },
+      {
+        "name": "RAIMUNDO LUIZ SILVA ARAUJO"
+      },
+      {
+        "name": "IRACI PEREIRA DA SILVA"
+      },
+      {
+        "name": "ISABELLA DE ARAUJO GOELLNER"
+      },
+      {
+        "name": "MONICA APARECIDA SERAFIM CARDOSO"
+      },
+      {
+        "name": "SUELI MAMEDE LOBO FERREIRA"
+      },
+      {
+        "name": "ROSANA BATISTA MONTEIRO"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE PSICOLOGIA CLÍNICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADERSON LUIZ COSTA JUNIOR"
+      },
+      {
+        "name": "CARLA SABRINA XAVIER ANTLOGA"
+      },
+      {
+        "name": "CLAUDIA DE OLIVEIRA ALVES"
+      },
+      {
+        "name": "CRISTIANE FAIAD DE MOURA"
+      },
+      {
+        "name": "DANIELA SCHEINKMAN CHATELARD"
+      },
+      {
+        "name": "DEISE MATOS DO AMPARO"
+      },
+      {
+        "name": "ELIANA RIGOTTO LAZZARINI"
+      },
+      {
+        "name": "ELIANE MARIA FLEURY SEIDL"
+      },
+      {
+        "name": "ELIZABETH QUEIROZ"
+      },
+      {
+        "name": "ILENO IZIDIO DA COSTA"
+      },
+      {
+        "name": "KATIA CRISTINA TAROUQUELLA RODRIGUES BRASIL"
+      },
+      {
+        "name": "LARISSA POLEJACK BRAMBATTI"
+      },
+      {
+        "name": "MARCELO DA SILVA ARAUJO TAVARES"
+      },
+      {
+        "name": "MARCIA CRISTINA MAESSO"
+      },
+      {
+        "name": "MARINA KOHLSDORF"
+      },
+      {
+        "name": "MAURICIO DA SILVA NEUBERN"
+      },
+      {
+        "name": "PEDRO HENRIQUE ANTUNES DA COSTA"
+      },
+      {
+        "name": "SERGIO EDUARDO SILVA DE OLIVEIRA"
+      },
+      {
+        "name": "SHEILA GIARDINI MURTA"
+      },
+      {
+        "name": "SILVIA RENATA MAGALHAES LORDELLO BORBA SANTOS"
+      },
+      {
+        "name": "VALESKA MARIA ZANELLO DE LOYOLA"
+      },
+      {
+        "name": "FABIO IGLESIAS"
+      },
+      {
+        "name": "ANGELA HELENA MARIN"
+      },
+      {
+        "name": "ANA CLARA DE OLIVEIRA ALVES"
+      },
+      {
+        "name": "VALERIE JACQUELINE GANEM"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE SOCIOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CRISTINA MURTA COLLARES"
+      },
+      {
+        "name": "ANALIA LAURA SORIA BATISTA"
+      },
+      {
+        "name": "ARTHUR TRINDADE MARANHAO COSTA"
+      },
+      {
+        "name": "BERENICE ALVES DE MELO BENTO"
+      },
+      {
+        "name": "CHRISTIANE MACHADO COELHO"
+      },
+      {
+        "name": "DANIELA FELIX MARTINS KAWABE"
+      },
+      {
+        "name": "DEBORA MESSENBERG GUIMARAES"
+      },
+      {
+        "name": "EDSON SILVA DE FARIAS"
+      },
+      {
+        "name": "EDUARDO DIMITROV"
+      },
+      {
+        "name": "EMERSON FERREIRA ROCHA"
+      },
+      {
+        "name": "EURICO ANTONIO GONZALEZ CURSINO DOS SANTOS"
+      },
+      {
+        "name": "FABRICIO MONTEIRO NEVES"
+      },
+      {
+        "name": "HAYDEE GLORIA CRUZ CARUSO"
+      },
+      {
+        "name": "JACQUELINE MORAES TEIXEIRA"
+      },
+      {
+        "name": "JOAZE BERNARDINO COSTA"
+      },
+      {
+        "name": "MARCELO PINHEIRO CIGALES"
+      },
+      {
+        "name": "MARIZA VELOSO MOTTA SANTOS"
+      },
+      {
+        "name": "PAULO GRACINO DE SOUZA JUNIOR"
+      },
+      {
+        "name": "RICARDO COLTURATO FESTI"
+      },
+      {
+        "name": "SAYONARA DE AMORIM GONCALVES LEAL"
+      },
+      {
+        "name": "SERGIO BARREIRA DE FARIA TAVOLARO"
+      },
+      {
+        "name": "STEFAN FORNOS KLEIN"
+      },
+      {
+        "name": "TANIA MARA CAMPOS DE ALMEIDA"
+      },
+      {
+        "name": "TANIA MARA PASSARELLI TONHATI"
+      },
+      {
+        "name": "TIAGO RIBEIRO DUARTE"
+      },
+      {
+        "name": "LAYLA DANIELE PEDREIRA DE CARVALHO"
+      },
+      {
+        "name": "GABRIELA BORGES ANTUNES"
+      },
+      {
+        "name": "LARISSA CRISTINA DE SOUSA FERRO"
+      },
+      {
+        "name": "SAMUEL SILVA DA FONSECA BORGES"
+      },
+      {
+        "name": "TABATA BERG"
+      },
+      {
+        "name": "TATIANE DOS SANTOS DUARTE"
+      },
+      {
+        "name": "THOMAS EDSON DE JESUS THEODORO AMORIM"
+      }
+    ]
   },
   {
     "department": "DEPARTAMENTO DE TEORIA E FUNDAMENTOS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALESSANDRO ROBERTO DE OLIVEIRA"
+      },
+      {
+        "name": "ALIA MARIA BARRIOS GONZALEZ"
+      },
+      {
+        "name": "ANA TEREZA REIS DA SILVA"
+      },
+      {
+        "name": "BENEDETTA BISOL"
+      },
+      {
+        "name": "BERNARDO KIPNIS"
+      },
+      {
+        "name": "CAETANA JURACY REZENDE SILVA"
+      },
+      {
+        "name": "CANDIDA BEATRIZ ALVES"
+      },
+      {
+        "name": "CARLOS ALBERTO LOPES DE SOUSA"
+      },
+      {
+        "name": "CAROLINE BAHNIUK"
+      },
+      {
+        "name": "CATIA PICCOLO VIERO DEVECHI"
+      },
+      {
+        "name": "CLAUDIA MARCIA LYRA PATO"
+      },
+      {
+        "name": "CRISTINA MASSOT MADEIRA COELHO"
+      },
+      {
+        "name": "DANIEL MAGALHAES GOULART"
+      },
+      {
+        "name": "EDEILCE APARECIDA SANTOS BUZAR"
+      },
+      {
+        "name": "EDUARDO DI DEUS"
+      },
+      {
+        "name": "ERLANDO DA SILVA RESES"
+      },
+      {
+        "name": "FATIMA LUCILIA VIDAL RODRIGUES"
+      },
+      {
+        "name": "FERNANDO BOMFIM MARIANA"
+      },
+      {
+        "name": "FRANCISCO JOSE RENGIFO HERRERA"
+      },
+      {
+        "name": "JOSE ZUCHIWSCHI"
+      },
+      {
+        "name": "JUAREZ JOSE TUCHINSKI DOS ANJOS"
+      },
+      {
+        "name": "LIEGE GEMELLI KUCHENBECKER"
+      },
+      {
+        "name": "LUCIANA DE MELLO GOMIDE"
+      },
+      {
+        "name": "MARIA ABADIA DA SILVA"
+      },
+      {
+        "name": "MARIA DA CONCEICAO DA SILVA FREITAS"
+      },
+      {
+        "name": "PAULO SERGIO DE ANDRADE BAREICHA"
+      },
+      {
+        "name": "RAINRI BACK DOS SANTOS"
+      },
+      {
+        "name": "ROSANGELA AZEVEDO CORREA"
+      },
+      {
+        "name": "SANDRA FERRAZ DE CASTILLO DOURADO FREIRE"
+      },
+      {
+        "name": "SILMARA CARINA DORNELAS MUNHOZ"
+      },
+      {
+        "name": "SILVIA ESTER ORRU"
+      },
+      {
+        "name": "SIMONE APARECIDA LISNIOWSKI"
+      },
+      {
+        "name": "SINARA POLLOM ZARDO"
+      },
+      {
+        "name": "TATIANA YOKOY DE SOUZA"
+      },
+      {
+        "name": "VIVIANE NEVES LEGNANI"
+      },
+      {
+        "name": "WIVIAN JANY WELLER"
+      },
+      {
+        "name": "ADRIANA MATOS RODRIGUES PEREIRA"
+      },
+      {
+        "name": "MARCIA FRANCISCA DIOGO RODRIGUES"
+      },
+      {
+        "name": "RAPHAELLA CHRISTINE SOUZA CALDAS"
+      },
+      {
+        "name": "WALISON VASCONCELOS PASCOAL"
+      },
+      {
+        "name": "WANDERSON BARBOSA DOS SANTOS"
+      },
+      {
+        "name": "WILDER SILVA DE SOUZA"
+      }
+    ]
   },
   {
     "department": "DEPTO ADMINISTRAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADALMIR DE OLIVEIRA GOMES"
+      },
+      {
+        "name": "ALDERY SILVEIRA JUNIOR"
+      },
+      {
+        "name": "ALEXANDRE MADURO DE ABREU"
+      },
+      {
+        "name": "ANTONIO ISIDRO DA SILVA FILHO"
+      },
+      {
+        "name": "ANTONIO NASCIMENTO JUNIOR"
+      },
+      {
+        "name": "BRUNO EDUARDO FREITAS HONORATO"
+      },
+      {
+        "name": "CARLA PEIXOTO BORGES"
+      },
+      {
+        "name": "CARLOS ANDRE DE MELO ALVES"
+      },
+      {
+        "name": "CARLOS DENNER DOS SANTOS JUNIOR"
+      },
+      {
+        "name": "CARLOS HENRIQUE MARQUES DA ROCHA"
+      },
+      {
+        "name": "CARLOS ROSANO PENA"
+      },
+      {
+        "name": "CECILIO ELIAS DAHER"
+      },
+      {
+        "name": "DANIELLE SANDI PINHEIRO"
+      },
+      {
+        "name": "DEBORA DORNELES BAREM"
+      },
+      {
+        "name": "DIEGO MOTA VIEIRA"
+      },
+      {
+        "name": "DORIANA DAROIT"
+      },
+      {
+        "name": "ELUIZA ALBERTO DE MORAIS WATANABE"
+      },
+      {
+        "name": "EMMANUEL SOUSA DE ABREU"
+      },
+      {
+        "name": "FABRICIO OLIVEIRA LEITAO"
+      },
+      {
+        "name": "FRANCISCO ANTONIO COELHO JUNIOR"
+      },
+      {
+        "name": "GISELA DEMO FIUZA"
+      },
+      {
+        "name": "HELENA ARAUJO COSTA"
+      },
+      {
+        "name": "HERBERT KIMURA"
+      },
+      {
+        "name": "IVAN RICARDO GARTNER"
+      },
+      {
+        "name": "JOSE CARNEIRO DA CUNHA OLIVEIRA NETO"
+      },
+      {
+        "name": "JOSIVANIA SILVA FARIAS"
+      },
+      {
+        "name": "KARIM MARINI THOME"
+      },
+      {
+        "name": "LEONARDO SILVEIRA CONKE"
+      },
+      {
+        "name": "LUCIANO ROSSONI"
+      },
+      {
+        "name": "MARCOS ALBERTO DANTAS"
+      },
+      {
+        "name": "MARCUS VINICIUS SOARES SIQUEIRA"
+      },
+      {
+        "name": "MARIA AMELIA DE PAULA DIAS"
+      },
+      {
+        "name": "MARINA FIGUEIREDO MOREIRA"
+      },
+      {
+        "name": "OLINDA MARIA GOMES LESSES"
+      },
+      {
+        "name": "PATRICIA GUARNIERI DOS SANTOS"
+      },
+      {
+        "name": "PAULO HENRIQUE DE SOUZA BERMEJO"
+      },
+      {
+        "name": "PEDRO HENRIQUE MELO ALBUQUERQUE"
+      },
+      {
+        "name": "PEDRO PAULO MURCE MENEZES CAVALCANTE"
+      },
+      {
+        "name": "PEDRO ROBSON PEREIRA NEIVA"
+      },
+      {
+        "name": "RAFAEL BARREIROS PORTO"
+      },
+      {
+        "name": "RAFAEL RABELO NUNES"
+      },
+      {
+        "name": "RILDO RIBEIRO DOS SANTOS"
+      },
+      {
+        "name": "RODRIGO REZENDE FERREIRA"
+      },
+      {
+        "name": "ROQUE MAGNO DE OLIVEIRA"
+      },
+      {
+        "name": "SIEGRID GUILLAUMON DECHANDT"
+      },
+      {
+        "name": "SILVIA ARAUJO DOS REIS"
+      },
+      {
+        "name": "SOLANGE ALFINITO"
+      },
+      {
+        "name": "TATIANE PASCHOAL"
+      },
+      {
+        "name": "TOMAS DE AQUINO GUIMARAES"
+      },
+      {
+        "name": "VANESSA CABRAL GOMES"
+      },
+      {
+        "name": "VICTOR RAFAEL REZENDE CELESTINO"
+      },
+      {
+        "name": "VINICIUS AMORIM SOBREIRO"
+      },
+      {
+        "name": "CAIO CESAR DE MEDEIROS COSTA"
+      },
+      {
+        "name": "ANA CAROLINA FERREIRA DE SIQUEIRA"
+      },
+      {
+        "name": "JORGE LUIS TRIANA RIVEROS"
+      },
+      {
+        "name": "MAIRA ROCHA SANTOS"
+      },
+      {
+        "name": "NATASHA FOGACA"
+      },
+      {
+        "name": "RENATO CALHAU CODA"
+      },
+      {
+        "name": "LETICIA DIAS FANTINEL"
+      }
+    ]
   },
   {
     "department": "DEPTO ANTROPOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANDREA DE SOUZA LOBO"
+      },
+      {
+        "name": "CARLA COSTA TEIXEIRA"
+      },
+      {
+        "name": "CARLOS ALEXANDRE BARBOZA PLINIO DOS SANTOS"
+      },
+      {
+        "name": "CARLOS EMANUEL MANZOLILLO SAUTCHUK"
+      },
+      {
+        "name": "CHRISTINE DE ALENCAR CHAVES"
+      },
+      {
+        "name": "CRISTINA PATRIOTA DE MOURA"
+      },
+      {
+        "name": "DANIEL SCHROETER SIMIAO"
+      },
+      {
+        "name": "GERSEM JOSE DOS SANTOS LUCIANO"
+      },
+      {
+        "name": "GUILHERME JOSE DA SILVA E SA"
+      },
+      {
+        "name": "HENYO TRINDADE BARRETTO FILHO"
+      },
+      {
+        "name": "JOAO MIGUEL MANZOLILLO SAUTCHUK"
+      },
+      {
+        "name": "JOSE ANTONIO VIEIRA PIMENTA"
+      },
+      {
+        "name": "JOSE JORGE DE CARVALHO"
+      },
+      {
+        "name": "JULIANA BRAZ DIAS"
+      },
+      {
+        "name": "KELLY CRISTIANE DA SILVA"
+      },
+      {
+        "name": "LUIS ABRAHAM CAYON DURAN"
+      },
+      {
+        "name": "LUIS ROBERTO CARDOSO DE OLIVEIRA"
+      },
+      {
+        "name": "LUIZ EDUARDO DE LACERDA ABREU"
+      },
+      {
+        "name": "MARCELA STOCKLER COELHO DE SOUZA"
+      },
+      {
+        "name": "SILVIA MARIA FERREIRA GUIMARAES"
+      },
+      {
+        "name": "SORAYA RESENDE FLEISCHER"
+      },
+      {
+        "name": "WILSON TRAJANO FILHO"
+      },
+      {
+        "name": "ANDRE FILIPE JUSTINO DE MORAIS"
+      },
+      {
+        "name": "ENRICO SPAGGIARI"
+      },
+      {
+        "name": "LUCIANA DOS SANTOS"
+      },
+      {
+        "name": "PATRICIA TRINDADE MARANHAO COSTA"
+      },
+      {
+        "name": "JULIA OTERO DOS SANTOS"
+      }
+    ]
   },
   {
     "department": "DEPTO ARTES CÊNICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALICE STEFANIA CURI"
+      },
+      {
+        "name": "ALISSON ARAUJO DE ALMEIDA"
+      },
+      {
+        "name": "ANA CRISTINA FILGUEIRA GALVAO"
+      },
+      {
+        "name": "ANGELA BARCELLOS COELHO CAFE"
+      },
+      {
+        "name": "CECILIA DE ALMEIDA BORGES"
+      },
+      {
+        "name": "CESAR LIGNELLI"
+      },
+      {
+        "name": "CYNTIA CARLA CUNHA SANTOS"
+      },
+      {
+        "name": "ERICO JOSE SOUZA DE OLIVEIRA"
+      },
+      {
+        "name": "FABIANA MARRONI DELLA GIUSTINA"
+      },
+      {
+        "name": "FELICIA JOHANSSON CARNEIRO"
+      },
+      {
+        "name": "FERNANDO ANTONIO PINHEIRO VILLAR DE QUEIROZ"
+      },
+      {
+        "name": "GISELLE RODRIGUES DE BRITO"
+      },
+      {
+        "name": "IAIN DAVID MOTT"
+      },
+      {
+        "name": "JENNIFER JACOMINI DE JESUS"
+      },
+      {
+        "name": "JONAS DE LIMA SALES"
+      },
+      {
+        "name": "JORGE DAS GRACAS VELOSO"
+      },
+      {
+        "name": "JOSE FERNANDO MARQUES DE FREITAS FILHO"
+      },
+      {
+        "name": "JOSE JACKSON SILVA"
+      },
+      {
+        "name": "JULIA GUIMARAES MENDES"
+      },
+      {
+        "name": "KENIA E SILVA DIAS"
+      },
+      {
+        "name": "LUCIANA DA COSTA DIAS"
+      },
+      {
+        "name": "LUCIANA HARTMANN"
+      },
+      {
+        "name": "NITZA TENENBLAT"
+      },
+      {
+        "name": "RITA DE CASSIA DE ALMEIDA CASTRO"
+      },
+      {
+        "name": "SIMONE SILVA REIS MOTT"
+      },
+      {
+        "name": "SONIA MARIA CALDEIRA PAIVA"
+      },
+      {
+        "name": "SULIAN VIEIRA PACHECO"
+      },
+      {
+        "name": "TIAGO ELIAS MUNDIM"
+      },
+      {
+        "name": "FRANCIANE SALGADO DE PAULA"
+      },
+      {
+        "name": "SAULO SILVA MOREIRA"
+      }
+    ]
   },
   {
     "department": "DEPTO ARTES VISUAIS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA MATTOS CLEN MACEDO"
+      },
+      {
+        "name": "ANA CANDIDA FRANCESCHINI DE AVELAR FERNANDES"
+      },
+      {
+        "name": "ANA PAULA APARECIDA CAIXETA"
+      },
+      {
+        "name": "ANDREA CAMPOS DE SA"
+      },
+      {
+        "name": "ANGELA PRADA DE ALMEIDA"
+      },
+      {
+        "name": "ATILA RIBEIRO DE SOUSA REGIANI"
+      },
+      {
+        "name": "BEATRIZ MORGADO DE QUEIROZ"
+      },
+      {
+        "name": "BELIDSON DIAS BEZERRA JUNIOR"
+      },
+      {
+        "name": "BIAGIO D ANGELO"
+      },
+      {
+        "name": "CAYO VINICIUS HONORATO DA SILVA"
+      },
+      {
+        "name": "CECILIA MORI CRUZ"
+      },
+      {
+        "name": "CESAR AUGUSTO FLORES BECKER"
+      },
+      {
+        "name": "CHRISTUS MENEZES DA NOBREGA"
+      },
+      {
+        "name": "CINARA BARBOSA DE SOUSA"
+      },
+      {
+        "name": "CRISTINA ANTONIOEVNA DUNAEVA"
+      },
+      {
+        "name": "CRISTINA AZRA BARRENECHEA"
+      },
+      {
+        "name": "DANIEL FERNANDES BATISTA DE OLIVEIRA"
+      },
+      {
+        "name": "DENISE CONCEICAO FERRAZ DE CAMARGO"
+      },
+      {
+        "name": "EDUARDO LUSTOSA BELGA"
+      },
+      {
+        "name": "ELDER ROCHA LIMA FILHO"
+      },
+      {
+        "name": "ELYESER SZTURM"
+      },
+      {
+        "name": "EMERSON DIONISIO GOMES DE OLIVEIRA"
+      },
+      {
+        "name": "GERALDO ORTHOF PEREIRA LIMA"
+      },
+      {
+        "name": "GREGORIO SOARES RODRIGUES DE OLIVEIRA"
+      },
+      {
+        "name": "GUSTAVO LOPES DE SOUZA"
+      },
+      {
+        "name": "KARINA E SILVA DIAS"
+      },
+      {
+        "name": "LISA MINARI HARGREAVES"
+      },
+      {
+        "name": "LUISA DE ARAUJO GUNTHER"
+      },
+      {
+        "name": "LUIZ CARLOS PINHEIRO FERREIRA"
+      },
+      {
+        "name": "LUIZ GALLINA NETO"
+      },
+      {
+        "name": "MARCELO MARI"
+      },
+      {
+        "name": "MARIA DEL ROSARIO TATIANA FERNANDEZ MENDEZ"
+      },
+      {
+        "name": "MARIA DO CARMO COUTO DA SILVA"
+      },
+      {
+        "name": "MIGUEL SIMAO DA COSTA"
+      },
+      {
+        "name": "NELSON FERNANDO INOCENCIO DA SILVA"
+      },
+      {
+        "name": "NIVALDA ASSUNCAO DE ARAUJO"
+      },
+      {
+        "name": "PEDRO DE ANDRADE ALVIM"
+      },
+      {
+        "name": "PEDRO ERNESTO FREITAS LIMA"
+      },
+      {
+        "name": "RODRIGO DE ALMEIDA CRUZ"
+      },
+      {
+        "name": "ROSANA ANDREA COSTA DE CASTRO"
+      },
+      {
+        "name": "RUTH MOREIRA DE SOUSA REGIANI"
+      },
+      {
+        "name": "TERESA CRISTINA JARDIM DE SANTA CRUZ OLIVEIRA"
+      },
+      {
+        "name": "THERESE HOFMANN GATTI RODRIGUES DA COSTA"
+      },
+      {
+        "name": "VERA MARISA PUGLIESE DE CASTRO"
+      },
+      {
+        "name": "VICENTE CARLOS MARTINEZ BARRIOS"
+      },
+      {
+        "name": "GUILHERME MOREIRA SANTOS"
+      },
+      {
+        "name": "JULIA MAASS"
+      },
+      {
+        "name": "KRISHNA FIGUEIREDO PASSOS"
+      },
+      {
+        "name": "LEVI APRIGLIANO ORTHOF"
+      },
+      {
+        "name": "MATEUS ALVES SILVA"
+      },
+      {
+        "name": "EDNA REZENDE SILVEIRA DE ALCANTARA"
+      }
+    ]
   },
   {
     "department": "DEPTO BIOLOGIA CELULAR",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA FLAVIA ALVES PARENTE"
+      },
+      {
+        "name": "ANAMELIA LORENZETTI BOCCA"
+      },
+      {
+        "name": "ANDREA QUEIROZ MARANHAO"
+      },
+      {
+        "name": "ANTONIO FRANCISCO PEREIRA DE ARAUJO"
+      },
+      {
+        "name": "BERGMANN MORAIS RIBEIRO"
+      },
+      {
+        "name": "BRUNA FUGA ARAUJO"
+      },
+      {
+        "name": "CARLOS ANDRE ORNELAS RICART"
+      },
+      {
+        "name": "CECILIA BEATRIZ FIUZA FAVALI"
+      },
+      {
+        "name": "CONSUELO MEDEIROS RODRIGUES DE LIMA"
+      },
+      {
+        "name": "CYNTHIA MARIA KYAW"
+      },
+      {
+        "name": "DANIEL MENDES PEREIRA ARDISSON DE ARAUJO"
+      },
+      {
+        "name": "EDIVALDO XIMENES FERREIRA FILHO"
+      },
+      {
+        "name": "ELIANE FERREIRA NORONHA"
+      },
+      {
+        "name": "ELIDA GERALDA CAMPOS"
+      },
+      {
+        "name": "FERNANDO ARARIPE GONCALVES TORRES"
+      },
+      {
+        "name": "FERNANDO FORTES DE VALENCIA"
+      },
+      {
+        "name": "GABRIEL SERGIO COSTA ALVES"
+      },
+      {
+        "name": "GEORGIOS JOANNIS PAPPAS JUNIOR"
+      },
+      {
+        "name": "ILDINETE SILVA PEREIRA"
+      },
+      {
+        "name": "IZABELA MARQUES DOURADO BASTOS CHARNEAU"
+      },
+      {
+        "name": "JAIME MARTINS DE SANTANA"
+      },
+      {
+        "name": "JOAO ALEXANDRE RIBEIRO GONCALVES BARBOSA"
+      },
+      {
+        "name": "JOSE RAIMUNDO CORREA"
+      },
+      {
+        "name": "KELLY GRACE MAGALHAES"
+      },
+      {
+        "name": "LIDIA MARIA PEPE DE MORAES"
+      },
+      {
+        "name": "LUIS HENRIQUE FERREIRA DO VALE"
+      },
+      {
+        "name": "MARCELO DE MACEDO BRIGIDO"
+      },
+      {
+        "name": "MARCELO HERMES LIMA"
+      },
+      {
+        "name": "MARCELO VALLE DE SOUSA"
+      },
+      {
+        "name": "MARLENE TEIXEIRA DE SOUZA"
+      },
+      {
+        "name": "NAPOLEAO FONSECA VALADARES"
+      },
+      {
+        "name": "RICARDO HENRIQUE KRUGER"
+      },
+      {
+        "name": "ROBERT NEIL GERARD MILLER"
+      },
+      {
+        "name": "SEBASTIEN OLIVIER CHARNEAU"
+      },
+      {
+        "name": "SONIA MARIA DE FREITAS"
+      },
+      {
+        "name": "SONIA NAIR BAO"
+      },
+      {
+        "name": "TALITA SOUZA CARMO"
+      },
+      {
+        "name": "TATIANA AMABILE DE CAMPOS"
+      },
+      {
+        "name": "TATSUYA NAGATA"
+      },
+      {
+        "name": "VICENTE DE PAULO MARTINS"
+      },
+      {
+        "name": "WAGNER FONTES"
+      },
+      {
+        "name": "WERNER LEOPOLDO TREPTOW"
+      },
+      {
+        "name": "CRISTINA CASTRO LUCAS DE SOUZA"
+      },
+      {
+        "name": "GEOVANI DE OLIVEIRA RIBEIRO"
+      },
+      {
+        "name": "LEONARDO ASSIS DA SILVA"
+      },
+      {
+        "name": "MICHELINE KEZIA CORDEIRO DE ARAUJO"
+      },
+      {
+        "name": "JULIANA FRANCO ALMEIDA"
+      },
+      {
+        "name": "LUIS CARLOS GUIMARAES"
+      },
+      {
+        "name": "MARCIA CRISTINA GONCALVES MACIEL"
+      }
+    ]
   },
   {
     "department": "DEPTO BOTÂNICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AUGUSTO CESAR FRANCO"
+      },
+      {
+        "name": "CAROLINE OLIVEIRA ANDRINO"
+      },
+      {
+        "name": "CASSIA BEATRIZ RODRIGUES MUNHOZ"
+      },
+      {
+        "name": "CRISTIANE DA SILVA FERREIRA"
+      },
+      {
+        "name": "FABIAN BORGHETTI"
+      },
+      {
+        "name": "IGOR BALLEGO CAMPOS"
+      },
+      {
+        "name": "JULIA SONSIN OLIVEIRA"
+      },
+      {
+        "name": "LUCIO FLAVIO DE ALENCAR FIGUEIREDO"
+      },
+      {
+        "name": "LUIZ ALFREDO RODRIGUES PEREIRA"
+      },
+      {
+        "name": "MARIA DAS GRACAS MACHADO DE SOUZA"
+      },
+      {
+        "name": "MICHELINE CARVALHO SILVA"
+      },
+      {
+        "name": "PAULO EDUARDO AGUIAR SARAIVA CAMARA"
+      },
+      {
+        "name": "REGINA CELIA DE OLIVEIRA"
+      },
+      {
+        "name": "SARAH CHRISTINA CALDAS OLIVEIRA"
+      },
+      {
+        "name": "SUELI MARIA GOMES"
+      },
+      {
+        "name": "THIAGO JOSE DE CARVALHO ANDRE"
+      },
+      {
+        "name": "THOMAS CHRISTOPHER RHYS WILLIAMS"
+      },
+      {
+        "name": "SERGIO ARAUJO FIGUEIREDO"
+      }
+    ]
   },
   {
     "department": "DEPTO CIÊNCIAS CONTÁBEIS ATUARIAIS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ABIMAEL DE JESUS BARROS COSTA"
+      },
+      {
+        "name": "ALEX LAQUIS RESENDE"
+      },
+      {
+        "name": "ANDREA DE OLIVEIRA GONCALVES"
+      },
+      {
+        "name": "ANTONIO CARLOS DOS SANTOS"
+      },
+      {
+        "name": "BEATRIZ FATIMA MORGAN"
+      },
+      {
+        "name": "BRUNO VINICIUS RAMOS FERNANDES"
+      },
+      {
+        "name": "CESAR AUGUSTO TIBURCIO SILVA"
+      },
+      {
+        "name": "CLAUDIO MOREIRA SANTANA"
+      },
+      {
+        "name": "CLESIA CAMILO PEREIRA"
+      },
+      {
+        "name": "DANIELLE MONTENEGRO SALAMONE NUNES"
+      },
+      {
+        "name": "DIANA VAZ DE LIMA"
+      },
+      {
+        "name": "DUCINELI REGIS BOTELHO"
+      },
+      {
+        "name": "EDMILSON SOARES CAMPOS"
+      },
+      {
+        "name": "EDUARDO BONA SAFE DE MATOS"
+      },
+      {
+        "name": "EDUARDO TADEU VIEIRA"
+      },
+      {
+        "name": "ELIVANIO GERALDO DE ANDRADE"
+      },
+      {
+        "name": "FATIMA DE SOUZA FREIRE"
+      },
+      {
+        "name": "FERNANDA FERNANDES RODRIGUES"
+      },
+      {
+        "name": "FERNANDA JAQUELINE LOPES"
+      },
+      {
+        "name": "FRANCISCA APARECIDA DE SOUZA"
+      },
+      {
+        "name": "HELDER KIYOSHI KASHIWAKURA"
+      },
+      {
+        "name": "JOMAR MIRANDA RODRIGUES"
+      },
+      {
+        "name": "JORGE KATSUMI NIYAMA"
+      },
+      {
+        "name": "JOSE ALVES DANTAS"
+      },
+      {
+        "name": "JOSE HUMBERTO DA CRUZ CUNHA"
+      },
+      {
+        "name": "JOSE LUCIO TOZETTI FERNANDES"
+      },
+      {
+        "name": "JOSE MARILSON MARTINS DANTAS"
+      },
+      {
+        "name": "KRISLEY MENDES"
+      },
+      {
+        "name": "LORENA ALMEIDA CAMPOS"
+      },
+      {
+        "name": "LUCAS OLIVEIRA GOMES FERREIRA"
+      },
+      {
+        "name": "LUDMILA DE MELO SOUZA"
+      },
+      {
+        "name": "MARCELO DRIEMEYER WILBERT"
+      },
+      {
+        "name": "MAYLA CRISTINA COSTA MARONI SARAIVA"
+      },
+      {
+        "name": "PAULO AUGUSTO PETTENUZZO DE BRITTO"
+      },
+      {
+        "name": "PAULO CESAR DE MELO MENDES"
+      },
+      {
+        "name": "PAULO ROBERTO BARBOSA LUSTOSA"
+      },
+      {
+        "name": "RILDO E SILVA"
+      },
+      {
+        "name": "RODRIGO DE SOUZA GONCALVES"
+      },
+      {
+        "name": "SERGIO RICARDO MIRANDA NAZARE"
+      },
+      {
+        "name": "WAGNER RODRIGUES DOS SANTOS"
+      },
+      {
+        "name": "ALINIE ROCHA MENDES"
+      },
+      {
+        "name": "FILIPE BRESSANELLI AZEVEDO"
+      },
+      {
+        "name": "JOYCE SOUZA LEMES"
+      },
+      {
+        "name": "LILIAN MENDES FIGUEIREDO"
+      },
+      {
+        "name": "MATHEUS HENRIQUE BASTOS LEITE"
+      }
+    ]
   },
   {
     "department": "DEPTO CIÊNCIAS DA COMPUTAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALBA CRISTINA MAGALHAES ALVES DE MELO"
+      },
+      {
+        "name": "ALETEIA PATRICIA FAVACHO DE ARAUJO VON PAUMGARTTEN"
+      },
+      {
+        "name": "ANDRE COSTA DRUMMOND"
+      },
+      {
+        "name": "BRUNO LUIGGI MACCHIAVELLO ESPINOZA"
+      },
+      {
+        "name": "CAMILO CHANG DOREA"
+      },
+      {
+        "name": "CARLA DENISE CASTANHO"
+      },
+      {
+        "name": "CARLA MARIA CHAGAS E CAVALCANTE KOIKE"
+      },
+      {
+        "name": "CLAUDIA NALON"
+      },
+      {
+        "name": "DANIEL DE PAULA PORTO"
+      },
+      {
+        "name": "DIBIO LEANDRO BORGES"
+      },
+      {
+        "name": "EDISON ISHIKAWA"
+      },
+      {
+        "name": "EDNA DIAS CANEDO"
+      },
+      {
+        "name": "EDUARDO ADILIO PELINSON ALCHIERI"
+      },
+      {
+        "name": "FERNANDA LIMA"
+      },
+      {
+        "name": "FERNANDO ANTONIO DE ARAUJO CHACON DE ALBUQUERQUE"
+      },
+      {
+        "name": "FLAVIO DE BARROS VIDAL"
+      },
+      {
+        "name": "FLAVIO LEONARDO CAVALCANTI DE MOURA"
+      },
+      {
+        "name": "GENAINA NUNES RODRIGUES"
+      },
+      {
+        "name": "GERMANA MENEZES DA NOBREGA"
+      },
+      {
+        "name": "GUILHERME NOVAES RAMOS"
+      },
+      {
+        "name": "JACIR LUIZ BORDIM"
+      },
+      {
+        "name": "JAN MENDONCA CORREA"
+      },
+      {
+        "name": "JONATHAN ROSA MOREIRA"
+      },
+      {
+        "name": "JORGE CARLOS LUCERO"
+      },
+      {
+        "name": "JORGE HENRIQUE CABRAL FERNANDES"
+      },
+      {
+        "name": "LETICIA LOPES LEITE"
+      },
+      {
+        "name": "LI WEIGANG"
+      },
+      {
+        "name": "LUIS PAULO FAINA GARCIA"
+      },
+      {
+        "name": "MARCELO ANTONIO MAROTTA"
+      },
+      {
+        "name": "MARCELO GRANDI MANDELLI"
+      },
+      {
+        "name": "MARCELO LADEIRA"
+      },
+      {
+        "name": "MARCOS FAGUNDES CAETANO"
+      },
+      {
+        "name": "MARCUS VINICIUS LAMAR"
+      },
+      {
+        "name": "MARIA DE FATIMA RAMOS BRANDAO"
+      },
+      {
+        "name": "MARIA EMILIA MACHADO TELLES WALTER"
+      },
+      {
+        "name": "MARISTELA TERTO DE HOLANDA"
+      },
+      {
+        "name": "MAURICIO AYALA RINCON"
+      },
+      {
+        "name": "MURILO SILVA DE CAMARGO"
+      },
+      {
+        "name": "PEDRO GARCIA FREITAS"
+      },
+      {
+        "name": "PRISCILA AMERICA SOLIS MENDEZ BARRETO"
+      },
+      {
+        "name": "RICARDO LOPES DE QUEIROZ"
+      },
+      {
+        "name": "RICARDO PEZZUOL JACOBI"
+      },
+      {
+        "name": "ROBERTA BARBOSA OLIVEIRA"
+      },
+      {
+        "name": "RODRIGO BONIFACIO DE ALMEIDA"
+      },
+      {
+        "name": "TEOFILO EMIDIO DE CAMPOS"
+      },
+      {
+        "name": "THIAGO DE PAULO FALEIROS"
+      },
+      {
+        "name": "VANDER RAMOS ALVES"
+      },
+      {
+        "name": "VINICIUS RUELA PEREIRA BORGES"
+      },
+      {
+        "name": "WILSON HENRIQUE VENEZIANO"
+      },
+      {
+        "name": "ALEXANDRE SILVA DOS SANTOS"
+      },
+      {
+        "name": "AURELIO RIBEIRO COSTA"
+      },
+      {
+        "name": "LORENA DE SOUZA BEZERRA BORGES"
+      },
+      {
+        "name": "ROBERTO LUIS ROSELLO VALERA"
+      }
+    ]
   },
   {
     "department": "DEPTO CIÊNCIAS FISIOLÓGICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANGELE DOS REIS MARTINS"
+      },
+      {
+        "name": "CAROLINA MADEIRA LUCCI"
+      },
+      {
+        "name": "ELISABETH NOGUEIRA FERRONI"
+      },
+      {
+        "name": "FABIO VIEGAS CAIXETA"
+      },
+      {
+        "name": "FERNANDA PAULINI"
+      },
+      {
+        "name": "JAIR TRAPE GOULART"
+      },
+      {
+        "name": "JULIA KLACZKO"
+      },
+      {
+        "name": "MARCIA RENATA MORTARI"
+      },
+      {
+        "name": "MARIANA DE SOUZA CASTRO"
+      },
+      {
+        "name": "OSMINDO RODRIGUES PIRES JUNIOR"
+      },
+      {
+        "name": "RAFAEL PLAKOUDI SOUTO MAIOR"
+      },
+      {
+        "name": "RENATO JOSE RODRIGUES MALCHER LOPES"
+      },
+      {
+        "name": "LYSLEINE ALVES DE DEUS"
+      },
+      {
+        "name": "RAFAEL BARRERA SALGUEIRO"
+      }
+    ]
   },
   {
     "department": "DEPTO CIÊNCIAS INFORMAÇÃO DOCUMENTAÇÃO",
@@ -133,51 +2633,1296 @@
   },
   {
     "department": "DEPTO ECOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANDRE DE ALMEIDA CUNHA"
+      },
+      {
+        "name": "ANDRE FARIA MENDONCA"
+      },
+      {
+        "name": "CARLOS AUGUSTO KLINK"
+      },
+      {
+        "name": "CARLOS HENKE DE OLIVEIRA"
+      },
+      {
+        "name": "CARLOS HIROO SAITO"
+      },
+      {
+        "name": "CLAUDIA PADOVESI FONSECA"
+      },
+      {
+        "name": "EMERSON MONTEIRO VIEIRA"
+      },
+      {
+        "name": "FERNANDA VIEIRA DA COSTA"
+      },
+      {
+        "name": "GABRIELA BIELEFELD NARDOTTO"
+      },
+      {
+        "name": "HELOISA SINATORA MIRANDA"
+      },
+      {
+        "name": "ISABEL BELLONI SCHMIDT"
+      },
+      {
+        "name": "JOSE FRANCISCO GONCALVES JUNIOR"
+      },
+      {
+        "name": "MERCEDES MARIA DA CUNHA BUSTAMANTE"
+      },
+      {
+        "name": "MURILO SVERSUT DIAS"
+      },
+      {
+        "name": "PEDRO HENRIQUE BRUM TOGNI"
+      },
+      {
+        "name": "RAIMUNDO PAULO BARROS HENRIQUES"
+      },
+      {
+        "name": "BRAULIO FERREIRA DE SOUZA DIAS"
+      },
+      {
+        "name": "ESMERALDA PEREIRA DE ARAUJO"
+      },
+      {
+        "name": "NICHOLAS FERREIRA DE CAMARGO"
+      },
+      {
+        "name": "PEDRO GIOVANI DA SILVA"
+      }
+    ]
   },
   {
     "department": "DEPTO ECONOMIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA MOREIRA AMADO"
+      },
+      {
+        "name": "ALEXANDRE FLAVIO SILVA ANDRADA"
+      },
+      {
+        "name": "ANA CAROLINA PEREIRA ZOGHBI"
+      },
+      {
+        "name": "ANDREA FELIPPE CABELLO"
+      },
+      {
+        "name": "ANDREI DOMINGUES CECHIN"
+      },
+      {
+        "name": "ANDRE RONCAGLIA DE CARVALHO"
+      },
+      {
+        "name": "BERNARDO PINHEIRO MACHADO MUELLER"
+      },
+      {
+        "name": "CARLOS ALBERTO RAMOS"
+      },
+      {
+        "name": "DANIEL OLIVEIRA CAJUEIRO"
+      },
+      {
+        "name": "DEBORAH OLIVEIRA MARTINS DOS REIS"
+      },
+      {
+        "name": "DENISE IMBROISI"
+      },
+      {
+        "name": "GEOVANA LORENA BERTUSSI"
+      },
+      {
+        "name": "JALES DANTAS DA COSTA"
+      },
+      {
+        "name": "JORGE MADEIRA NOGUEIRA"
+      },
+      {
+        "name": "JORGE SABA ARBACHE FILHO"
+      },
+      {
+        "name": "JOSE GUILHERME DE LARA RESENDE"
+      },
+      {
+        "name": "JOSE LUIS DA COSTA OREIRO"
+      },
+      {
+        "name": "LEANDRO GONCALVES DO NASCIMENTO"
+      },
+      {
+        "name": "LUCAS VITOR DE CARVALHO SOUSA"
+      },
+      {
+        "name": "MARCELO DE OLIVEIRA TORRES"
+      },
+      {
+        "name": "MARIA DE LOURDES ROLLEMBERG MOLLO"
+      },
+      {
+        "name": "MARIA EDUARDA TANNURI PIANTO"
+      },
+      {
+        "name": "MARINA DELMONDES DE CARVALHO ROSSI"
+      },
+      {
+        "name": "MAURICIO SOARES BUGARIN"
+      },
+      {
+        "name": "MICHAEL CHRISTIAN LEHMANN"
+      },
+      {
+        "name": "MILENE TAKASAGO"
+      },
+      {
+        "name": "MOISES DE ANDRADE RESENDE FILHO"
+      },
+      {
+        "name": "PAULO ROBERTO AMORIM LOUREIRO"
+      },
+      {
+        "name": "PEDRO HENRIQUE ZUCHI DA CONCEICAO"
+      },
+      {
+        "name": "RAFAEL TERRA DE MENEZES"
+      },
+      {
+        "name": "RICARDO SILVA AZEVEDO ARAUJO"
+      },
+      {
+        "name": "ROBERTO DE GOES ELLERY JUNIOR"
+      },
+      {
+        "name": "RODRIGO ANDRES DE SOUZA PENALOZA"
+      },
+      {
+        "name": "ROGERIO MAZALI"
+      },
+      {
+        "name": "VANDER MENDES LUCAS"
+      },
+      {
+        "name": "VICTOR GOMES E SILVA"
+      },
+      {
+        "name": "GIL RIELLA"
+      },
+      {
+        "name": "DANIELA FREDDO"
+      },
+      {
+        "name": "NELSON HENRIQUE BARBOSA FILHO"
+      },
+      {
+        "name": "DANIEL ALBERTO PEROZO SUAREZ"
+      },
+      {
+        "name": "LUCAS GABRIEL MARTINS DE OLIVEIRA"
+      },
+      {
+        "name": "MARCOS VINICIUS GONCALVES NIHARI"
+      },
+      {
+        "name": "MARIANA OLIVEIRA E SILVA BACCIOTTI"
+      },
+      {
+        "name": "RAQUEL MESQUITA ALMEIDA"
+      }
+    ]
   },
   {
     "department": "DEPTO ENFERMAGEM",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALINE OLIVEIRA SILVEIRA"
+      },
+      {
+        "name": "ALISSON FERNANDES BOLINA"
+      },
+      {
+        "name": "ANA BEATRIZ DUARTE VIEIRA"
+      },
+      {
+        "name": "ANA LUCIA DA SILVA"
+      },
+      {
+        "name": "ANDREA MATHES FAUSTINO"
+      },
+      {
+        "name": "ANDREIA GUEDES OLIVA FERNANDES"
+      },
+      {
+        "name": "CARLA TARGINO DA SILVA BRUNO"
+      },
+      {
+        "name": "CAROLINA PEREIRA DA CUNHA SOUSA"
+      },
+      {
+        "name": "CHRISTIANE INOCENCIO VASQUES"
+      },
+      {
+        "name": "CLAUDIA MAFFINI GRIBOSKI"
+      },
+      {
+        "name": "CRISTINE ALVES COSTA DE JESUS"
+      },
+      {
+        "name": "DANIELLA SOARES DOS SANTOS"
+      },
+      {
+        "name": "DIANA LUCIA MOURA PINHO"
+      },
+      {
+        "name": "DIRCE BELLEZI GUILHEM"
+      },
+      {
+        "name": "ELAINE BARROS FERREIRA"
+      },
+      {
+        "name": "FERNANDA LETICIA FRATES CAUDURO"
+      },
+      {
+        "name": "GISELE MARTINS"
+      },
+      {
+        "name": "KEILA CRISTIANNE TRINDADE DA CRUZ"
+      },
+      {
+        "name": "LARA MABELLE MILFONT BOECKMANN"
+      },
+      {
+        "name": "LEIDES BARROSO DE AZEVEDO MOURA"
+      },
+      {
+        "name": "LUCIANA NEVES DA SILVA BAMPI"
+      },
+      {
+        "name": "MARIA APARECIDA GUSSI"
+      },
+      {
+        "name": "MARIA CRISTINA SOARES RODRIGUES"
+      },
+      {
+        "name": "MARIA DA GLORIA LIMA"
+      },
+      {
+        "name": "MARIANA ANDRE HONORATO FRANZOI"
+      },
+      {
+        "name": "MARIA RAQUEL GOMES MAIA PIRES"
+      },
+      {
+        "name": "MONICA CHIODI TOSCANO DE CAMPOS"
+      },
+      {
+        "name": "PAULA ELAINE DINIZ DOS REIS"
+      },
+      {
+        "name": "PAULO HENRIQUE FERNANDES DOS SANTOS"
+      },
+      {
+        "name": "PEDRO SADI MONTEIRO"
+      },
+      {
+        "name": "PRISCILA DA SILVA ANTONIO ROCHA"
+      },
+      {
+        "name": "REJANE ANTONELLO GRIBOSKI"
+      },
+      {
+        "name": "SIMONE ROQUE MAZONI"
+      },
+      {
+        "name": "TACIANA SILVEIRA PASSOS"
+      },
+      {
+        "name": "THATIANNY TANFERRI DE BRITO PARANAGUA"
+      },
+      {
+        "name": "BARBARA DE CALDAS MELO"
+      },
+      {
+        "name": "JOHNATA DA CRUZ MATOS"
+      },
+      {
+        "name": "LUCIA DE MEDEIROS TAVEIRA"
+      },
+      {
+        "name": "TATIANE TEIXEIRA LIMA"
+      },
+      {
+        "name": "FABIOLA MARA GONCALVES DE SIQUEIRA AMARAL"
+      },
+      {
+        "name": "KATIUSCIA LARSEN DE ABREU AGUIAR"
+      },
+      {
+        "name": "PRISCILA BRIGOLINI PORFIRIO FERREIRA"
+      },
+      {
+        "name": "RITA DE CASSIA MELAO DE MORAIS"
+      }
+    ]
   },
   {
     "department": "DEPTO ENGENHARIA CIVIL E AMBIENTAL",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADELAYDA PALLAVICINI FONSECA"
+      },
+      {
+        "name": "ALEXANDRE KEPLER SOARES"
+      },
+      {
+        "name": "ANDRE LUIS BRASIL CAVALCANTE"
+      },
+      {
+        "name": "ANDRE PACHECO DE ASSIS"
+      },
+      {
+        "name": "ANTONIO CARLOS DE OLIVEIRA MIRANDA"
+      },
+      {
+        "name": "ARIUSKA KARLA BARBOSA AMORIM"
+      },
+      {
+        "name": "ARTHUR TAVARES SCHLEICHER"
+      },
+      {
+        "name": "ARTUR ANTONIO DE ALMEIDA PORTELA"
+      },
+      {
+        "name": "CARLOS HENRIQUE RIBEIRO LIMA"
+      },
+      {
+        "name": "CLAUDIA MARCIA COUTINHO GURJAO"
+      },
+      {
+        "name": "CLAUDIO HENRIQUE DE ALMEIDA FEITOSA PEREIRA"
+      },
+      {
+        "name": "CONCEICAO DE MARIA ALBUQUERQUE ALVES"
+      },
+      {
+        "name": "CRISTINA CELIA SILVEIRA BRANDAO"
+      },
+      {
+        "name": "DIRCEU SILVEIRA REIS JUNIOR"
+      },
+      {
+        "name": "ELEUDO ESTEVES DE ARAUJO SILVA JUNIOR"
+      },
+      {
+        "name": "ELTON BAUER"
+      },
+      {
+        "name": "EVANGELOS DIMITRIOS CHRISTAKOU"
+      },
+      {
+        "name": "FABIANA SERRA DE ARRUDA"
+      },
+      {
+        "name": "FABIO ZANCHETTA"
+      },
+      {
+        "name": "FELIX ALVES DA SILVA JUNIOR"
+      },
+      {
+        "name": "FRANCISCO EVANGELISTA JUNIOR"
+      },
+      {
+        "name": "FRANCISCO JAVIER CONTRERAS PINEDA"
+      },
+      {
+        "name": "GERMAN MARCELO MARTINS VINUEZA FREIRE"
+      },
+      {
+        "name": "GILBERTO GOMES"
+      },
+      {
+        "name": "GRACIELA NORA DOZ DE CARVALHO"
+      },
+      {
+        "name": "GREGORIO LUIS SILVA ARAUJO"
+      },
+      {
+        "name": "GUILHERME SALES SOARES DE AZEVEDO MELO"
+      },
+      {
+        "name": "GUILHERME SANTANA ALENCAR"
+      },
+      {
+        "name": "JESSICA SIQUEIRA DE SOUZA"
+      },
+      {
+        "name": "JOAO HENRIQUE DA SILVA REGO"
+      },
+      {
+        "name": "JOAQUIM JOSE GUILHERME DE ARAGAO"
+      },
+      {
+        "name": "JOSE HUMBERTO MATIAS DE PAULA"
+      },
+      {
+        "name": "JOSE WILSON DOS SANTOS FERREIRA"
+      },
+      {
+        "name": "JUAN FELIX RODRIGUEZ REBOLLEDO"
+      },
+      {
+        "name": "LEANDRO LIMA RASMUSSEN"
+      },
+      {
+        "name": "LENILDO SANTOS DA SILVA"
+      },
+      {
+        "name": "LEONARDO DA SILVEIRA PIRILLO INOJOSA"
+      },
+      {
+        "name": "LEONARDO ZANDONADI MOURA"
+      },
+      {
+        "name": "LINEU JOSE PEDROSO"
+      },
+      {
+        "name": "LUIZ GUILHERME RODRIGUES DE MELLO"
+      },
+      {
+        "name": "MANOEL PORFIRIO CORDAO NETO"
+      },
+      {
+        "name": "MARCIO MUNIZ DE FARIAS"
+      },
+      {
+        "name": "MARCOS HONORATO DE OLIVEIRA"
+      },
+      {
+        "name": "MICHELE TEREZA MARQUES CARVALHO"
+      },
+      {
+        "name": "MICHELLE ANDRADE"
+      },
+      {
+        "name": "NESTOR ALDO CAMPANA"
+      },
+      {
+        "name": "NEWTON MOREIRA DE SOUZA"
+      },
+      {
+        "name": "OSCAR DE MORAES CORDEIRO NETTO"
+      },
+      {
+        "name": "OTAVIO HENRIQUE DA SILVA"
+      },
+      {
+        "name": "PASTOR WILLY GONZALES TACO"
+      },
+      {
+        "name": "PAULO CESAR MARQUES DA SILVA"
+      },
+      {
+        "name": "RAFAEL CERQUEIRA SILVA"
+      },
+      {
+        "name": "RAMON SALENO YURE RUBIM COSTA SILVA"
+      },
+      {
+        "name": "RAQUEL MORAES SOARES"
+      },
+      {
+        "name": "RAUL DARIO DURAND FARFAN"
+      },
+      {
+        "name": "RENATO PINTO DA CUNHA"
+      },
+      {
+        "name": "RICARDO TEZINI MINOTI"
+      },
+      {
+        "name": "RODRIGO DE MELO LAMEIRAS"
+      },
+      {
+        "name": "SERGIO KOIDE"
+      },
+      {
+        "name": "VALDIRENE MARIA SILVA CAPUZZO"
+      },
+      {
+        "name": "VLADIMIR VILLAVERDE BARBAN"
+      },
+      {
+        "name": "WAGNER SANTOS DE ALMEIDA"
+      },
+      {
+        "name": "WILLIAM TAYLOR MATIAS SILVA"
+      },
+      {
+        "name": "YOVANKA PEREZ GINORIS"
+      },
+      {
+        "name": "MICHELE DAL TOE CASAGRANDE"
+      },
+      {
+        "name": "ANDREA CARDONA PÉREZ"
+      },
+      {
+        "name": "IVIANE CUNHA E SANTOS"
+      },
+      {
+        "name": "WELINGTON VITAL DA SILVA"
+      },
+      {
+        "name": "JORGE DOUGLAS BONILLA ROCHA"
+      }
+    ]
   },
   {
     "department": "DEPTO ENGENHARIA DE PRODUCAO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CARLA BITTENCOURT REIS"
+      },
+      {
+        "name": "ANDREA CRISTINA DOS SANTOS"
+      },
+      {
+        "name": "ANDRE LUIZ MARQUES SERRANO"
+      },
+      {
+        "name": "ANNIBAL AFFONSO NETO"
+      },
+      {
+        "name": "ARI MELO MARIANO"
+      },
+      {
+        "name": "CLOVIS NEUMANN"
+      },
+      {
+        "name": "JOAO CARLOS FELIX SOUZA"
+      },
+      {
+        "name": "MARCELO CARNEIRO GONCALVES"
+      },
+      {
+        "name": "MARCIA TEREZINHA LONGEN ZINDEL"
+      },
+      {
+        "name": "MARIA GABRIELA MENDONCA PEIXOTO"
+      },
+      {
+        "name": "MARTHA MARIA VERAS OLIVEIRA CAVALCANTE RODRIGUES"
+      },
+      {
+        "name": "PAULO CELSO DOS REIS GOMES"
+      },
+      {
+        "name": "REINALDO CRISPINIANO GARCIA"
+      },
+      {
+        "name": "SANDERSON CESAR MACEDO BARBALHO"
+      },
+      {
+        "name": "SERGIO RONALDO GRANEMANN"
+      },
+      {
+        "name": "SIMONE BORGES SIMAO MONTEIRO"
+      },
+      {
+        "name": "EDGARD COSTA OLIVEIRA"
+      },
+      {
+        "name": "EUGENIA CORNILS MONTEIRO DA SILVA"
+      },
+      {
+        "name": "RENATA CONCIANI NUNES"
+      }
+    ]
   },
   {
     "department": "DEPTO ENGENHARIA ELETRICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ACHILES FONTANA DA MOTA"
+      },
+      {
+        "name": "ADOLFO BAUCHSPIESS"
+      },
+      {
+        "name": "ADONIRAN JUDSON DE BARROS BRAGA"
+      },
+      {
+        "name": "ADSON FERREIRA DA ROCHA"
+      },
+      {
+        "name": "ALCIDES LEANDRO DA SILVA"
+      },
+      {
+        "name": "ALEXANDRE RICARDO SOARES ROMARIZ"
+      },
+      {
+        "name": "ALEX DA ROSA"
+      },
+      {
+        "name": "AMAURI GUTIERREZ MARTINS BRITTO"
+      },
+      {
+        "name": "ANESIO DE LELES FERREIRA FILHO"
+      },
+      {
+        "name": "ARTEMIS MARTI CESCHIN"
+      },
+      {
+        "name": "ARTUR NOGUEIRA DE SAO JOSE"
+      },
+      {
+        "name": "CLAUDIA JACY BARENCO ABBAS"
+      },
+      {
+        "name": "DANIEL CHAVES CAFE"
+      },
+      {
+        "name": "DANIEL GUERREIRO E SILVA"
+      },
+      {
+        "name": "DANIEL ORQUIZA DE CARVALHO"
+      },
+      {
+        "name": "EDSON MINTSU HUNG"
+      },
+      {
+        "name": "EDUARDO PEIXOTO FERNANDES DA SILVA"
+      },
+      {
+        "name": "EDUARDO STOCKLER TOGNETTI"
+      },
+      {
+        "name": "FABIO LUCIO LOPES DE MENDONCA"
+      },
+      {
+        "name": "FERNANDO CARDOSO MELO"
+      },
+      {
+        "name": "FLAVIA MARIA GUERRA DE SOUSA ARANHA OLIVEIRA"
+      },
+      {
+        "name": "FLAVIO ELIAS GOMES DE DEUS"
+      },
+      {
+        "name": "FRANCIS ARODY MORENO VASQUEZ"
+      },
+      {
+        "name": "FRANCISCO ASSIS DE OLIVEIRA NASCIMENTO"
+      },
+      {
+        "name": "FRANCISCO DAMASCENO FREITAS"
+      },
+      {
+        "name": "GEORGES DANIEL AMVAME NZE"
+      },
+      {
+        "name": "GEOVANY ARAUJO BORGES"
+      },
+      {
+        "name": "GERSON HENRIQUE PFITSCHER"
+      },
+      {
+        "name": "HENRIQUE CEZAR FERREIRA"
+      },
+      {
+        "name": "HUGERLES SALES SILVA"
+      },
+      {
+        "name": "HUMBERTO ABDALLA JUNIOR"
+      },
+      {
+        "name": "JOAO JOSE COSTA GONDIM"
+      },
+      {
+        "name": "JOAO LUIZ AZEVEDO DE CARVALHO"
+      },
+      {
+        "name": "JOAO PAULO LEITE"
+      },
+      {
+        "name": "JOAO YOSHIYUKI ISHIHARA"
+      },
+      {
+        "name": "JOSE ALFREDO RUIZ VARGAS"
+      },
+      {
+        "name": "JOSE EDIL GUIMARAES DE MEDEIROS"
+      },
+      {
+        "name": "JOSE ONIRAM DE AQUINO LIMAVERDE FILHO"
+      },
+      {
+        "name": "KLEBER MELO E SILVA"
+      },
+      {
+        "name": "LELIO RIBEIRO SOARES JUNIOR"
+      },
+      {
+        "name": "LEONARDO AGUAYO"
+      },
+      {
+        "name": "LEONARDO RODRIGUES ARAUJO XAVIER DE MENEZES"
+      },
+      {
+        "name": "LUIS FERNANDO RAMOS MOLINARO"
+      },
+      {
+        "name": "MARCELO LOPES PEREIRA JUNIOR"
+      },
+      {
+        "name": "MARCELO MENEZES DE CARVALHO"
+      },
+      {
+        "name": "MARCO ANTONIO BRASIL TERADA"
+      },
+      {
+        "name": "MYLENE CHRISTINE QUEIROZ DE FARIAS"
+      },
+      {
+        "name": "PABLO EDUARDO CUERVO FRANCO"
+      },
+      {
+        "name": "PAULO HENRIQUE PORTELA DE CARVALHO"
+      },
+      {
+        "name": "PAULO ROBERTO DE LIRA GONDIM"
+      },
+      {
+        "name": "RAFAEL AMARAL SHAYANI"
+      },
+      {
+        "name": "RAFAEL TIMOTEO DE SOUSA JUNIOR"
+      },
+      {
+        "name": "RENATO ALVES BORGES"
+      },
+      {
+        "name": "RICARDO STACIARINI PUTTINI"
+      },
+      {
+        "name": "RICARDO ZELENOVSKY"
+      },
+      {
+        "name": "ROBSON DOMINGOS VIEIRA"
+      },
+      {
+        "name": "UGO SILVA DIAS"
+      },
+      {
+        "name": "VINICIUS PEREIRA GONCALVES"
+      },
+      {
+        "name": "WILLIAM FERREIRA GIOZZA"
+      },
+      {
+        "name": "FRANCISCO LOPES DE CALDAS FILHO"
+      },
+      {
+        "name": "GUILHERME DE SOUSA TORRES"
+      },
+      {
+        "name": "VALERIO AYMORE MARTINS"
+      },
+      {
+        "name": "WESIN RIBEIRO ALVES"
+      }
+    ]
   },
   {
     "department": "DEPTO ENGENHARIA FLORESTAL",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AILTON TEIXEIRA DO VALE"
+      },
+      {
+        "name": "ALBA VALERIA REZENDE"
+      },
+      {
+        "name": "ALCIDES GATTO"
+      },
+      {
+        "name": "ALEXANDRE FLORIAN DA COSTA"
+      },
+      {
+        "name": "ALVARO NOGUEIRA DE SOUZA"
+      },
+      {
+        "name": "ANDERSON MARCOS DE SOUZA"
+      },
+      {
+        "name": "CLAUDIO HENRIQUE SOARES DEL MENEZZI"
+      },
+      {
+        "name": "DANIEL COSTA DE CARVALHO"
+      },
+      {
+        "name": "EDER PEREIRA MIGUEL"
+      },
+      {
+        "name": "ERALDO APARECIDO TRONDOLI MATRICARDI"
+      },
+      {
+        "name": "HENRIQUE MARINHO LEITE CHAVES"
+      },
+      {
+        "name": "HUMBERTO ANGELO"
+      },
+      {
+        "name": "ILDEU SOARES MARTINS"
+      },
+      {
+        "name": "JOSE ROBERTO RODRIGUES PINTO"
+      },
+      {
+        "name": "LEONARDO JOB BIALI"
+      },
+      {
+        "name": "MAURO ELOI NAPPO"
+      },
+      {
+        "name": "REGINALDO SERGIO PEREIRA"
+      },
+      {
+        "name": "REUBER ALBUQUERQUE BRANDAO"
+      },
+      {
+        "name": "RICARDO DE OLIVEIRA GASPAR"
+      },
+      {
+        "name": "ROSANA DE CARVALHO CRISTO MARTINS"
+      },
+      {
+        "name": "JOBERTO VELOSO DE FREITAS"
+      },
+      {
+        "name": "JOSE HENRIQUE CAMARGO PACE"
+      },
+      {
+        "name": "JUSCELINA ARCANJO DOS SANTOS"
+      }
+    ]
   },
   {
     "department": "DEPTO ESTATÍSTICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALAN RICARDO DA SILVA"
+      },
+      {
+        "name": "ANA MARIA NOGALES VASCONCELOS"
+      },
+      {
+        "name": "ANDRE LUIZ FERNANDES CANCADO"
+      },
+      {
+        "name": "ANTONIO EDUARDO GOMES"
+      },
+      {
+        "name": "CIRA ETHEOWALDA GUEVARA OTINIANO"
+      },
+      {
+        "name": "DEMERSON ANDRE POLLI"
+      },
+      {
+        "name": "DONALD MATTHEW PIANTO"
+      },
+      {
+        "name": "EDUARDO MONTEIRO DE CASTRO GOMES"
+      },
+      {
+        "name": "EDUARDO YOSHIO NAKANO"
+      },
+      {
+        "name": "FELIPE SOUSA QUINTINO"
+      },
+      {
+        "name": "FREDERICO MACHADO ALMEIDA"
+      },
+      {
+        "name": "GEORGE FREITAS VON BORRIES"
+      },
+      {
+        "name": "GLADSTON LUIZ DA SILVA"
+      },
+      {
+        "name": "GUILHERME SOUZA RODRIGUES"
+      },
+      {
+        "name": "GUSTAVO LEONEL GILARDONI AVALLE"
+      },
+      {
+        "name": "HELTON SAULO BEZERRA DOS SANTOS"
+      },
+      {
+        "name": "JAMES MATOS SAMPAIO"
+      },
+      {
+        "name": "JOANLISE MARCO DE LEON ANDRADE"
+      },
+      {
+        "name": "JOSE ANGELO BELLONI"
+      },
+      {
+        "name": "JOSE AUGUSTO FIORUCCI"
+      },
+      {
+        "name": "JULIANA BETINI FACHINI GOMES"
+      },
+      {
+        "name": "LEANDRO TAVARES CORREIA"
+      },
+      {
+        "name": "LUCAS MOREIRA"
+      },
+      {
+        "name": "LUIS GUSTAVO DO AMARAL VINHA"
+      },
+      {
+        "name": "MARIA TERESA LEAO COSTA"
+      },
+      {
+        "name": "PETER ZORNIG"
+      },
+      {
+        "name": "RAUL YUKIHIRO MATSUSHITA"
+      },
+      {
+        "name": "ROBERTO VILA GABRIEL"
+      },
+      {
+        "name": "TEREZINHA KESSIA DE ASSIS RIBEIRO"
+      },
+      {
+        "name": "THAIS CARVALHO VALADARES RODRIGUES"
+      },
+      {
+        "name": "BERNARDO BORBA DE ANDRADE"
+      },
+      {
+        "name": "ERITON BARROS DOS SANTOS"
+      },
+      {
+        "name": "RAFAEL DE ACYPRESTE MONTEIRO ROCHA"
+      }
+    ]
   },
   {
     "department": "DEPTO FILOSOFIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AGNALDO CUOCO PORTUGAL"
+      },
+      {
+        "name": "ALEXANDRE FERNANDES BATISTA COSTA LEITE"
+      },
+      {
+        "name": "ALEXANDRE HAHN"
+      },
+      {
+        "name": "ALFREDO ROQUE DE OLIVEIRA FREIRE FILHO"
+      },
+      {
+        "name": "ANA MIRIAM WUENSCH"
+      },
+      {
+        "name": "ANDRE LECLERC"
+      },
+      {
+        "name": "ANDRE LUIS MUNIZ GARCIA"
+      },
+      {
+        "name": "CLAUDIO ARAUJO REIS"
+      },
+      {
+        "name": "EDUARDO WOLF PEREIRA"
+      },
+      {
+        "name": "ERICKA MARIE ITOKAZU"
+      },
+      {
+        "name": "ERICK CALHEIROS DE LIMA"
+      },
+      {
+        "name": "FABIO MASCARENHAS NOLASCO"
+      },
+      {
+        "name": "FELIPE SANTIAGO AMARAL"
+      },
+      {
+        "name": "FERNANDO RIBEIRO DE MORAES BARROS"
+      },
+      {
+        "name": "GABRIELE CORNELLI"
+      },
+      {
+        "name": "GERSON BREA"
+      },
+      {
+        "name": "GILBERTO TEDEIA"
+      },
+      {
+        "name": "GUY HAMELIN"
+      },
+      {
+        "name": "HERIVELTO PEREIRA DE SOUZA"
+      },
+      {
+        "name": "HILAN NISSIOR BENSUSAN"
+      },
+      {
+        "name": "HUBERT JEAN FRANCOIS CORMIER"
+      },
+      {
+        "name": "LIGIA PAVAN BAPTISTA"
+      },
+      {
+        "name": "MARCIO GIMENES DE PAULA"
+      },
+      {
+        "name": "MARCOS AURELIO FERNANDES"
+      },
+      {
+        "name": "MARIA CECILIA PEDREIRA DE ALMEIDA"
+      },
+      {
+        "name": "PEDRO ERGNALDO GONTIJO"
+      },
+      {
+        "name": "PHILIPPE CLAUDE THIERRY LACOUR"
+      },
+      {
+        "name": "PRISCILA ROSSINETTI RUFINONI"
+      },
+      {
+        "name": "RAQUEL IMANISHI RODRIGUES"
+      },
+      {
+        "name": "RODRIGO DE ALVARENGA FREIRE"
+      },
+      {
+        "name": "ROGERIO ALESSANDRO DE MELLO BASALI"
+      },
+      {
+        "name": "SAMUEL JOSE SIMON RODRIGUES"
+      },
+      {
+        "name": "SCOTT RANDALL PAINE"
+      },
+      {
+        "name": "WANDERSON FLOR DO NASCIMENTO"
+      },
+      {
+        "name": "ALEX SANDRO CALHEIROS DE MOURA"
+      },
+      {
+        "name": "NADIA JUNQUEIRA RIBEIRO"
+      },
+      {
+        "name": "TOMAS ROBERTO TROSTER"
+      }
+    ]
   },
   {
     "department": "DEPTO FITOPATOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "CLEBER FURLANETTO"
+      },
+      {
+        "name": "DANILO BATISTA PINHO"
+      },
+      {
+        "name": "DENISE VILELA DE REZENDE"
+      },
+      {
+        "name": "HELSON MARIO MARTINS DO VALE"
+      },
+      {
+        "name": "JUVENIL ENRIQUE CARES"
+      },
+      {
+        "name": "LUIZ EDUARDO BASSAY BLUM"
+      },
+      {
+        "name": "MARISA ALVARES DA SILVA VELLOSO FERREIRA"
+      },
+      {
+        "name": "MAURICIO ROSSATO"
+      },
+      {
+        "name": "RITA DE CASSIA PEREIRA CARVALHO"
+      },
+      {
+        "name": "THAIS RIBEIRO SANTIAGO"
+      },
+      {
+        "name": "WILLIE ANDERSON DOS SANTOS VIEIRA"
+      }
+    ]
   },
   {
     "department": "DEPTO GENÉTICA E MORFOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALINE PIC"
+      },
+      {
+        "name": "ANDREZA FABRO DE BEM"
+      },
+      {
+        "name": "CARLA MARIA MEDEIROS Y ARAUJO"
+      },
+      {
+        "name": "CESAR KOPPE GRISOLIA"
+      },
+      {
+        "name": "CINTIA MARQUES COELHO"
+      },
+      {
+        "name": "DANIELA MARA DE OLIVEIRA"
+      },
+      {
+        "name": "FERNANDO PACHECO RODRIGUES"
+      },
+      {
+        "name": "JOAO PAULO FIGUEIRO LONGO"
+      },
+      {
+        "name": "LAISE RODRIGUES DE ANDRADE"
+      },
+      {
+        "name": "LILIAN GIMENES GIUGLIANO"
+      },
+      {
+        "name": "MARCIO JOSE POCAS FONSECA"
+      },
+      {
+        "name": "MARCOS CELIO DE ALMEIDA"
+      },
+      {
+        "name": "MARIA DE FATIMA MENEZES ALMEIDA SANTOS"
+      },
+      {
+        "name": "MARIA DE NAZARE KLAUTAU GUIMARAES"
+      },
+      {
+        "name": "MARIA FERNANDA NINCE FERREIRA"
+      },
+      {
+        "name": "MONICA PEREIRA GARCIA"
+      },
+      {
+        "name": "NILDA MARIA DINIZ"
+      },
+      {
+        "name": "RENATO CAPARROZ"
+      },
+      {
+        "name": "RICARDO BENTES DE AZEVEDO"
+      },
+      {
+        "name": "ROLANDO ANDRE RIOS VILLACIS"
+      },
+      {
+        "name": "ROSANA TIDON"
+      },
+      {
+        "name": "SACHA BRAUN CHAVES"
+      },
+      {
+        "name": "SILENE DE PAULINO LOZZI"
+      },
+      {
+        "name": "SILVIENE FABIANA DE OLIVEIRA"
+      },
+      {
+        "name": "PRISCILA IZABEL SANTOS DE TOTARO"
+      }
+    ]
   },
   {
     "department": "DEPTO GEOGRAFIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "DANIEL ABREU DE AZEVEDO"
+      },
+      {
+        "name": "DANTE FLAVIO DA COSTA REIS JUNIOR"
+      },
+      {
+        "name": "EDER RENATO MERINO"
+      },
+      {
+        "name": "ERCILIA TORRES STEINKE"
+      },
+      {
+        "name": "EVERALDO BATISTA DA COSTA"
+      },
+      {
+        "name": "FERNANDO LUIZ ARAUJO SOBRINHO"
+      },
+      {
+        "name": "GLORIA MARIA VARGAS LOPEZ DE MESA"
+      },
+      {
+        "name": "HELEN DA COSTA GURGEL"
+      },
+      {
+        "name": "JOSE SOBREIRO FILHO"
+      },
+      {
+        "name": "JUSCELINO EUDAMIDAS BEZERRA"
+      },
+      {
+        "name": "MARLI SALES"
+      },
+      {
+        "name": "NEIO LUCIO DE OLIVEIRA CAMPOS"
+      },
+      {
+        "name": "OSMAR ABILIO DE CARVALHO JUNIOR"
+      },
+      {
+        "name": "POTIRA MEIRELLES HERMUCHE"
+      },
+      {
+        "name": "RAFAEL RODRIGUES DA FRANCA"
+      },
+      {
+        "name": "ROBERTO ARNALDO TRANCOSO GOMES"
+      },
+      {
+        "name": "ROGERIO ELIAS SOARES UAGODA"
+      },
+      {
+        "name": "ROSELIR DE OLIVEIRA NASCIMENTO"
+      },
+      {
+        "name": "RUTH ELIAS DE PAULA LARANJA"
+      },
+      {
+        "name": "SHADIA HUSSEINI DE ARAUJO"
+      },
+      {
+        "name": "VALDIR ADILSON STEINKE"
+      },
+      {
+        "name": "VINICIUS VASCONCELOS DE SOUZA"
+      },
+      {
+        "name": "VIOLETA DE FARIA PEREIRA"
+      },
+      {
+        "name": "MARIA DO SOCORRO FERREIRA DA SILVA"
+      }
+    ]
   },
   {
     "department": "DEPTO GEOLOGIA GERAL APLICADA",
@@ -189,15 +3934,579 @@
   },
   {
     "department": "DEPTO HISTÓRIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALBENE MIRIAM MENEZES KLEMI"
+      },
+      {
+        "name": "ANDERSON RIBEIRO OLIVA"
+      },
+      {
+        "name": "ANDRE CABRAL HONOR"
+      },
+      {
+        "name": "ANDRE GUSTAVO DE MELO ARAUJO"
+      },
+      {
+        "name": "ANDRE PEREIRA LEME LOPES"
+      },
+      {
+        "name": "ARTHUR OLIVEIRA ALFAIX ASSIS"
+      },
+      {
+        "name": "BARBARA MANGUEIRA DO NASCIMENTO"
+      },
+      {
+        "name": "BRUNO LEAL PASTOR DE CARVALHO"
+      },
+      {
+        "name": "CAMILA DA SILVA CONDILO"
+      },
+      {
+        "name": "CARLOS EDUARDO VIDIGAL"
+      },
+      {
+        "name": "CLAUDIA COSTA BROCHADO"
+      },
+      {
+        "name": "CRISTIANE DE ASSIS PORTELA"
+      },
+      {
+        "name": "DANIEL BARBOSA ANDRADE DE FARIA"
+      },
+      {
+        "name": "EDLENE OLIVEIRA SILVA"
+      },
+      {
+        "name": "ELOISA PEREIRA BARROSO"
+      },
+      {
+        "name": "ESTEVAM COSTA THOMPSON"
+      },
+      {
+        "name": "HENRIQUE MODANEZ DE SANT ANNA"
+      },
+      {
+        "name": "JONAS WILSON PEGORARO"
+      },
+      {
+        "name": "JOSE INALDO CHAVES JUNIOR"
+      },
+      {
+        "name": "JOSE LUIZ DE ANDRADE FRANCO"
+      },
+      {
+        "name": "JOSE OTAVIO NOGUEIRA GUIMARAES"
+      },
+      {
+        "name": "KELERSON SEMERENE COSTA"
+      },
+      {
+        "name": "LEA MARIA CARRER IAMASHITA"
+      },
+      {
+        "name": "LEANDRO DUARTE RUST"
+      },
+      {
+        "name": "LUIZ CESAR DE SA JUNIOR"
+      },
+      {
+        "name": "LUIZ PAULO FERREIRA NOGUEROL"
+      },
+      {
+        "name": "MARCELO BALABAN"
+      },
+      {
+        "name": "MARCOS AURELIO DE PAULA PEREIRA"
+      },
+      {
+        "name": "MARIA FILOMENA PINTO DA COSTA COELHO"
+      },
+      {
+        "name": "MARILEA DE ALMEIDA"
+      },
+      {
+        "name": "MARINA THOME BEZZI"
+      },
+      {
+        "name": "MATEUS GAMBA TORRES"
+      },
+      {
+        "name": "NEUMA BRILHANTE RODRIGUES"
+      },
+      {
+        "name": "PEDRO EDUARDO BATISTA FERREIRA DA SILVA"
+      },
+      {
+        "name": "SUSANE RODRIGUES DE OLIVEIRA"
+      },
+      {
+        "name": "TERESA CRISTINA DE NOVAES MARQUES"
+      },
+      {
+        "name": "TIAGO LUIS GIL"
+      },
+      {
+        "name": "TIAGO SANTOS ALMEIDA"
+      },
+      {
+        "name": "VICENTE CARLOS RODRIGUES ALVAREZ DOBRORUKA"
+      },
+      {
+        "name": "VIRGILIO CAIXETA ARRAES"
+      },
+      {
+        "name": "ANA FLAVIA MAGALHAES PINTO"
+      },
+      {
+        "name": "FELIPE FERREIRA DE PAULA PESSOA"
+      },
+      {
+        "name": "MAYRA CALANDRINI GUAPINDAIA"
+      },
+      {
+        "name": "RAFAEL ANTONIO RODRIGUES"
+      },
+      {
+        "name": "TUPA GUERRA GUIMARAES DA SILVA"
+      },
+      {
+        "name": "VANIA MARIA LOSADA MOREIRA"
+      },
+      {
+        "name": "LAURA DE OLIVEIRA SANGIOVANNI"
+      },
+      {
+        "name": "LUCIANA MENDES GANDELMAN"
+      },
+      {
+        "name": "MAURO CEZAR COELHO"
+      }
+    ]
   },
   {
     "department": "DEPTO LINGUISTICA, PORT. LING. CLASSICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AGATHA PITOMBO BACELAR"
+      },
+      {
+        "name": "AMARILDO JOAO ESPINDOLA"
+      },
+      {
+        "name": "ANA ADELINA LOPO RAMOS"
+      },
+      {
+        "name": "ANA SUELLY ARRUDA CAMARA CABRAL"
+      },
+      {
+        "name": "ANTONIO AUGUSTO SOUZA MELLO"
+      },
+      {
+        "name": "CINTIA CALDEIRA DA SILVA"
+      },
+      {
+        "name": "CINTIA DA SILVA PACHECO"
+      },
+      {
+        "name": "CRISTIANE BATISTA DO NASCIMENTO"
+      },
+      {
+        "name": "DANIELA PROMETI RIBEIRO"
+      },
+      {
+        "name": "DIONEY MOREIRA GOMES"
+      },
+      {
+        "name": "EDNA CRISTINA MUNIZ DA SILVA"
+      },
+      {
+        "name": "EDUARDO FELIPE FELTEN"
+      },
+      {
+        "name": "ELOISA NASCIMENTO SILVA PILATI"
+      },
+      {
+        "name": "FABIANE ELIAS PAGY"
+      },
+      {
+        "name": "FLAVIA DE CASTRO ALVES"
+      },
+      {
+        "name": "FLAVIA DE OLIVEIRA MAIA PIRES"
+      },
+      {
+        "name": "FRANCILENE MACHADO DE ALMEIDA"
+      },
+      {
+        "name": "FRANCISCA CORDELIA OLIVEIRA DA SILVA"
+      },
+      {
+        "name": "GILSON CHARLES DOS SANTOS"
+      },
+      {
+        "name": "GLAUCIO DE CASTRO JUNIOR"
+      },
+      {
+        "name": "HELENA DA SILVA GUERRA VICENTE"
+      },
+      {
+        "name": "HELOISA MARIA MOREIRA LIMA DE ALMEIDA SALLES"
+      },
+      {
+        "name": "JANAINA DE AQUINO FERRAZ"
+      },
+      {
+        "name": "JANE ADRIANA RAMOS OTTONI DE CASTRO"
+      },
+      {
+        "name": "JOAO PAULO VITORIO MIRANDA"
+      },
+      {
+        "name": "JONAS DA NOBREGA"
+      },
+      {
+        "name": "JULIANA DE FREITAS DIAS"
+      },
+      {
+        "name": "JUSELIO MATTOS DO AMARAL"
+      },
+      {
+        "name": "KLEBER APARECIDO DA SILVA"
+      },
+      {
+        "name": "LURDES TERESA LOPES JORGE"
+      },
+      {
+        "name": "MARCIA ELENITA FRANCA NIEDERAUER"
+      },
+      {
+        "name": "MARCUS VINICIUS DA SILVA LUNGUINHO"
+      },
+      {
+        "name": "MARINA MARIA SILVA MAGALHAES"
+      },
+      {
+        "name": "MESSIAS RAMOS COSTA"
+      },
+      {
+        "name": "MICHELLE MACHADO DE OLIVEIRA VILARINHO"
+      },
+      {
+        "name": "NEEMIAS GOMES SANTANA"
+      },
+      {
+        "name": "ORMEZINDA MARIA RIBEIRO"
+      },
+      {
+        "name": "PATRICIA TUXI DOS SANTOS"
+      },
+      {
+        "name": "PAULO MEDEIROS JUNIOR"
+      },
+      {
+        "name": "POLIANA MARIA ALVES"
+      },
+      {
+        "name": "RENATO CABRAL REZENDE"
+      },
+      {
+        "name": "ROBERTA CANTARELA"
+      },
+      {
+        "name": "RODRIGO ALBUQUERQUE PEREIRA"
+      },
+      {
+        "name": "RONALDO MANGUEIRA LIMA JUNIOR"
+      },
+      {
+        "name": "ROZANA REIGOTA NAVES"
+      },
+      {
+        "name": "SANDRA LUCIA RODRIGUES DA ROCHA"
+      },
+      {
+        "name": "SANDRA PATRICIA DE FARIA DO NASCIMENTO"
+      },
+      {
+        "name": "SAULO MACHADO MELLO DE SOUSA"
+      },
+      {
+        "name": "TABATA QUINTANA YONAHA"
+      },
+      {
+        "name": "THIAGO COSTA CHACON"
+      },
+      {
+        "name": "ULISDETE RODRIGUES DE SOUZA RODRIGUES"
+      },
+      {
+        "name": "VIVIANE CRISTINA VIEIRA"
+      },
+      {
+        "name": "VIVIANE DE MELO RESENDE"
+      },
+      {
+        "name": "WALKIRIA NEIVA PRACA"
+      },
+      {
+        "name": "WANIA DE ARAGAO COSTA"
+      },
+      {
+        "name": "ALTACI CORREA RUBIM"
+      },
+      {
+        "name": "CAROLINA GONCALVES GONZALEZ"
+      },
+      {
+        "name": "JUAN TEIXEIRA ARRUDA BANDEIRA"
+      },
+      {
+        "name": "PEDRO HENRIQUE SILVA ARAUJO"
+      },
+      {
+        "name": "CAROLINA SILVA RESENDE DA NOBREGA"
+      }
+    ]
   },
   {
     "department": "DEPTO LÍNGUAS ESTRANGEIRAS E TRADUÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ABDELHAK RAZKY"
+      },
+      {
+        "name": "ADRIANA FERNANDES BARBOSA"
+      },
+      {
+        "name": "ADRIANA SANTOS CORREA"
+      },
+      {
+        "name": "ALBA ELENA ESCALANTE ALVAREZ"
+      },
+      {
+        "name": "ALESSANDRA MATIAS QUERIDO"
+      },
+      {
+        "name": "ALESSANDRA RAMOS DE OLIVEIRA HARDEN"
+      },
+      {
+        "name": "ALICE MARIA DE ARAUJO FERREIRA"
+      },
+      {
+        "name": "ANA EMILIA FAJARDO TURBIN"
+      },
+      {
+        "name": "ANNE LOUISE DIAS"
+      },
+      {
+        "name": "ANTONIO MARCOS MOREIRA DA SILVA"
+      },
+      {
+        "name": "AVRAM STANLEY BLUM"
+      },
+      {
+        "name": "CAMILLA GUIMARAES SANTERO PONTES"
+      },
+      {
+        "name": "CAROLINA PEREIRA BARCELLOS"
+      },
+      {
+        "name": "CESARIO ALVIM PEREIRA FILHO"
+      },
+      {
+        "name": "CHARLES ROCHA TEIXEIRA"
+      },
+      {
+        "name": "CHRISTIANE MOISES"
+      },
+      {
+        "name": "CLARISSA PRADO MARINI"
+      },
+      {
+        "name": "CLAUDINE MARIE JEANNE FRANCHON CABRERA ORDONEZ"
+      },
+      {
+        "name": "CLAUDIO CORREA E CASTRO GONCALVES"
+      },
+      {
+        "name": "DENISE GISELE DE BRITTO DAMASCO"
+      },
+      {
+        "name": "ECLAIR ANTONIO ALMEIDA FILHO"
+      },
+      {
+        "name": "EDNA GISELA PIZARRO"
+      },
+      {
+        "name": "ELISA DUARTE TEIXEIRA"
+      },
+      {
+        "name": "ENRIQUE HUELVA UNTERNBAUMEN"
+      },
+      {
+        "name": "FAUSTO PINHEIRO PEREIRA"
+      },
+      {
+        "name": "FERNANDA ALENCAR PEREIRA"
+      },
+      {
+        "name": "FIDEL ARMANDO CANAS CHAVEZ"
+      },
+      {
+        "name": "FLAVIA CRISTINA CRUZ LAMBERTI ARRAES"
+      },
+      {
+        "name": "GERMANA HENRIQUES PEREIRA"
+      },
+      {
+        "name": "GLADYS PLENS DE QUEVEDO PEREIRA DE CAMARGO"
+      },
+      {
+        "name": "HELENA SANTIAGO VIGATA"
+      },
+      {
+        "name": "JANAINA SOARES DE OLIVEIRA ALVES"
+      },
+      {
+        "name": "JEAN CLAUDE LUCIEN MIROIR"
+      },
+      {
+        "name": "JOARA MARTIN BERGSLEITHNER"
+      },
+      {
+        "name": "JOSELY BOGO MACHADO SONCELLA"
+      },
+      {
+        "name": "JUAN PEDRO ROJAS"
+      },
+      {
+        "name": "JULIO CESAR NEVES MONTEIRO"
+      },
+      {
+        "name": "KAORU TANAKA DE LIRA FERREIRA"
+      },
+      {
+        "name": "KIMIKO UCHIGASAKI PINHEIRO"
+      },
+      {
+        "name": "KYOKO SEKINO"
+      },
+      {
+        "name": "LILY MARTINEZ EVANGELISTA"
+      },
+      {
+        "name": "LIVIA MIRANDA DE PAULO"
+      },
+      {
+        "name": "LUCIA MARIA DE ASSUNCAO BARBOSA"
+      },
+      {
+        "name": "LUCIE JOSEPHE DE LANNOY"
+      },
+      {
+        "name": "LUIS CARLOS RAMOS NOGUEIRA"
+      },
+      {
+        "name": "MAGALI DE LOURDES PEDRO"
+      },
+      {
+        "name": "MARCOS ARAUJO BAGNO"
+      },
+      {
+        "name": "MARCOS DE CAMPOS CARNEIRO"
+      },
+      {
+        "name": "MARCUS VINICIUS DE LIRA FERREIRA TANAKA"
+      },
+      {
+        "name": "MARIA CAROLINA CALVO CAPILLA"
+      },
+      {
+        "name": "MARIA DEL CARMEN DE LA TORRE ARANDA"
+      },
+      {
+        "name": "MARIA DEL MAR PARAMOS CEBEY"
+      },
+      {
+        "name": "MARIANA ROSA MASTRELLA DE ANDRADE"
+      },
+      {
+        "name": "MARLOVA GONSALES ASEFF"
+      },
+      {
+        "name": "MONIQUE LEITE ARAUJO"
+      },
+      {
+        "name": "NORMA DIANA HAMILTON"
+      },
+      {
+        "name": "PABLO CARDELLINO SOTO"
+      },
+      {
+        "name": "RACHAEL ANNELISE RADHAY"
+      },
+      {
+        "name": "RACHEL LOURENCO CORREA"
+      },
+      {
+        "name": "ROSILEI JUSTINIANO CARAYANNIS"
+      },
+      {
+        "name": "SABINE GOROVITZ"
+      },
+      {
+        "name": "SABRINA LIMA DE SOUZA CERQUEIRA"
+      },
+      {
+        "name": "SANDRA MARIA PEREZ LOPEZ"
+      },
+      {
+        "name": "SUSANA MARTINEZ MARTINEZ"
+      },
+      {
+        "name": "THIAGO BLANCH PIRES"
+      },
+      {
+        "name": "VALMI HATJE FAGGION"
+      },
+      {
+        "name": "VANESSA BORGES DE ALMEIDA"
+      },
+      {
+        "name": "VERONICA VINECKY"
+      },
+      {
+        "name": "VIRGILIO PEREIRA DE ALMEIDA"
+      },
+      {
+        "name": "VIRGINIA ANDREA GARRIDO MEIRELLES"
+      },
+      {
+        "name": "YAMILKA RABASA FERNANDEZ"
+      },
+      {
+        "name": "YUKI MUKAI"
+      },
+      {
+        "name": "YUKO TAKANO"
+      },
+      {
+        "name": "ADRIANA DE JESUS PEREIRA"
+      },
+      {
+        "name": "ISABELA MOREIRA DE OLIVEIRA"
+      },
+      {
+        "name": "QUEFREN RAMSES CORREA LOPES"
+      },
+      {
+        "name": "SOPHIE CELINE SYLVIE GUERIN MATEUS"
+      },
+      {
+        "name": "SORAYA GONCALVES BERNARDINO DA SILVA"
+      }
+    ]
   },
   {
     "department": "DEPTO MINERALOGIA E PETROLOGIA",
@@ -205,55 +4514,1151 @@
   },
   {
     "department": "DEPTO MÚSICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADEILTON BAIRRAL"
+      },
+      {
+        "name": "ALCIOMAR OLIVEIRA DOS SANTOS"
+      },
+      {
+        "name": "ALESSANDRO BORGES CORDEIRO"
+      },
+      {
+        "name": "ALEXANDRE ARAUJO ANTUNES"
+      },
+      {
+        "name": "ALEXEI ALVES DE QUEIROZ"
+      },
+      {
+        "name": "ANTENOR FERREIRA CORREA"
+      },
+      {
+        "name": "BEATRIZ DUARTE PEREIRA DE MAGALHAES CASTRO"
+      },
+      {
+        "name": "BOJIN ILIEV NEDIALKOV"
+      },
+      {
+        "name": "BRUNO ROSAS MANGUEIRA"
+      },
+      {
+        "name": "CARLOS EDUARDO VIANNA DE MELLO"
+      },
+      {
+        "name": "DANIEL JUNQUEIRA TARQUINIO"
+      },
+      {
+        "name": "DELMARY VASCONCELOS DE ABREU"
+      },
+      {
+        "name": "DENISE CRISTINA FERNANDES SCARAMBONE"
+      },
+      {
+        "name": "EBNEZER MAURILIO NOGUEIRA DA SILVA"
+      },
+      {
+        "name": "EDSON DIAS CARVALHO"
+      },
+      {
+        "name": "FLAVIA MOTOYAMA NARITA"
+      },
+      {
+        "name": "FLAVIO SANTOS PEREIRA"
+      },
+      {
+        "name": "FRANCINE KEMMER CERNEV"
+      },
+      {
+        "name": "GISELE PIRES DE OLIVEIRA MOTA"
+      },
+      {
+        "name": "HUGO LEONARDO RIBEIRO"
+      },
+      {
+        "name": "JESSICA DE ALMEIDA"
+      },
+      {
+        "name": "JOAO PAULO MACHADO"
+      },
+      {
+        "name": "MARIA CRISTINA DE CARVALHO CASCELLI DE AZEVEDO"
+      },
+      {
+        "name": "MARIA DE LOS ANGELES IGLESIAS MACIAS"
+      },
+      {
+        "name": "MARIA LUIZA MESTRINHO SYLVESTRE"
+      },
+      {
+        "name": "MARIO LIMA BRASIL"
+      },
+      {
+        "name": "NADIA VASSILEVA NEDIALKOVA"
+      },
+      {
+        "name": "PAULO ROBERTO AFFONSO MARINS"
+      },
+      {
+        "name": "PEDRO HENRIQUE CARVALHO BIELSCHOWSKY"
+      },
+      {
+        "name": "RENATO DE VASCONCELLOS"
+      },
+      {
+        "name": "RICARDO JOSE DOURADO FREIRE"
+      },
+      {
+        "name": "SERGIO NOGUEIRA MENDES"
+      },
+      {
+        "name": "SIMONE LACORTE RECÔVA"
+      },
+      {
+        "name": "TATIANA OLIVIERI CATANZARO"
+      },
+      {
+        "name": "THADEU DE JESUS E SILVA FILHO"
+      },
+      {
+        "name": "ULIANA DIAS CAMPOS FERLIM"
+      },
+      {
+        "name": "VADIM DA COSTA ARSKY FILHO"
+      },
+      {
+        "name": "ANDREA MATIAS QUEIROZ"
+      },
+      {
+        "name": "EDSON BARBOSA DE OLIVEIRA"
+      },
+      {
+        "name": "ERIKA KALLINA FARIAS DE OLIVEIRA"
+      },
+      {
+        "name": "JORGE LUIZ DE OLIVEIRA JUNIOR"
+      },
+      {
+        "name": "LARISSA PAGGIOLI DE CARVALHO"
+      }
+    ]
   },
   {
     "department": "DEPTO NUTRICAO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANELISE RIZZOLO DE OLIVEIRA"
+      },
+      {
+        "name": "CAIO EDUARDO GONCALVES REIS"
+      },
+      {
+        "name": "ELIANE SAID DUTRA"
+      },
+      {
+        "name": "ELISABETTA GIOCONDA IOLE GIOVANNA RECINE"
+      },
+      {
+        "name": "KARIN ELEONORA SAVIO DE OLIVEIRA"
+      },
+      {
+        "name": "KENIA MARA BAIOCCHI DE CARVALHO"
+      },
+      {
+        "name": "LEANDRO DA CUNHA BAIA"
+      },
+      {
+        "name": "LIVIA DE LACERDA DE OLIVEIRA"
+      },
+      {
+        "name": "MARIA NATACHA TORAL BERTOLIN"
+      },
+      {
+        "name": "MURIEL BAUERMANN GUBERT"
+      },
+      {
+        "name": "NATHALIA MARCOLINI PELUCIO PIZATO"
+      },
+      {
+        "name": "RAQUEL BRAZ ASSUNCAO BOTELHO"
+      },
+      {
+        "name": "REGINA COELI DE CARVALHO ALVES"
+      },
+      {
+        "name": "RENATA ALVES MONTEIRO"
+      },
+      {
+        "name": "RENATA PUPPIN ZANDONADI MAGALHAES"
+      },
+      {
+        "name": "RITA DE CASSIA COELHO DE ALMEIDA AKUTSU"
+      },
+      {
+        "name": "SANDRA FERNANDES ARRUDA"
+      },
+      {
+        "name": "TERESA HELENA MACEDO DA COSTA"
+      },
+      {
+        "name": "VERONICA CORTEZ GINANI"
+      },
+      {
+        "name": "VIVIANE BELINI RODRIGUES"
+      },
+      {
+        "name": "WILMA MARIA COELHO ARAUJO"
+      },
+      {
+        "name": "VIVIAN SIQUEIRA SANTOS GONCALVES"
+      },
+      {
+        "name": "ANANDA DE MESQUITA ARAUJO"
+      },
+      {
+        "name": "BERNARDO ROMAO DE LIMA"
+      },
+      {
+        "name": "CAINARA LINS DRAEGER"
+      },
+      {
+        "name": "LARISSA FROEDE BRITO"
+      },
+      {
+        "name": "PATRICIA DE FRAGAS HINNIG"
+      }
+    ]
   },
   {
     "department": "DEPTO ODONTOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANO DE ALMEIDA DE LIMA"
+      },
+      {
+        "name": "ALINE URSULA ROCHA FERNANDES"
+      },
+      {
+        "name": "ANA CAROLINA ACEVEDO POPPE"
+      },
+      {
+        "name": "ANDRE FERREIRA LEITE"
+      },
+      {
+        "name": "AN TIEN LI"
+      },
+      {
+        "name": "BRUNA FRIZON GREGGIANIN"
+      },
+      {
+        "name": "CARLA MASSIGNAN"
+      },
+      {
+        "name": "CARLA RUFFEIL MOREIRA MESQUITA"
+      },
+      {
+        "name": "CELSO DE FREITAS PEDROSA FILHO"
+      },
+      {
+        "name": "CRISTINE MIRON STEFANI"
+      },
+      {
+        "name": "EDSON DIAS COSTA JUNIOR"
+      },
+      {
+        "name": "ELIANA MITSUE TAKESHITA NAKAGAWA"
+      },
+      {
+        "name": "ELIETE NEVES DA SILVA GUERRA"
+      },
+      {
+        "name": "EMILIA CARVALHO LEITAO BIATO"
+      },
+      {
+        "name": "ERICA NEGRINI LIA"
+      },
+      {
+        "name": "EVELYN MIKAELA KOGAWA"
+      },
+      {
+        "name": "FABIO CARNEIRO MARTINS"
+      },
+      {
+        "name": "FERNANDA CRISTINA PIMENTEL GARCIA"
+      },
+      {
+        "name": "FLAVIANA SOARES ROCHA"
+      },
+      {
+        "name": "FRANCISCO VALTER FREITAS"
+      },
+      {
+        "name": "GILBERTO ALFREDO PUCCA JUNIOR"
+      },
+      {
+        "name": "JACY RIBEIRO DE CARVALHO JUNIOR"
+      },
+      {
+        "name": "JANINE DELLA VALLE ARAKI"
+      },
+      {
+        "name": "LAUDIMAR ALVES DE OLIVEIRA"
+      },
+      {
+        "name": "LEANDRO AUGUSTO HILGERT"
+      },
+      {
+        "name": "LEONARDO FERNANDES DA CUNHA"
+      },
+      {
+        "name": "LILIANA VICENTE MELO DE LUCAS REZENDE"
+      },
+      {
+        "name": "LILIAN MARLY DE PAULA"
+      },
+      {
+        "name": "LUCAS FERNANDO TABATA"
+      },
+      {
+        "name": "MARIA DO CARMO MACHADO GUIMARAES"
+      },
+      {
+        "name": "NAILE DAME TEIXEIRA"
+      },
+      {
+        "name": "NEWTON CHAVES BRAGA"
+      },
+      {
+        "name": "NILCE SANTOS DE MELO"
+      },
+      {
+        "name": "PAULO TADEU DE SOUZA FIGUEIREDO"
+      },
+      {
+        "name": "RAYSSA FERREIRA ZANATTA"
+      },
+      {
+        "name": "ROBERTO MACHADO CRUZ"
+      },
+      {
+        "name": "RODRIGO ANTONIO DE MEDEIROS"
+      },
+      {
+        "name": "ROSA MARIA SILVESTRE"
+      },
+      {
+        "name": "SERGIO BRUZADELLI MACEDO"
+      },
+      {
+        "name": "SORAYA COELHO LEAL"
+      },
+      {
+        "name": "TAIA MARIA BERTO REZENDE"
+      },
+      {
+        "name": "TIAGO ARAUJO COELHO DE SOUZA"
+      },
+      {
+        "name": "VALERIA MARTINS DE ARAUJO CARNEIRO"
+      },
+      {
+        "name": "ANDRE LUIS VIEIRA CORTEZ"
+      },
+      {
+        "name": "ATAYDES DIAS MAGALHAES"
+      },
+      {
+        "name": "DANIEL REY DE CARVALHO"
+      },
+      {
+        "name": "LAIS DAVID AMARAL"
+      },
+      {
+        "name": "YURI SILVESTRE BARBOSA"
+      },
+      {
+        "name": "CRISTIANE TOMAZ ROCHA"
+      },
+      {
+        "name": "FABRICIA ARAUJO PEREIRA"
+      },
+      {
+        "name": "RENATA SARAIVA GUEDES"
+      }
+    ]
   },
   {
     "department": "DEPTO PROCESSOS PSICOLÓGICOS BÁSICOS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "CLAUDIO VAZ TORRES"
+      },
+      {
+        "name": "DOMINGOS SAVIO COELHO"
+      },
+      {
+        "name": "EILEEN PFEIFFER FLORES"
+      },
+      {
+        "name": "FRANCISCO DYONISIO CARDOSO MENDES"
+      },
+      {
+        "name": "GOIARA MENDONCA DE CASTILHO"
+      },
+      {
+        "name": "JORGE MENDES DE OLIVEIRA CASTRO NETO"
+      },
+      {
+        "name": "LAERCIA ABREU VASCONCELOS"
+      },
+      {
+        "name": "LUCIANO GRUDTNER BURATTO"
+      },
+      {
+        "name": "MARIA ANGELA GUIMARAES FEITOSA"
+      },
+      {
+        "name": "MAURO DIAS SILVA JUNIOR"
+      },
+      {
+        "name": "NATALIA MARIA AGGIO"
+      },
+      {
+        "name": "RACHEL NUNES DA CUNHA"
+      },
+      {
+        "name": "RAQUEL MARIA DE MELO"
+      },
+      {
+        "name": "RAQUEL MOREIRA ALO"
+      },
+      {
+        "name": "RICARDO JOSE DE MOURA"
+      },
+      {
+        "name": "RUI DE MORAES JUNIOR"
+      },
+      {
+        "name": "SERGIO LEME DA SILVA"
+      },
+      {
+        "name": "VITOR AUGUSTO MOTTA MOREIRA"
+      },
+      {
+        "name": "WANIA CRISTINA DE SOUZA"
+      },
+      {
+        "name": "IVONE LAURENTINO DOS SANTOS"
+      },
+      {
+        "name": "LETICIA ALVES SANTOS"
+      },
+      {
+        "name": "JOSE APARECIDO DA SILVA"
+      }
+    ]
   },
   {
     "department": "DEPTO PROJETOS EXPRES REPRES ARQ E URBAN",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CLARA GIANNECCHINI"
+      },
+      {
+        "name": "ANDRE GONCALVES DA COSTA"
+      },
+      {
+        "name": "BENNY SCHVARSBERG"
+      },
+      {
+        "name": "CAROLINA PESCATORI CANDIDO DA SILVA"
+      },
+      {
+        "name": "CRISTIANE GUINANCIO"
+      },
+      {
+        "name": "CYNTHIA NOJIMOTO"
+      },
+      {
+        "name": "DANIELA DINIZ RODRIGUES"
+      },
+      {
+        "name": "ELIEL AMERICO SANTANA DA SILVA"
+      },
+      {
+        "name": "ERICA MITIE UMAKOSHI KUNIOCHI"
+      },
+      {
+        "name": "FLAVIANA BARRETO LIRA"
+      },
+      {
+        "name": "FREDERICO FLOSCULO PINHEIRO BARRETO"
+      },
+      {
+        "name": "GABRIELA DE SOUZA TENORIO"
+      },
+      {
+        "name": "GISELLE CHALUB MARTINS"
+      },
+      {
+        "name": "IVAN MANOEL REZENDE DO VALLE"
+      },
+      {
+        "name": "JOARA CRONEMBERGER RIBEIRO SILVA"
+      },
+      {
+        "name": "LEANDRO DE SOUSA CRUZ"
+      },
+      {
+        "name": "LUDMILA SANTOS DE ANDRADE"
+      },
+      {
+        "name": "LUIZ PEDRO DE MELO CESAR"
+      },
+      {
+        "name": "MARCIA URBANO TRONCOSO"
+      },
+      {
+        "name": "MARCOS THADEU QUEIROZ MAGALHAES"
+      },
+      {
+        "name": "MARIA CLAUDIA CANDEIA DE SOUZA"
+      },
+      {
+        "name": "MARIBEL DEL CARMEN ALIAGA FUENTES"
+      },
+      {
+        "name": "MONICA FIUZA GONDIM"
+      },
+      {
+        "name": "NEANDER FURTADO SILVA"
+      },
+      {
+        "name": "PAOLA CALIARI FERRARI MARTINS"
+      },
+      {
+        "name": "PATRICIA SILVA GOMES"
+      },
+      {
+        "name": "PAULO ROBERTO CARVALHO TAVARES"
+      },
+      {
+        "name": "RAQUEL NAVES BLUMENSCHEIN"
+      },
+      {
+        "name": "RENAN DO NASCIMENTO BALZANI"
+      },
+      {
+        "name": "SERGIO RIZO DUTRA"
+      },
+      {
+        "name": "VANIA RAQUEL TELES LOUREIRO"
+      },
+      {
+        "name": "STEFANO GALIMI"
+      }
+    ]
   },
   {
     "department": "DEPTO PSICOLOGIA ESCOLAR DESENVOLVIMENTO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ASDRUBAL BORGES FORMIGA SOBRINHO"
+      },
+      {
+        "name": "CLAISY MARIA MARINHO ARAUJO"
+      },
+      {
+        "name": "DANIELE NUNES HENRIQUE SILVA"
+      },
+      {
+        "name": "FAUSTON NEGREIROS"
+      },
+      {
+        "name": "GABRIELA SOUSA DE MELO MIETTO"
+      },
+      {
+        "name": "ISABELA MACHADO DA SILVA"
+      },
+      {
+        "name": "ISABELLE PATRICIA FREITAS SOARES CHARIGLIONE"
+      },
+      {
+        "name": "JANE FARIAS CHAGAS FERREIRA"
+      },
+      {
+        "name": "JOSE FERNANDO PATINO TORRES"
+      },
+      {
+        "name": "LARISSA MEDEIROS MARINHO DOS SANTOS"
+      },
+      {
+        "name": "LUCIA HELENA CAVASIN ZABOTTO PULINO"
+      },
+      {
+        "name": "MARISTELA ROSSATO MARTINS"
+      },
+      {
+        "name": "MONICA SOUZA NEVES PEREIRA"
+      },
+      {
+        "name": "REGINA LUCIA SUCUPIRA PEDROZA"
+      },
+      {
+        "name": "RENATA MUNIZ PRADO BASTO"
+      },
+      {
+        "name": "SILVIANE BONACCORSI BARBATO"
+      },
+      {
+        "name": "WILSA MARIA RAMOS"
+      },
+      {
+        "name": "ANA CAROLINA CERQUEIRA MEDRADO"
+      },
+      {
+        "name": "FATIMA ALI ABDALAH ABDEL CADER NASCIMENTO"
+      },
+      {
+        "name": "JANETE TONETE SUAREZ"
+      }
+    ]
   },
   {
     "department": "DEPTO PSICOLOGIA SOCIAL E DO TRABALHO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ELAINE RABELO NEIVA"
+      },
+      {
+        "name": "EMILIO PERES FACAS"
+      },
+      {
+        "name": "GARDENIA DA SILVA ABBAD"
+      },
+      {
+        "name": "JOSEMBERG MOURA DE ANDRADE"
+      },
+      {
+        "name": "JULIANA BARREIROS PORTO"
+      },
+      {
+        "name": "KATIA ELIZABETH PUENTE PALACIOS"
+      },
+      {
+        "name": "MIRIAM MARTINS ALBA HESKETH"
+      },
+      {
+        "name": "RONALDO PILATI RODRIGUES"
+      },
+      {
+        "name": "TIAGO JESSE SOUZA DE LIMA"
+      },
+      {
+        "name": "MARY SANDRA CARLOTTO"
+      }
+    ]
   },
   {
     "department": "DEPTO SAUDE COLETIVA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA VALERIA MACHADO MENDONCA"
+      },
+      {
+        "name": "CARLO HENRIQUE GORETTI ZANETTI"
+      },
+      {
+        "name": "CLAUDIA MARA PEDROSA"
+      },
+      {
+        "name": "CLAUDIO FORTES GARCIA LORENZO"
+      },
+      {
+        "name": "DAIS GONCALVES ROCHA"
+      },
+      {
+        "name": "DENISE DE LIMA COSTA FURLANETTO"
+      },
+      {
+        "name": "EDGAR MERCHAN HAMANN"
+      },
+      {
+        "name": "ERICA LIMA COSTA DE MENEZES"
+      },
+      {
+        "name": "EVERTON LUIS PEREIRA"
+      },
+      {
+        "name": "HELENA ERI SHIMIZU"
+      },
+      {
+        "name": "IVAN RICARDO ZIMMERMANN"
+      },
+      {
+        "name": "JONAS LOTUFO BRANT DE CARVALHO"
+      },
+      {
+        "name": "MARCUS TOLENTINO SILVA"
+      },
+      {
+        "name": "MARIA DA GRACA LUDERITZ HOEFEL"
+      },
+      {
+        "name": "MARIA FATIMA DE SOUSA"
+      },
+      {
+        "name": "MARIANNE LUCENA DA SILVA"
+      },
+      {
+        "name": "MARIA PAULA DO AMARAL ZAITUNE"
+      },
+      {
+        "name": "MAURO NISKIER SANCHEZ"
+      },
+      {
+        "name": "MUNA MUHAMMAD ODEH"
+      },
+      {
+        "name": "ROSAMARIA GIATTI CARNEIRO"
+      },
+      {
+        "name": "THAIS BRANQUINHO OLIVEIRA FRAGELLI"
+      },
+      {
+        "name": "WALLACE ENRICO BOAVENTURA GONCALVES DOS SANTOS"
+      },
+      {
+        "name": "XIMENA PAMELA CLAUDIA DIAZ BERMUDEZ"
+      },
+      {
+        "name": "DENISE OSORIO SEVERO"
+      },
+      {
+        "name": "NATAN MONSORES DE SA"
+      },
+      {
+        "name": "DANIEL GOMES MONTEIRO BELTRAMMI"
+      },
+      {
+        "name": "KLAUSS KLEYDMANN SABINO GARCIA"
+      }
+    ]
   },
   {
     "department": "DEPTO SERVIÇO SOCIAL",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AILTA BARROS DE SOUZA"
+      },
+      {
+        "name": "ANDREIA DE OLIVEIRA"
+      },
+      {
+        "name": "CAMILA POTYARA PEREIRA"
+      },
+      {
+        "name": "CRISTIANO GUEDES DE SOUZA"
+      },
+      {
+        "name": "EVILASIO DA SILVA SALVADOR"
+      },
+      {
+        "name": "HAYESKA COSTA BARROSO"
+      },
+      {
+        "name": "ISABELA RAMOS RIBEIRO"
+      },
+      {
+        "name": "JANAINA LOPES DO NASCIMENTO DUARTE"
+      },
+      {
+        "name": "KAREN SANTANA DE ALMEIDA VIEIRA"
+      },
+      {
+        "name": "KENIA AUGUSTA FIGUEIREDO"
+      },
+      {
+        "name": "LEONARDO RODRIGUES DE OLIVEIRA ORTEGAL"
+      },
+      {
+        "name": "LILIAM DOS REIS SOUZA SANTOS"
+      },
+      {
+        "name": "LIVIA BARBOSA PEREIRA"
+      },
+      {
+        "name": "MARIA ELAENE RODRIGUES ALVES"
+      },
+      {
+        "name": "MARIA LUCIA LOPES DA SILVA"
+      },
+      {
+        "name": "MARLENE DE JESUS SILVA SANTOS"
+      },
+      {
+        "name": "MICHELLY FERREIRA MONTEIRO ELIAS"
+      },
+      {
+        "name": "MIRIAM DE SOUZA LEAO ALBUQUERQUE"
+      },
+      {
+        "name": "NEWTON NARCISO GOMES JUNIOR"
+      },
+      {
+        "name": "PATRICIA CRISTINA DA SILVA PINHEIRO"
+      },
+      {
+        "name": "PERCI COELHO DE SOUZA"
+      },
+      {
+        "name": "PRISCILLA MAIA DE ANDRADE"
+      },
+      {
+        "name": "REGINALDO GHIRALDELLI"
+      },
+      {
+        "name": "SANDRA OLIVEIRA TEIXEIRA"
+      },
+      {
+        "name": "SILVIA CRISTINA YANNOULAS"
+      },
+      {
+        "name": "THAIS KRISTOSCH IMPERATORI"
+      },
+      {
+        "name": "VALDENIZIA BENTO PEIXOTO"
+      },
+      {
+        "name": "LUCELIA LUIZ PEREIRA"
+      },
+      {
+        "name": "MARILEIA GOIN"
+      },
+      {
+        "name": "ALINE ALVES DE MENEZES"
+      },
+      {
+        "name": "ERCI RIBEIRO"
+      },
+      {
+        "name": "LAIS VIEIRA PINELLI"
+      },
+      {
+        "name": "LEONARDO DIAS ALVES"
+      },
+      {
+        "name": "LILIANE ALVES FERNANDES"
+      },
+      {
+        "name": "LUCIO WILLIAN MOTA SIQUEIRA"
+      },
+      {
+        "name": "MARIA DE FATIMA DOS SANTOS SILVA"
+      },
+      {
+        "name": "SAMIRA DE ALKIMIM BASTOS MIRANDA"
+      },
+      {
+        "name": "SIMONE ROCHA DA ROCHA PIRES MONTEIRO"
+      }
+    ]
   },
   {
     "department": "DEPTO TECNOLOGIA ARQUITETURA URBANISMO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA CAROLINA CORDEIRO CORREIA LIMA"
+      },
+      {
+        "name": "ANDREA PRADO ABREU REIS LISERRE"
+      },
+      {
+        "name": "CHENIA ROCHA FIGUEIREDO AVILA"
+      },
+      {
+        "name": "CLAUDIA ESTRELA PORTO"
+      },
+      {
+        "name": "CLAUDIA NAVES DAVID AMORIM"
+      },
+      {
+        "name": "DANIEL RICHARD SANT ANA"
+      },
+      {
+        "name": "GUSTAVO DE LUNA SALES"
+      },
+      {
+        "name": "JOAO DA COSTA PANTOJA"
+      },
+      {
+        "name": "JOSE MANOEL MORALES SANCHEZ"
+      },
+      {
+        "name": "JULIANA ANDRADE BORGES DE SOUSA"
+      },
+      {
+        "name": "LUIS ALEJANDRO PEREZ PENA"
+      },
+      {
+        "name": "MARCIO ALBUQUERQUE BUSON"
+      },
+      {
+        "name": "MARIA DO CARMO DE LIMA BEZERRA"
+      },
+      {
+        "name": "OSCAR LUIS FERREIRA"
+      },
+      {
+        "name": "VANDA ALICE GARCIA ZANONI"
+      },
+      {
+        "name": "MARCIO AUGUSTO ROMA BUZAR"
+      },
+      {
+        "name": "PAULA LELIS RABELO ALBALA"
+      }
+    ]
   },
   {
     "department": "DEPTO TEORIA HISTORIA ARQUIT E URBANISM",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA ELISABETE DE ALMEIDA MEDEIROS"
+      },
+      {
+        "name": "ANA PAULA CAMPOS GURGEL"
+      },
+      {
+        "name": "CARLOS HENRIQUE MAGALHAES DE LIMA"
+      },
+      {
+        "name": "EDUARDO PIERROTTI ROSSETTI"
+      },
+      {
+        "name": "ELANE RIBEIRO PEIXOTO"
+      },
+      {
+        "name": "GABRIEL DORFMAN"
+      },
+      {
+        "name": "MARIA CECILIA FILGUEIRAS LIMA GABRIELE"
+      },
+      {
+        "name": "MARIA FERNANDA DERNTL"
+      },
+      {
+        "name": "MIGUEL GALLY DE ANDRADE"
+      },
+      {
+        "name": "PEDRO PAULO PALAZZO DE ALMEIDA"
+      },
+      {
+        "name": "RICARDO TREVISAN"
+      },
+      {
+        "name": "RODRIGO SANTOS DE FARIA"
+      },
+      {
+        "name": "ANDREY ROSENTHAL SCHLEE"
+      },
+      {
+        "name": "ANA LUIZA ALVES DE OLIVEIRA"
+      },
+      {
+        "name": "MAIRA OLIVEIRA GUIMARAES"
+      },
+      {
+        "name": "MARCILIO DE OLIVEIRA SUDERIO"
+      },
+      {
+        "name": "NADIA MENDES DE MOURA"
+      },
+      {
+        "name": "SAVIO TADEU GUIMARAES"
+      }
+    ]
   },
   {
     "department": "DEPTO TEORIA LITERÁRIA E LITERATURA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA DE FATIMA ALEXANDRINO LIMA BARBOSA"
+      },
+      {
+        "name": "ALEXANDRE SIMOES PILATI"
+      },
+      {
+        "name": "ANA CLARA MAGALHAES DE MEDEIROS"
+      },
+      {
+        "name": "ANA CLAUDIA DA SILVA"
+      },
+      {
+        "name": "ANA LAURA DOS REIS CORREA"
+      },
+      {
+        "name": "ANDERSON LUIS NUNES DA MATA"
+      },
+      {
+        "name": "ANDRE LUIS GOMES"
+      },
+      {
+        "name": "ANNA HERRON MORE"
+      },
+      {
+        "name": "AUGUSTO RODRIGUES DA SILVA JUNIOR"
+      },
+      {
+        "name": "CLAUDIO ROBERTO VIEIRA BRAGA"
+      },
+      {
+        "name": "DANGLEI DE CASTRO PEREIRA"
+      },
+      {
+        "name": "DANIEL TEIXEIRA DA COSTA ARAUJO"
+      },
+      {
+        "name": "DEANE MARIA FONSECA DE CASTRO E COSTA"
+      },
+      {
+        "name": "DONATELLA NATILI"
+      },
+      {
+        "name": "EDVALDO APARECIDO BERGAMO"
+      },
+      {
+        "name": "ELIANA LUTZGARDA COLLABINA RAMIREZ ABRAHAO"
+      },
+      {
+        "name": "ERIVELTO DA ROCHA CARVALHO"
+      },
+      {
+        "name": "FABRICIA WALACE RODRIGUES"
+      },
+      {
+        "name": "GABRIEL VICTOR ROCHA PINEZI"
+      },
+      {
+        "name": "HENRYK SIEWIERSKI"
+      },
+      {
+        "name": "JOAO VIANNEY CAVALCANTI NUTO"
+      },
+      {
+        "name": "JOSE LUIS MARTINEZ AMARO"
+      },
+      {
+        "name": "LUCIA HELENA MARQUES RIBEIRO"
+      },
+      {
+        "name": "MARIA DA GLORIA MAGALHAES DOS REIS"
+      },
+      {
+        "name": "MARIA ISABEL EDOM PIRES"
+      },
+      {
+        "name": "PATRICIA TRINDADE NAKAGOME"
+      },
+      {
+        "name": "PAULO CESAR THOMAZ"
+      },
+      {
+        "name": "PAWEL JERZY HEJMANOWSKI"
+      },
+      {
+        "name": "PEDRO MANDAGARA RIBEIRO"
+      },
+      {
+        "name": "PIERO LUIS ZANETTI EYBEN"
+      },
+      {
+        "name": "REGINA DALCASTAGNE"
+      },
+      {
+        "name": "RICARDO ARAUJO"
+      },
+      {
+        "name": "ROBSON COELHO TINOCO"
+      },
+      {
+        "name": "ROGERIO DA SILVA LIMA"
+      },
+      {
+        "name": "VIRGINIA MARIA VASCONCELOS LEAL"
+      },
+      {
+        "name": "WILIAM ALVES BISERRA"
+      },
+      {
+        "name": "DAYSE RAYANE E SILVA MUNIZ"
+      },
+      {
+        "name": "DENISE MOREIRA SANTANA"
+      },
+      {
+        "name": "GABRIEL ESTIDES DELGADO"
+      },
+      {
+        "name": "MARCOS EUSTAQUIO DE PAULA NETO"
+      },
+      {
+        "name": "RODRIGO DAVILA BRAGA SILVA"
+      },
+      {
+        "name": "THAIS STEPHANNIE FREITAS SILVA"
+      },
+      {
+        "name": "VINICIUS SOARES ABREU"
+      }
+    ]
   },
   {
     "department": "DEPTO ZOOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANTONIO JOSE CAMILLO DE AGUIAR"
+      },
+      {
+        "name": "CECILIA WAICHERT MONTEIRO"
+      },
+      {
+        "name": "FELIPE MALHEIROS GAWRYSZEWSKI"
+      },
+      {
+        "name": "GUARINO RINALDI COLLI"
+      },
+      {
+        "name": "JOSE ROBERTO PUJOL LUZ"
+      },
+      {
+        "name": "LUDMILLA MOURA DE SOUZA AGUIAR"
+      },
+      {
+        "name": "MARINA REGINA FRIZZAS"
+      },
+      {
+        "name": "MIGUEL ANGELO MARINI"
+      },
+      {
+        "name": "PAULO CESAR MOTTA"
+      },
+      {
+        "name": "REGINALDO CONSTANTINO"
+      },
+      {
+        "name": "RICARDO BOMFIM MACHADO"
+      },
+      {
+        "name": "ROBERTO BRANDAO CAVALCANTI"
+      },
+      {
+        "name": "VERONICA DE BARROS SLOBODIAN MOTTA"
+      },
+      {
+        "name": "PEDRO ZURVAINO PALMEIRA MELO ROSA DE MORAES"
+      }
+    ]
   },
   {
     "department": "DIRETORIA DO CENTRO DE APOIO AO DESENVOLVIMENTO TECNOLÓGICO",
@@ -261,47 +5666,2239 @@
   },
   {
     "department": "FACULDADE DE AGRONOMIA E MEDICINA VETERINÁRIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALESSANDRA MONTEIRO DE PAULA"
+      },
+      {
+        "name": "ALINE MONDINI CALIL RACANICCI"
+      },
+      {
+        "name": "ANA CAROLINA MORTARI"
+      },
+      {
+        "name": "ANA MARIA RESENDE JUNQUEIRA"
+      },
+      {
+        "name": "ANGELA PATRICIA SANTANA"
+      },
+      {
+        "name": "ANTONIO RAPHAEL TEIXEIRA NETO"
+      },
+      {
+        "name": "ARMANDO FORNAZIER"
+      },
+      {
+        "name": "CASSIO JOSE DA SILVA"
+      },
+      {
+        "name": "CHRISTINE SOUZA MARTINS"
+      },
+      {
+        "name": "CICERO CELIO DE FIGUEIREDO"
+      },
+      {
+        "name": "CLAYTON QUIRINO MENDES"
+      },
+      {
+        "name": "CRISTIANO BARROS DE MELO"
+      },
+      {
+        "name": "CRISTINA SCHETINO BASTOS"
+      },
+      {
+        "name": "DEBORAH CLEA RUY"
+      },
+      {
+        "name": "DELVIO SANDRI"
+      },
+      {
+        "name": "EDUARDO MAURICIO MENDES DE LIMA"
+      },
+      {
+        "name": "EIYTI KATO"
+      },
+      {
+        "name": "ELEN PRESOTTO"
+      },
+      {
+        "name": "EVERALDO ANASTACIO PEREIRA"
+      },
+      {
+        "name": "FABIANA CARMANINI RIBEIRO"
+      },
+      {
+        "name": "FABIANO JOSE FERREIRA DE SANT ANA"
+      },
+      {
+        "name": "FABIO HENRIQUE BEZERRA XIMENES"
+      },
+      {
+        "name": "FERNANDA CIPRIANO ROCHA"
+      },
+      {
+        "name": "FILIPE BITTENCOURT MACHADO DE SOUZA"
+      },
+      {
+        "name": "FLAVIANE DE CARVALHO CANAVESI"
+      },
+      {
+        "name": "FRANCISCO ERNESTO MORENO BERNAL"
+      },
+      {
+        "name": "FRANCISCO FAGGION"
+      },
+      {
+        "name": "GABRIEL DA SILVA MEDINA"
+      },
+      {
+        "name": "GERVASIO FERNANDO ALVES RIOS"
+      },
+      {
+        "name": "GIANE REGINA PALUDO"
+      },
+      {
+        "name": "GINO CHAVES DA ROCHA"
+      },
+      {
+        "name": "GLAUCIA BUENO PEREIRA NETO"
+      },
+      {
+        "name": "ITIBERE SALDANHA SILVA"
+      },
+      {
+        "name": "IVO PIVATO"
+      },
+      {
+        "name": "JADER GALBA BUSATO"
+      },
+      {
+        "name": "JAIM JOSE DA SILVA JUNIOR"
+      },
+      {
+        "name": "JAIR DUARTE DA COSTA JUNIOR"
+      },
+      {
+        "name": "JEAN PIERRE PASSOS MEDAETS"
+      },
+      {
+        "name": "JOAO BATISTA SOARES"
+      },
+      {
+        "name": "JOAO JOSE DA SILVA JUNIOR"
+      },
+      {
+        "name": "JORDANA MOURA CAETANO"
+      },
+      {
+        "name": "JOSE AMERICO SOARES GARCIA"
+      },
+      {
+        "name": "JOSE MAURO DA SILVA DIOGO"
+      },
+      {
+        "name": "JOSE RENATO JUNQUEIRA BORGES"
+      },
+      {
+        "name": "JOSE RICARDO PEIXOTO"
+      },
+      {
+        "name": "JULIANA TARGINO SILVA ALMEIDA E MACEDO"
+      },
+      {
+        "name": "JULIO BAREA PASTORE"
+      },
+      {
+        "name": "LIGIA MARIA CANTARINO DA COSTA"
+      },
+      {
+        "name": "LIRIA QUEIROZ LUZ HIRANO"
+      },
+      {
+        "name": "LUCI SAYORI MURATA"
+      },
+      {
+        "name": "MAGALI COSTA GUIMARAES"
+      },
+      {
+        "name": "MAISA ISABELA RODRIGUES"
+      },
+      {
+        "name": "MAISA SANTOS JOAQUIM"
+      },
+      {
+        "name": "MANOEL PEREIRA DE ANDRADE"
+      },
+      {
+        "name": "MARCELO FAGIOLI"
+      },
+      {
+        "name": "MARCELO ISMAR SILVA SANTANA"
+      },
+      {
+        "name": "MARCELO JOSE DE MELLO REZENDE"
+      },
+      {
+        "name": "MARCIO ANTONIO MENDONCA"
+      },
+      {
+        "name": "MARCIO BOTELHO DE CASTRO"
+      },
+      {
+        "name": "MARCIO DE CARVALHO PIRES"
+      },
+      {
+        "name": "MARIA JULIA PANTOJA DE BRITTO"
+      },
+      {
+        "name": "MARIA LUCRECIA GEROSA RAMOS"
+      },
+      {
+        "name": "MARINA ROLIM BILICH NEUMANN"
+      },
+      {
+        "name": "MARLON VINICIUS BRISOLA"
+      },
+      {
+        "name": "MICHELLE SOUZA VILELA"
+      },
+      {
+        "name": "MIREYA EUGENIA VALENCIA PERAFAN"
+      },
+      {
+        "name": "MOISES VILLAMIL BALESTRO"
+      },
+      {
+        "name": "NARA OLIVEIRA SILVA SOUZA"
+      },
+      {
+        "name": "NICOLAU BRITO DA CUNHA"
+      },
+      {
+        "name": "OSVALDO KIYOSHI YAMANISHI"
+      },
+      {
+        "name": "PATRICIA DINIZ ANDRADE"
+      },
+      {
+        "name": "PAULA DINIZ GALERA"
+      },
+      {
+        "name": "PEDRO MIGUEL OCAMPOS PEDROSO"
+      },
+      {
+        "name": "RICARDO CARMONA"
+      },
+      {
+        "name": "RICARDO MIYASAKA DE ALMEIDA"
+      },
+      {
+        "name": "RICARDO TITZE DE ALMEIDA"
+      },
+      {
+        "name": "RITA DE CASSIA CAMPEBELL"
+      },
+      {
+        "name": "RODRIGO ARRUDA DE OLIVEIRA"
+      },
+      {
+        "name": "RODRIGO DIANA NAVARRO"
+      },
+      {
+        "name": "RODRIGO VIDAL OLIVEIRA"
+      },
+      {
+        "name": "SAMUEL MARTIN"
+      },
+      {
+        "name": "SELMA REGINA MAGGIOTTO"
+      },
+      {
+        "name": "SERGIO LUCIO SALOMON CABRAL FILHO"
+      },
+      {
+        "name": "SIMONE PERECMANIS"
+      },
+      {
+        "name": "SOLANGE DA COSTA NOGUEIRA"
+      },
+      {
+        "name": "TAIRONE PAIVA LEAO"
+      },
+      {
+        "name": "THIAGO DIAS TROMBETA"
+      },
+      {
+        "name": "TIAGO PEREIRA DA SILVA CORREIA"
+      },
+      {
+        "name": "VITOR SALVADOR PICAO GONCALVES"
+      },
+      {
+        "name": "JOSE DE OLIVEIRA CRUZ"
+      },
+      {
+        "name": "LETICIA BATELLI DE OLIVEIRA"
+      },
+      {
+        "name": "STEFANIA MARCIA DE OLIVEIRA SOUZA"
+      },
+      {
+        "name": "THIAGO MOREIRA DE CARVALHO"
+      },
+      {
+        "name": "ROSANA NOGUEIRA DE MORAES"
+      },
+      {
+        "name": "CRISTIANE DA SILVA PEREIRA"
+      },
+      {
+        "name": "GEOVANI FERREIRA ALVES"
+      },
+      {
+        "name": "MARIA ZILDERLANIA ALVES"
+      },
+      {
+        "name": "MAYRA BATISTA BITENCOURT FAGUNDES"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE ARQUITETURA E URBANISMO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "CAIO FREDERICO E SILVA"
+      },
+      {
+        "name": "CARLOS EDUARDO LUNA DE MELO"
+      },
+      {
+        "name": "LIZA MARIA SOUZA DE ANDRADE"
+      },
+      {
+        "name": "LUCIANA SABOIA FONSECA CRUZ"
+      },
+      {
+        "name": "CARLA FREITAS PACHECO PEREIRA"
+      },
+      {
+        "name": "NATHALY SARASTY NARVAEZ"
+      },
+      {
+        "name": "TATIANA MAMEDE SALUM CHAER"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE CEILÂNDIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA MARIA DUARTE"
+      },
+      {
+        "name": "ALDIRA GUIMARAES DUARTE DOMINGUEZ"
+      },
+      {
+        "name": "ALDO HENRIQUE FONSECA PACHECO TAVARES"
+      },
+      {
+        "name": "ALECSSANDRA DE FATIMA SILVA VIDUEDO"
+      },
+      {
+        "name": "ALEXIS FONSECA WELKER"
+      },
+      {
+        "name": "ALEX LEITE PEREIRA"
+      },
+      {
+        "name": "ALINE ARAUJO DO CARMO"
+      },
+      {
+        "name": "ALINE MARTINS DE TOLEDO"
+      },
+      {
+        "name": "ALINE TEIXEIRA ALVES"
+      },
+      {
+        "name": "ANA CLARA BONINI ROCHA"
+      },
+      {
+        "name": "ANA CLAUDIA AFONSO VALLADARES TORRES"
+      },
+      {
+        "name": "ANA CRISTINA DE JESUS ALVES"
+      },
+      {
+        "name": "ANA RITA COSTA DE SOUZA LOBO BRAGA"
+      },
+      {
+        "name": "ANDERSON DE JESUS GOMES"
+      },
+      {
+        "name": "ANDREA DONATTI GALLASSI"
+      },
+      {
+        "name": "ANNA CAROLINA FALEIROS MARTINS"
+      },
+      {
+        "name": "ANTONIA DE JESUS ANGULO TUESTA"
+      },
+      {
+        "name": "ARAKEN DOS SANTOS WERNECK RODRIGUES"
+      },
+      {
+        "name": "AVELINY MANTOVAN LIMA"
+      },
+      {
+        "name": "BREITNER LUIZ TAVARES"
+      },
+      {
+        "name": "CAMILA ALVES AREDA"
+      },
+      {
+        "name": "CARINE ROYER"
+      },
+      {
+        "name": "CARLA NUNES DE ARAUJO"
+      },
+      {
+        "name": "CARLA PINTAS MARQUES"
+      },
+      {
+        "name": "CARLOS EDUARDO DOS SANTOS"
+      },
+      {
+        "name": "CARMEM JENA MACHADO CAETANO"
+      },
+      {
+        "name": "CAROLINA CANGEMI GREGORUTTI"
+      },
+      {
+        "name": "CAROLINE DE OLIVEIRA ALVES"
+      },
+      {
+        "name": "CASANDRA GENOVEVA ROSALES MARTINS PONCE DE LEON"
+      },
+      {
+        "name": "CLARISSA CARDOSO DOS SANTOS COUTO PAZ"
+      },
+      {
+        "name": "CLAURE NAIN LUNARDI GOMES"
+      },
+      {
+        "name": "CORINA ELIZABETH SATLER"
+      },
+      {
+        "name": "CRIS RENATA GROU VOLPE"
+      },
+      {
+        "name": "CRISTINA LEMOS BARBOSA FURIA"
+      },
+      {
+        "name": "DANIELA CASTILHO ORSI"
+      },
+      {
+        "name": "DANIELA DA SILVA RODRIGUES"
+      },
+      {
+        "name": "DANIELLE KAISER DE SOUZA"
+      },
+      {
+        "name": "DAYANI GALATO"
+      },
+      {
+        "name": "DIANE MARIA SCHERER KUHN LAGO"
+      },
+      {
+        "name": "DIEGO MADUREIRA DE OLIVEIRA"
+      },
+      {
+        "name": "EDGAR GUIMARAES BIONE"
+      },
+      {
+        "name": "EDUARDO ANTONIO FERREIRA"
+      },
+      {
+        "name": "EDUARDO MAGALHAES DA SILVA"
+      },
+      {
+        "name": "ELAINE CRISTINA LEITE PEREIRA"
+      },
+      {
+        "name": "ELIANA FORTES GRIS"
+      },
+      {
+        "name": "ELTON CLEMENTINO DA SILVA"
+      },
+      {
+        "name": "EMERSON FACHIN MARTINS"
+      },
+      {
+        "name": "EMILIA VITORIA DA SILVA"
+      },
+      {
+        "name": "ERICA QUINAGLIA SILVA"
+      },
+      {
+        "name": "EVERTON NUNES DA SILVA"
+      },
+      {
+        "name": "FABIANE HIRATSUKA VEIGA DE SOUZA"
+      },
+      {
+        "name": "FELIPE AUGUSTO DOS SANTOS MENDES"
+      },
+      {
+        "name": "FERNANDA PASINATO"
+      },
+      {
+        "name": "FLAVIA DA SILVA NADER MOTTA"
+      },
+      {
+        "name": "FLAVIA MAZITELLI DE OLIVEIRA"
+      },
+      {
+        "name": "FLAVIA REIS DE ANDRADE"
+      },
+      {
+        "name": "GERSON CIPRIANO JUNIOR"
+      },
+      {
+        "name": "GLORIA ESTER CADAVID RESTREPO"
+      },
+      {
+        "name": "GRASIELLE SILVEIRA TAVARES"
+      },
+      {
+        "name": "GRAZIELLA ANSELMO JOANITTI"
+      },
+      {
+        "name": "GRAZIELLA FRANCA BERNARDELLI CIPRIANO"
+      },
+      {
+        "name": "IONEIDE DE OLIVEIRA CAMPOS"
+      },
+      {
+        "name": "ISABELLA MONTEIRO DE CASTRO SILVA"
+      },
+      {
+        "name": "IZABEL CRISTINA RODRIGUES DA SILVA"
+      },
+      {
+        "name": "JAMILA REIS DE OLIVEIRA"
+      },
+      {
+        "name": "JANAINA MEIRELLES SOUSA"
+      },
+      {
+        "name": "JOAO LUIZ QUAGLIOTI DURIGAN"
+      },
+      {
+        "name": "JOAO PAULO CHIEREGATO MATHEUS"
+      },
+      {
+        "name": "JORGE LUIS LOPES ZEREDO"
+      },
+      {
+        "name": "JOSE AIRTON JORGE ALVES"
+      },
+      {
+        "name": "JOSE ANTONIO ITURRI DE LA MATA"
+      },
+      {
+        "name": "JOSE EDUARDO PANDOSSIO"
+      },
+      {
+        "name": "JOSENAIDE ENGRACIA DOS SANTOS"
+      },
+      {
+        "name": "JOSEVAN CERQUEIRA LEAL"
+      },
+      {
+        "name": "JOSIANE MARIA OLIVEIRA DE SOUZA"
+      },
+      {
+        "name": "JULIANA DE FARIA FRACON E ROMAO"
+      },
+      {
+        "name": "JULIANA MACHADO SCHARDOSIM"
+      },
+      {
+        "name": "JULIANA MARTINS PINTO"
+      },
+      {
+        "name": "JULIANA ONOFRE DE LIRA"
+      },
+      {
+        "name": "JULIANA VALERIA DE MELO"
+      },
+      {
+        "name": "JULIANO ALEXANDRE CHAKER"
+      },
+      {
+        "name": "KATARINNE LIMA MORAES"
+      },
+      {
+        "name": "KATIA VANESSA PINTO DE MENESES"
+      },
+      {
+        "name": "KELB BOUSQUET SANTOS"
+      },
+      {
+        "name": "LAIANE MEDEIROS RIBEIRO"
+      },
+      {
+        "name": "LARISSA FERNANDES MATOS"
+      },
+      {
+        "name": "LARISSA GRANDI VAITSMAN BASTOS"
+      },
+      {
+        "name": "LAURA DAVISON MANGILLI TONI"
+      },
+      {
+        "name": "LEONARDO PETRUS DA SILVA PAZ"
+      },
+      {
+        "name": "LETICIA CORREA CELESTE"
+      },
+      {
+        "name": "LETICIA MEDA VENDRUSCULO FANGEL"
+      },
+      {
+        "name": "LIANA BARBARESCO GOMIDE MATHEUS"
+      },
+      {
+        "name": "LIVIA CRISTINA LIRA DE SA BARRETO"
+      },
+      {
+        "name": "LUCAS JUNQUEIRA DE FREITAS MOREL"
+      },
+      {
+        "name": "LUCIANO RAMOS DE LIMA"
+      },
+      {
+        "name": "LUIS ALEXANDRE MUEHLMANN"
+      },
+      {
+        "name": "LUISIANE DE AVILA SANTANA"
+      },
+      {
+        "name": "LUIZA DE MARILAC MEIRELES BARBOSA"
+      },
+      {
+        "name": "MAGNO NUNES FARIAS"
+      },
+      {
+        "name": "MANI INDIANA FUNEZ"
+      },
+      {
+        "name": "MARCELO HENRIQUE SOUSA"
+      },
+      {
+        "name": "MARCIA CRISTINA DA SILVA MAGRO"
+      },
+      {
+        "name": "MARCOS TAKASHI OBARA"
+      },
+      {
+        "name": "MARGO GOMES DE OLIVEIRA KARNIKOWSKI"
+      },
+      {
+        "name": "MARIA DE NAZARETH RODRIGUES MALCHER DE OLIVEIRA SILVA"
+      },
+      {
+        "name": "MARIA HOSANA CONCEICAO"
+      },
+      {
+        "name": "MARIA INEZ MONTAGNER"
+      },
+      {
+        "name": "MARIANA SODARIO CRUZ"
+      },
+      {
+        "name": "MARIANNA ASSUNCAO FIGUEIREDO HOLANDA"
+      },
+      {
+        "name": "MARINA MORATO STIVAL LIMA"
+      },
+      {
+        "name": "MAURICIO ROBAYO TAMAYO"
+      },
+      {
+        "name": "MAYSA LUCHESI CERA"
+      },
+      {
+        "name": "MELISSA NARA DE CARVALHO PICINATO PIROLA"
+      },
+      {
+        "name": "MICHELINE MARIE MILWARD DE AZEVEDO MEINERS"
+      },
+      {
+        "name": "MICHELLE ZAMPIERI IPOLITO"
+      },
+      {
+        "name": "MIGUEL ANGELO MONTAGNER"
+      },
+      {
+        "name": "OLGA MARIA RAMALHO DE ALBUQUERQUE"
+      },
+      {
+        "name": "OSMAIR GOMES DE MACEDO"
+      },
+      {
+        "name": "OTAVIO DE TOLEDO NOBREGA"
+      },
+      {
+        "name": "PATRICIA ALBUQUERQUE DE ANDRADE NICOLA"
+      },
+      {
+        "name": "PATRICIA AZEVEDO GARCIA"
+      },
+      {
+        "name": "PATRICIA DE SOUZA REZENDE ANDERLE"
+      },
+      {
+        "name": "PATRICIA MARIA FONSECA ESCALDA"
+      },
+      {
+        "name": "PAULA GIOVANA FURLAN"
+      },
+      {
+        "name": "PAULA MELO MARTINS"
+      },
+      {
+        "name": "PAULA REGINA DE SOUZA HERMANN"
+      },
+      {
+        "name": "PAULO GUSTAVO BARBONI DANTAS NASCIMENTO"
+      },
+      {
+        "name": "PEDRO DE ANDRADE CALIL JABUR"
+      },
+      {
+        "name": "PRISCILA ALMEIDA ANDRADE"
+      },
+      {
+        "name": "PRISCILLA ROBERTA SILVA ROCHA"
+      },
+      {
+        "name": "RINALDO EDUARDO MACHADO DE OLIVEIRA"
+      },
+      {
+        "name": "RITA DE CASSIA MARQUETI DURIGAN"
+      },
+      {
+        "name": "RODRIGO LUIZ CARREGARO"
+      },
+      {
+        "name": "SARAH RAQUEL ALMEIDA LINS"
+      },
+      {
+        "name": "SERGIO RICARDO MENEZES MATEUS"
+      },
+      {
+        "name": "SERGIO RICARDO SCHIERHOLT"
+      },
+      {
+        "name": "SERGIO RICARDO THOMAZ"
+      },
+      {
+        "name": "SILVANA SCHWERZ FUNGHETTO"
+      },
+      {
+        "name": "SILVIA BADIM MARQUES"
+      },
+      {
+        "name": "TANIA CRISTINA MORAIS SANTA BARBARA REHEM"
+      },
+      {
+        "name": "TATIANA RAMOS LAVICH"
+      },
+      {
+        "name": "TAYSE TAMARA DA PAIXAO DUARTE"
+      },
+      {
+        "name": "THAIS ALVES DA COSTA LAMOUNIER"
+      },
+      {
+        "name": "THAIS CRISTINA GALDINO DE OLIVEIRA"
+      },
+      {
+        "name": "VALERIA REIS DO CANTO PEREIRA"
+      },
+      {
+        "name": "VANESSA DE OLIVEIRA MARTINS REIS"
+      },
+      {
+        "name": "VANESSA RESENDE NOGUEIRA CRUVINEL"
+      },
+      {
+        "name": "VANESSA VEIS RIBEIRO"
+      },
+      {
+        "name": "VERA REGINA FERNANDES DA SILVA MARAES"
+      },
+      {
+        "name": "VINICIUS ZACARIAS MALDANER DA SILVA"
+      },
+      {
+        "name": "VIVIAN DA SILVA SANTOS"
+      },
+      {
+        "name": "WAGNER RODRIGUES MARTINS"
+      },
+      {
+        "name": "WALTERLANIA SILVA SANTOS"
+      },
+      {
+        "name": "WALTER MASSA RAMALHO"
+      },
+      {
+        "name": "WILDO NAVEGANTES DE ARAUJO"
+      },
+      {
+        "name": "RODRIGO HADDAD"
+      },
+      {
+        "name": "DAYSE EDWIGES CARVALHO CASTILHO"
+      },
+      {
+        "name": "ATVALDO FERNANDES RIBEIRO JUNIOR"
+      },
+      {
+        "name": "BRUNA RAFAELA BEZERRA GOMES"
+      },
+      {
+        "name": "CRISTIANE DOS SANTOS"
+      },
+      {
+        "name": "EMILIE BATISTA FREIRE"
+      },
+      {
+        "name": "ERICA TORRES DE ALMEIDA PIOVESAN"
+      },
+      {
+        "name": "FLAVIA ALVES BORGES"
+      },
+      {
+        "name": "GLAUCIA TELES DE ARAUJO BUENO"
+      },
+      {
+        "name": "HELLEN KAROLINE MANIERO"
+      },
+      {
+        "name": "JONATHAN GALVAO TENORIO CAVALCANTE"
+      },
+      {
+        "name": "JULIANA MOURA ALVES SEIXAS"
+      },
+      {
+        "name": "KLEVERSON GOMES DE MIRANDA"
+      },
+      {
+        "name": "LIGIA CANONGIA DE ABREU CARDOSO DUARTE"
+      },
+      {
+        "name": "LUCAS TOMAZ BENIGNO LIMA"
+      },
+      {
+        "name": "MARIA AUGUSTA DE ARAUJO MOTA"
+      },
+      {
+        "name": "MINEIA WEBER BLATTES"
+      },
+      {
+        "name": "NATALIA LEMOS CHAVES"
+      },
+      {
+        "name": "SAMYRA MARA COELHO CAXITO"
+      },
+      {
+        "name": "JULIANA ALBUQUERQUE BALTAR"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA LUCIA DE ABREU GOMES"
+      },
+      {
+        "name": "ANDREA FERNANDES CONSIDERA"
+      },
+      {
+        "name": "ANDRE PORTO ANCONA LOPEZ"
+      },
+      {
+        "name": "ANGELICA ALVES DA CUNHA MARQUES"
+      },
+      {
+        "name": "CLAUDIO GOTTSCHALG DUQUE"
+      },
+      {
+        "name": "CLOVIS CARVALHO BRITTO"
+      },
+      {
+        "name": "CYNTHIA RONCAGLIO"
+      },
+      {
+        "name": "DARCILENE SENA REZENDE"
+      },
+      {
+        "name": "DEBORAH SILVA SANTOS"
+      },
+      {
+        "name": "ELIANE BRAGA DE OLIVEIRA"
+      },
+      {
+        "name": "ELMIRA LUZIA MELO SOARES SIMEAO"
+      },
+      {
+        "name": "FELIPE AUGUSTO ARAKAKI"
+      },
+      {
+        "name": "FERNANDA DE SOUZA MONTEIRO"
+      },
+      {
+        "name": "FERNANDA FARINELLI"
+      },
+      {
+        "name": "FERNANDA PASSINI MORENO"
+      },
+      {
+        "name": "FERNANDO CESAR LIMA LEITE"
+      },
+      {
+        "name": "GEORGETE MEDLEG RODRIGUES"
+      },
+      {
+        "name": "GREYCIANE SOUZA LINS"
+      },
+      {
+        "name": "IVETTE KAFURE MUNOZ"
+      },
+      {
+        "name": "JAYME LEIRO VILAN FILHO"
+      },
+      {
+        "name": "JOAO DE MELO MARICATO"
+      },
+      {
+        "name": "KATIA ISABELLI DE BETHANIA BARROS E MELO"
+      },
+      {
+        "name": "KELLEY CRISTINE GONCALVES DIAS GASQUE"
+      },
+      {
+        "name": "LILLIAN MARIA ARAUJO DE REZENDE ALVARES"
+      },
+      {
+        "name": "LUCIANA MAGALHAES PORTELA"
+      },
+      {
+        "name": "MARCILIO DE BRITO"
+      },
+      {
+        "name": "MARCIO BEZERRA DA SILVA"
+      },
+      {
+        "name": "MARCIO DE CARVALHO VICTORINO"
+      },
+      {
+        "name": "MARIJARA SOUZA QUEIROZ"
+      },
+      {
+        "name": "MICHELLI PEREIRA DA COSTA"
+      },
+      {
+        "name": "PAULO JOSE VIANA DE ALENCAR"
+      },
+      {
+        "name": "RENATO TARCISO BARBOSA DE SOUSA"
+      },
+      {
+        "name": "RITA DE CASSIA DO VALE CARIBE"
+      },
+      {
+        "name": "RODRIGO RABELLO DA SILVA"
+      },
+      {
+        "name": "ROGERIO HENRIQUE DE ARAUJO JUNIOR"
+      },
+      {
+        "name": "ROSE MOREIRA DE MIRANDA"
+      },
+      {
+        "name": "SHIRLEY CARVALHEDO FRANCO"
+      },
+      {
+        "name": "SILMARA KUSTER DE PAULA CARVALHO"
+      },
+      {
+        "name": "VALDEMAR DE ASSIS LIMA"
+      },
+      {
+        "name": "DALTON LOPES MARTINS"
+      },
+      {
+        "name": "ELIZANGELA CARRIJO"
+      },
+      {
+        "name": "ALBERTH SANT ANA COSTA DA SILVA"
+      },
+      {
+        "name": "ANDREIA DE CASTRO COSTA XAVIER"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE CIÊNCIAS DA SAÚDE",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "FABIO DA COSTA SALES"
+      },
+      {
+        "name": "SILVIA RIBEIRO DE SOUZA"
+      },
+      {
+        "name": "SOLANGE BARALDI"
+      },
+      {
+        "name": "ALEJANDRO GOLDBERG"
+      },
+      {
+        "name": "OMAR ENRIQUE ESTRADA SEMPRUN"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE COMUNICAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ERIKA BAUER DE OLIVEIRA"
+      },
+      {
+        "name": "FELIPE DA SILVA POLYDORO"
+      },
+      {
+        "name": "JOAO JOSE AZEVEDO CURVELLO"
+      },
+      {
+        "name": "ROSE MAY CARNEIRO"
+      },
+      {
+        "name": "TIAGO QUIROGA FAUSTO NETO"
+      },
+      {
+        "name": "JULIANA BULHOES ALBERTO DANTAS"
+      },
+      {
+        "name": "LIRIAM SPONHOLZ"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE DIREITO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "AIRTON LISLE CERQUEIRA LEITE SEELAENDER"
+      },
+      {
+        "name": "ALEXANDRE ARAUJO COSTA"
+      },
+      {
+        "name": "ALEXANDRE BERNARDINO COSTA"
+      },
+      {
+        "name": "ALEXANDRE KEHRIG VERONESE AGUIAR"
+      },
+      {
+        "name": "AMANDA ATHAYDE LINHARES MARTINS RIVERA"
+      },
+      {
+        "name": "AMANDA FLAVIO DE OLIVEIRA"
+      },
+      {
+        "name": "ANA CLAUDIA FARRANHA SANTANA"
+      },
+      {
+        "name": "ANA DE OLIVEIRA FRAZAO VIEIRA DE MELLO"
+      },
+      {
+        "name": "ANDRE MACEDO DE OLIVEIRA"
+      },
+      {
+        "name": "ANTONIO AUGUSTO BRANDAO DE ARAS"
+      },
+      {
+        "name": "ANTONIO DE MOURA BORGES"
+      },
+      {
+        "name": "ANTONIO SERGIO ESCRIVAO FILHO"
+      },
+      {
+        "name": "ARGEMIRO CARDOSO MOREIRA MARTINS"
+      },
+      {
+        "name": "BEATRIZ VARGAS RAMOS GONCALVES DE REZENDE"
+      },
+      {
+        "name": "BENEDITO CEREZZO PEREIRA FILHO"
+      },
+      {
+        "name": "BISTRA STEFANOVA APOSTOLOVA"
+      },
+      {
+        "name": "CAMILA CARDOSO DE MELLO PRANDO"
+      },
+      {
+        "name": "CARINA COSTA DE OLIVEIRA"
+      },
+      {
+        "name": "CARLOS FREDERICO DE OLIVEIRA PEREIRA"
+      },
+      {
+        "name": "CARLOS TADEU DE CARVALHO MOREIRA"
+      },
+      {
+        "name": "CLAUDIA ROSANE ROESLER"
+      },
+      {
+        "name": "CRISTIANO OTAVIO PAIXAO ARAUJO PINTO"
+      },
+      {
+        "name": "CRISTINA MARIA ZACKSESKI"
+      },
+      {
+        "name": "DANIELA MARQUES DE MORAES"
+      },
+      {
+        "name": "DEBORA BONAT"
+      },
+      {
+        "name": "DEBORA DINIZ RODRIGUES"
+      },
+      {
+        "name": "DOUGLAS ANTONIO ROCHA PINHEIRO"
+      },
+      {
+        "name": "EDVALDO DE AGUIAR PORTELA MOITA"
+      },
+      {
+        "name": "ENEA DE STUTZ E ALMEIDA"
+      },
+      {
+        "name": "ERICA FERNANDES TEIXEIRA VALENTE"
+      },
+      {
+        "name": "EVANDRO CHARLES PIZA DUARTE"
+      },
+      {
+        "name": "FABIANO HARTMANN PEIXOTO"
+      },
+      {
+        "name": "FERNANDA DE CARVALHO LAGE"
+      },
+      {
+        "name": "FREDERICO HENRIQUE VIEGAS DE LIMA"
+      },
+      {
+        "name": "GABRIELA GARCIA BATISTA LIMA MORAES"
+      },
+      {
+        "name": "GABRIELA NEVES DELGADO"
+      },
+      {
+        "name": "GUILHERME FERNANDES NETO"
+      },
+      {
+        "name": "GUILHERME SCOTTI RODRIGUES"
+      },
+      {
+        "name": "HENRIQUE ARAUJO COSTA"
+      },
+      {
+        "name": "HUMBERTO JACQUES DE MEDEIROS"
+      },
+      {
+        "name": "INEZ LOPES MATOS CARNEIRO DE FARIAS"
+      },
+      {
+        "name": "ISAAC COSTA REIS"
+      },
+      {
+        "name": "I TALO FIORAVANTI SABO MENDES"
+      },
+      {
+        "name": "JANAINA LIMA PENALVA DA SILVA"
+      },
+      {
+        "name": "JOAO COSTA RIBEIRO NETO"
+      },
+      {
+        "name": "JORGE OCTAVIO LAVOCAT GALVAO"
+      },
+      {
+        "name": "JULIANO ZAIDEN BENVINDO"
+      },
+      {
+        "name": "LAURA SCHERTEL FERREIRA MENDES"
+      },
+      {
+        "name": "LIVIA GIMENES DIAS DA FONSECA"
+      },
+      {
+        "name": "LOUSSIA PENHA MUSSE FELIX"
+      },
+      {
+        "name": "LUCAS ROCHA FURTADO"
+      },
+      {
+        "name": "LUIZ ALBERTO GURGEL DE FARIA"
+      },
+      {
+        "name": "MAMEDE SAID MAIA FILHO"
+      },
+      {
+        "name": "MARCELO DA COSTA PINTO NEVES"
+      },
+      {
+        "name": "MARCELO NAVARRO RIBEIRO DANTAS"
+      },
+      {
+        "name": "MARCIO NUNES IORIO ARANHA OLIVEIRA"
+      },
+      {
+        "name": "MARCUS FARO DE CASTRO"
+      },
+      {
+        "name": "MARIANA DEVEZAS RODRIGUES MURIAS DE MENEZES"
+      },
+      {
+        "name": "MARIA PIA DOS SANTOS LIMA GUERRA DALLEDONE"
+      },
+      {
+        "name": "MENELICK DE CARVALHO NETTO"
+      },
+      {
+        "name": "MIKHAIL VIEIRA DE LORENZI CANCELIER"
+      },
+      {
+        "name": "NEY DE BARROS BELLO FILHO"
+      },
+      {
+        "name": "NICOLAO DINO DE CASTRO E COSTA NETO"
+      },
+      {
+        "name": "OTHON DE AZEVEDO LOPES"
+      },
+      {
+        "name": "PAULA PESSOA PEREIRA"
+      },
+      {
+        "name": "PAULO BURNIER DA SILVEIRA"
+      },
+      {
+        "name": "PAULO DE SOUZA QUEIROZ"
+      },
+      {
+        "name": "ROBERTA SIMOES NASCIMENTO"
+      },
+      {
+        "name": "SUZANA BORGES VIEGAS DE LIMA"
+      },
+      {
+        "name": "TALITA TATIANA DIAS RAMPIN"
+      },
+      {
+        "name": "TARCISIO VIEIRA DE CARVALHO NETO"
+      },
+      {
+        "name": "VALLISNEY DE SOUZA OLIVEIRA"
+      },
+      {
+        "name": "WILSON ROBERTO THEODORO FILHO"
+      },
+      {
+        "name": "GEORGE RODRIGO BANDEIRA GALINDO"
+      },
+      {
+        "name": "RENATA QUEIROZ DUTRA"
+      },
+      {
+        "name": "REYNALDO SOARES DA FONSECA"
+      },
+      {
+        "name": "EDUARDO XAVIER LEMOS"
+      },
+      {
+        "name": "ESTELA RAISSA MEDEIROS NUNES DA SILVA"
+      },
+      {
+        "name": "JEFFERSON CRESCENCIO NERI"
+      },
+      {
+        "name": "JESSICA AMANDA FACHIN"
+      },
+      {
+        "name": "LUIZ HENRIQUE KRASSUSKI FORTES"
+      },
+      {
+        "name": "MARCUS FIRMINO SANTIAGO DA SILVA"
+      },
+      {
+        "name": "RENATA MOTA MACIEL"
+      },
+      {
+        "name": "MAREN GUIMARAES TABORDA"
+      },
+      {
+        "name": "JUCYANE PONTES DE ASSIS BRITO"
+      },
+      {
+        "name": "MIGUEL GUALANO DE GODOY"
+      },
+      {
+        "name": "ROSELI REGO SANTOS CUNHA SILVA"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE EDUCAÇÃO",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "IREUDA DA COSTA MOURAO"
+      },
+      {
+        "name": "MOYSES KUHLMANN JUNIOR"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE EDUCAÇÃO FÍSICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADAUTO JOAO PULCINELLI"
+      },
+      {
+        "name": "ALEXANDRE JACKSON CHAN VIANNA"
+      },
+      {
+        "name": "ALEXANDRE LUIZ GONCALVES DE REZENDE"
+      },
+      {
+        "name": "ALFREDO FERES NETO"
+      },
+      {
+        "name": "ALICE MARIA CORREA MEDINA"
+      },
+      {
+        "name": "AMERICO PIERANGELI COSTA"
+      },
+      {
+        "name": "AMILTON VIEIRA"
+      },
+      {
+        "name": "ANA CRISTINA DE DAVID"
+      },
+      {
+        "name": "CLAUDIA MARIA GOULART DOS SANTOS"
+      },
+      {
+        "name": "DANIEL CANTANHEDE BEHMOIRAS"
+      },
+      {
+        "name": "DULCE MARIA FILGUEIRA DE ALMEIDA"
+      },
+      {
+        "name": "EDSON MARCELO HUNGARO"
+      },
+      {
+        "name": "FELIPE RODRIGUES DA COSTA"
+      },
+      {
+        "name": "FERNANDO MASCARENHAS ALVES"
+      },
+      {
+        "name": "GIORDANO MARCIO GATINHO BONUZZI"
+      },
+      {
+        "name": "GLAUCO FALCAO DE ARAUJO FILHO"
+      },
+      {
+        "name": "GUILHERME ECKHARDT MOLINA"
+      },
+      {
+        "name": "INGRID DITTRICH WIGGERS"
+      },
+      {
+        "name": "IRAN JUNQUEIRA DE CASTRO"
+      },
+      {
+        "name": "JACIARA OLIVEIRA LEITE"
+      },
+      {
+        "name": "JAKE CARVALHO DO CARMO"
+      },
+      {
+        "name": "JANE DULLIUS"
+      },
+      {
+        "name": "JESSICA SERAFIM FRASSON"
+      },
+      {
+        "name": "JONATAS MAIA DA COSTA"
+      },
+      {
+        "name": "JULIA APARECIDA DEVIDE NOGUEIRA"
+      },
+      {
+        "name": "LAURO CASQUEIRO VIANNA"
+      },
+      {
+        "name": "LEONARDO LAMAS LEANDRO RIBEIRO"
+      },
+      {
+        "name": "LIDIA MARA AGUIAR BEZERRA DE MELO"
+      },
+      {
+        "name": "LUCIANA HAGSTROM BEX"
+      },
+      {
+        "name": "LUIZ CEZAR DOS SANTOS"
+      },
+      {
+        "name": "LUIZ GUILHERME GROSSI PORTO"
+      },
+      {
+        "name": "MARISETE PERALTA SAFONS"
+      },
+      {
+        "name": "MARTIM FRANCISCO BOTTARO MARQUES"
+      },
+      {
+        "name": "PAULO HENRIQUE AZEVEDO"
+      },
+      {
+        "name": "PAULO JOSE BARBOSA GUTIERRES FILHO"
+      },
+      {
+        "name": "PEDRO FERNANDO AVALONE DE ATHAYDE"
+      },
+      {
+        "name": "RENATO BASTOS JOAO"
+      },
+      {
+        "name": "RICARDO FLAVIO DE ARAUJO BEZERRA"
+      },
+      {
+        "name": "RICARDO JACO DE OLIVEIRA"
+      },
+      {
+        "name": "RICARDO MORENO LIMA"
+      },
+      {
+        "name": "RINALDO ANDRE MEZZARANE"
+      },
+      {
+        "name": "ROCHELLE ROCHA COSTA"
+      },
+      {
+        "name": "ROMULO MAIA CARLOS FONSECA"
+      },
+      {
+        "name": "ROSANA AMARO"
+      },
+      {
+        "name": "TIAGO GUEDES RUSSOMANNO"
+      },
+      {
+        "name": "VICTOR LAGE"
+      },
+      {
+        "name": "MARIA DENISE DOURADO DA SILVA"
+      },
+      {
+        "name": "PAULA RIBEIRO MESQUITA"
+      },
+      {
+        "name": "NIVALDO ANTONIO NOGUEIRA DAVID"
+      },
+      {
+        "name": "GUILHERME PEIXOTO TINOCO AREAS"
+      },
+      {
+        "name": "JUAN CARLOS PEREZ MORALES"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE MEDICINA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALBERTO CARLOS MORENO ZACONETA"
+      },
+      {
+        "name": "ALESSANDRA RAMOS VENOSA"
+      },
+      {
+        "name": "ALEXANDRE SERGIO DE ARAUJO BEZERRA"
+      },
+      {
+        "name": "ALEXSANDRA RAMALHO DA COSTA ARUME"
+      },
+      {
+        "name": "AMILCAR SABINO DAMAZO"
+      },
+      {
+        "name": "ANA LUCIA CARNEIRO SARMENTO"
+      },
+      {
+        "name": "ANA MARIA COSTA PINHEIRO"
+      },
+      {
+        "name": "ANDERSEN CHARLES DAROS"
+      },
+      {
+        "name": "ANDREA PEDROSA RIBEIRO ALVES OLIVEIRA"
+      },
+      {
+        "name": "ANDRE LUIS CONDE WATANABE"
+      },
+      {
+        "name": "ANDRE LUIZ LOPES SAMPAIO"
+      },
+      {
+        "name": "ANDRE MORAES NICOLA"
+      },
+      {
+        "name": "AUGUSTO CEZAR FLORENCIO COSTA"
+      },
+      {
+        "name": "BARBARA DE LIMA LUCAS"
+      },
+      {
+        "name": "BARBARA EVELLINE DA SILVA BANDEIRA"
+      },
+      {
+        "name": "CARLOS AUGUSTO TEIXEIRA DA CRUZ"
+      },
+      {
+        "name": "CARLOS NOGUEIRA AUCELIO"
+      },
+      {
+        "name": "CARMEN LIVIA FARIA DA SILVA MARTINS"
+      },
+      {
+        "name": "CASSIA VALERIA DE CASTRO"
+      },
+      {
+        "name": "CATIA SOUSA GOVEIA"
+      },
+      {
+        "name": "CELSO TAQUES SALDANHA"
+      },
+      {
+        "name": "CERES NUNES DE RESENDE"
+      },
+      {
+        "name": "CEZAR KOZAK SIMAAN"
+      },
+      {
+        "name": "CINTIA MENDES CLEMENTE"
+      },
+      {
+        "name": "CLAYTON FRANCO MORAES"
+      },
+      {
+        "name": "DANIELLE DA SILVA BARBAS"
+      },
+      {
+        "name": "DORALINA DO AMARAL RABELLO RAMOS"
+      },
+      {
+        "name": "ELISABETH CARMEN DUARTE"
+      },
+      {
+        "name": "ELIZA CARLA BARROSO DUARTE"
+      },
+      {
+        "name": "EUGENIO DOS SANTOS NETO"
+      },
+      {
+        "name": "FABIANA PIRANI CARNEIRO"
+      },
+      {
+        "name": "FABIOLA CRISTINA RIBEIRO ZUCCHI"
+      },
+      {
+        "name": "FELIPE DE OLIVEIRA LOPES CAVALCANTI"
+      },
+      {
+        "name": "FELIPE VON GLEHN SILVA"
+      },
+      {
+        "name": "FLAVIA DIAS XAVIER"
+      },
+      {
+        "name": "FLAVIA LARA BARCELOS"
+      },
+      {
+        "name": "FLAVIA ZATTAR PIAZERA"
+      },
+      {
+        "name": "FLAVIO DE ASSIS MELO TORRES"
+      },
+      {
+        "name": "FLAVIO JOSE DUTRA DE MOURA"
+      },
+      {
+        "name": "FLORA APARECIDA MILTON"
+      },
+      {
+        "name": "GABRIEL GRACA DE OLIVEIRA"
+      },
+      {
+        "name": "GERALDO MAGELA FERNANDES"
+      },
+      {
+        "name": "GILVANIA COUTINHO SILVA FEIJO"
+      },
+      {
+        "name": "GUSTAVO ADOLFO SIERRA ROMERO"
+      },
+      {
+        "name": "GUSTAVO HENRIQUE SOARES TAKANO"
+      },
+      {
+        "name": "HELENA FERREIRA MOURA"
+      },
+      {
+        "name": "HELGA BEZERRA GOMES DA SILVA"
+      },
+      {
+        "name": "HENRY MAIA PEIXOTO"
+      },
+      {
+        "name": "HERVALDO SAMPAIO CARVALHO"
+      },
+      {
+        "name": "HUDSON FERNANDO NUNES MOURA"
+      },
+      {
+        "name": "HUGO ALVES DE SOUSA"
+      },
+      {
+        "name": "HUGO COSTA PAES"
+      },
+      {
+        "name": "IRUENA MORAES KESSLER"
+      },
+      {
+        "name": "IZELDA MARIA CARVALHO COSTA"
+      },
+      {
+        "name": "JOAO BATISTA DE SOUSA"
+      },
+      {
+        "name": "JOAO DA COSTA PIMENTEL FILHO"
+      },
+      {
+        "name": "JOAO FELIPE GOMIDE DE PAULA SOUZA"
+      },
+      {
+        "name": "JOSE ALFREDO LACERDA DE JESUS"
+      },
+      {
+        "name": "JOSE EDUARDO BARONEZA"
+      },
+      {
+        "name": "JOSE HENRIQUE LEAL ARAUJO"
+      },
+      {
+        "name": "JOSE ROBERTO DE SOUZA DE ALMEIDA LEITE"
+      },
+      {
+        "name": "JOSE ROBERTO PIMENTA DE GODOY"
+      },
+      {
+        "name": "JULIANA ARAIS HOCEVAR KRISTOSCHEK"
+      },
+      {
+        "name": "JULIANA DE SOUZA LAPA"
+      },
+      {
+        "name": "JULIANA FORTE MAZZEU DE ARAUJO"
+      },
+      {
+        "name": "JULIANA LOTT DE CARVALHO"
+      },
+      {
+        "name": "KARINA NASCIMENTO COSTA"
+      },
+      {
+        "name": "KATIA CRESTINE POCAS"
+      },
+      {
+        "name": "LEONORA MACIEL DE SOUZA VIANNA"
+      },
+      {
+        "name": "LISIANE SEGUTI FERREIRA"
+      },
+      {
+        "name": "LUCAS ALVES DE BRITO OLIVEIRA"
+      },
+      {
+        "name": "LUCIANA ANSANELI NAVES"
+      },
+      {
+        "name": "LUCIA ROLIM SANTANA DE FREITAS"
+      },
+      {
+        "name": "LUIS KLAUS ALVES DA ROCHA"
+      },
+      {
+        "name": "LUIZ CLAUDIO GONCALVES DE CASTRO"
+      },
+      {
+        "name": "LUIZ FELIPE DE CAMPOS LOBATO"
+      },
+      {
+        "name": "MALTHUS FONSECA GALVAO"
+      },
+      {
+        "name": "MARCELO PALMEIRA RODRIGUES"
+      },
+      {
+        "name": "MARCUS VINICIUS VON ZUBEN"
+      },
+      {
+        "name": "MARIA ALICE DE VILHENA TOLEDO"
+      },
+      {
+        "name": "MARIA LUIZA BARROS FERNANDES BEZERRA"
+      },
+      {
+        "name": "MARIANA MACHADO HECHT"
+      },
+      {
+        "name": "MARIA REGINA CATAI CHALITA"
+      },
+      {
+        "name": "MARIA REGINA FERNANDES DE OLIVEIRA"
+      },
+      {
+        "name": "MARILUCIA ROCHA DE ALMEIDA PICANCO"
+      },
+      {
+        "name": "MEIMEI GUIMARAES JUNQUEIRA DE QUEIROS"
+      },
+      {
+        "name": "MIRIAM DA SILVA WANDERLEY"
+      },
+      {
+        "name": "NADJAR NITZ SILVA LOCIKS DE ARAUJO"
+      },
+      {
+        "name": "NEYSA APARECIDA TINOCO REGATTIERI"
+      },
+      {
+        "name": "ODETE MESSA TORRES"
+      },
+      {
+        "name": "OLIMPIA ALVES TEIXEIRA LIMA"
+      },
+      {
+        "name": "PAULA CRISTINA MOREIRA COURAS DA SILVA"
+      },
+      {
+        "name": "PAULO FERNANDES SAAD"
+      },
+      {
+        "name": "PAULO SERGIO FRANCA"
+      },
+      {
+        "name": "PEDRO SUDBRACK OLIVEIRA"
+      },
+      {
+        "name": "RAFAEL PIMENTEL SALDANHA"
+      },
+      {
+        "name": "RAPHAEL BOECHAT BARROS"
+      },
+      {
+        "name": "RENATA VASQUES PALHETA AVANCINI"
+      },
+      {
+        "name": "RICARDO LUIZ DE MELO MARTINS"
+      },
+      {
+        "name": "RIVADAVIO FERNANDES BATISTA DE AMORIM"
+      },
+      {
+        "name": "RODOLFO REGO DEUSDARA RODRIGUES"
+      },
+      {
+        "name": "RODRIGO DOS SANTOS LIMA"
+      },
+      {
+        "name": "RODRIGO GURGEL GONCALVES"
+      },
+      {
+        "name": "RODRIGO RODRIGUES DE SOUZA"
+      },
+      {
+        "name": "ROGERIO WAGNER DA SILVA"
+      },
+      {
+        "name": "RONALDO MAFIA CUENCA"
+      },
+      {
+        "name": "SALETE DA SILVA RIOS CHEN"
+      },
+      {
+        "name": "SEBASTIAO AFONSO VIANA MACEDO NEVES"
+      },
+      {
+        "name": "SELMA APARECIDA SOUZA KUCKELHAUS"
+      },
+      {
+        "name": "TATIANA KARLA DOS SANTOS BORGES"
+      },
+      {
+        "name": "THIAGO FIGUEIREDO DE CASTRO"
+      },
+      {
+        "name": "VALERIA PAES LIMA"
+      },
+      {
+        "name": "VERONICA MOREIRA AMADO"
+      },
+      {
+        "name": "WALQUIRIA QUIDA SALLES PEREIRA PRIMO"
+      },
+      {
+        "name": "WALTER TOLEDO AMARAL"
+      },
+      {
+        "name": "CAROLINA LOPES DE LIMA REIGADA"
+      },
+      {
+        "name": "RAISSA SILVA FROTA"
+      },
+      {
+        "name": "CIRO MARTINS GOMES"
+      },
+      {
+        "name": "ELZA FERREIRA NORONHA"
+      },
+      {
+        "name": "MARCELO COSTA CRONEMBERGER MARQUES"
+      },
+      {
+        "name": "ARMINDO JREIGE JUNIOR"
+      },
+      {
+        "name": "ITALO DIAS DE SOUSA PAES LANDIM"
+      },
+      {
+        "name": "RAQUEL FERREIRA"
+      },
+      {
+        "name": "RUBRIA LIZIERO PICOLI"
+      },
+      {
+        "name": "MARCUS DE MELO TEIXEIRA"
+      },
+      {
+        "name": "RODRIGO DA SILVA FERREIRA"
+      },
+      {
+        "name": "ALESSANDRA DOS SANTOS DOMINGUES"
+      },
+      {
+        "name": "JULIANA ARAIS HOCEVAR KRISTOSCHEK"
+      },
+      {
+        "name": "KAREN RUGGERI SAAD"
+      },
+      {
+        "name": "MARCIA TASCHETTO MOTTA"
+      },
+      {
+        "name": "PRISCILLA PEREZ DA SILVA PEREIRA"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE PLANALTINA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALEXANDRE NASCIMENTO DE ALMEIDA"
+      },
+      {
+        "name": "ALEX FABIANO CORTEZ CAMPOS"
+      },
+      {
+        "name": "AMANDA MARINA ANDRADE MEDEIROS"
+      },
+      {
+        "name": "ANA AGUIAR COTRIM"
+      },
+      {
+        "name": "ANDREIA BORGES AVELAR DA SILVA"
+      },
+      {
+        "name": "ANDREIA DE ALMEIDA"
+      },
+      {
+        "name": "ANDRE NUNES"
+      },
+      {
+        "name": "ANDRE VITOR FERNANDES DOS SANTOS"
+      },
+      {
+        "name": "ANETE MARIA DE OLIVEIRA"
+      },
+      {
+        "name": "ANTONIO DE ALMEIDA NOBRE JUNIOR"
+      },
+      {
+        "name": "ANTONIO LUIZ DE MELO"
+      },
+      {
+        "name": "ARMANDO DE MENDONCA MAROJA"
+      },
+      {
+        "name": "BERNHARD GEORG ENDERS NETO"
+      },
+      {
+        "name": "BIANCA CARRIJO CORDOVA"
+      },
+      {
+        "name": "CARLOS JOSE SOUSA PASSOS"
+      },
+      {
+        "name": "CARLOS TADEU CARVALHO DO NASCIMENTO"
+      },
+      {
+        "name": "CAROLINA LOPES ARAUJO"
+      },
+      {
+        "name": "CAROLINE SIQUEIRA GOMIDE"
+      },
+      {
+        "name": "CELSO VILA NOVA DE SOUZA JUNIOR"
+      },
+      {
+        "name": "CHRISTIANO DEL CANTONI GATI"
+      },
+      {
+        "name": "CYNARA CAROLINE KERN BARRETO"
+      },
+      {
+        "name": "CYNTHIA BISINOTO EVANGELISTA DE OLIVEIRA"
+      },
+      {
+        "name": "DANILO ARRUDA FURTADO"
+      },
+      {
+        "name": "DELANO MOODY SIMOES DA SILVA"
+      },
+      {
+        "name": "DJIBY MANE"
+      },
+      {
+        "name": "DONARIA COELHO DUARTE"
+      },
+      {
+        "name": "DULCE MARIA SUCENA DA ROCHA"
+      },
+      {
+        "name": "EDUARDO BESSA PEREIRA DA SILVA"
+      },
+      {
+        "name": "EDUARDO LEONARDECZ NETO"
+      },
+      {
+        "name": "ELAINE NOLASCO RIBEIRO"
+      },
+      {
+        "name": "ELIENE NOVAES ROCHA"
+      },
+      {
+        "name": "ELIETE AVILA WOLFF"
+      },
+      {
+        "name": "ELIZABETH MARIA MAMEDE DA COSTA"
+      },
+      {
+        "name": "ERINA VITORIO RODRIGUES"
+      },
+      {
+        "name": "FELIPE CANOVA GONCALVES"
+      },
+      {
+        "name": "FERNANDA REGINA NASCIMENTO"
+      },
+      {
+        "name": "FLAVIA NOGUEIRA DE SA"
+      },
+      {
+        "name": "FLAVIO MURILO PEREIRA DA COSTA"
+      },
+      {
+        "name": "FRANCO DE SALLES PORTO"
+      },
+      {
+        "name": "GIL CELIO DE CASTRO CARDOSO"
+      },
+      {
+        "name": "IRINEU TAMAIO"
+      },
+      {
+        "name": "ISMAEL VICTOR DE LUCENA COSTA"
+      },
+      {
+        "name": "IVAN FERREIRA DA COSTA"
+      },
+      {
+        "name": "JAIR RECK"
+      },
+      {
+        "name": "JANAINA DEANE DE ABREU SA DINIZ"
+      },
+      {
+        "name": "JEANE CRISTINA GOMES ROTTA"
+      },
+      {
+        "name": "JEAN LOUIS LE GUERROUE"
+      },
+      {
+        "name": "JOAO BATISTA PEREIRA DE QUEIROZ"
+      },
+      {
+        "name": "JOELMA RODRIGUES DA SILVA"
+      },
+      {
+        "name": "JONILTO COSTA SOUSA"
+      },
+      {
+        "name": "JOSE EDUARDO CASTILHO"
+      },
+      {
+        "name": "JOSE VICENTE ELIAS BERNARDI"
+      },
+      {
+        "name": "JULIANA EUGENIA CAIXETA"
+      },
+      {
+        "name": "JULIANA ROCHET WIRTH CHAIBUB PAULINO"
+      },
+      {
+        "name": "KELCI ANNE PEREIRA"
+      },
+      {
+        "name": "LOUISE BRANDES MOURA FERREIRA"
+      },
+      {
+        "name": "LUCIJANE MONTEIRO DE ABREU"
+      },
+      {
+        "name": "LUDGERO CARDOSO GALLI VIEIRA"
+      },
+      {
+        "name": "LUIS ANTONIO PASQUETTI"
+      },
+      {
+        "name": "LUIZ CLAUDIO PEREIRA"
+      },
+      {
+        "name": "LUIZ FABRICIO ZARA"
+      },
+      {
+        "name": "LUIZ FELIPPE SALEMI"
+      },
+      {
+        "name": "LUIZ GUILHERME DE OLIVEIRA"
+      },
+      {
+        "name": "LUIZ HONORATO DA SILVA JUNIOR"
+      },
+      {
+        "name": "MARCELLA LEMOS BRETTAS CARNEIRO"
+      },
+      {
+        "name": "MARCELO HENRIQUE LEAO SANTOS"
+      },
+      {
+        "name": "MARCELO XIMENES AGUIAR BIZERRIL"
+      },
+      {
+        "name": "MARCO AURELIO ALVES BARBOSA"
+      },
+      {
+        "name": "MARIA CRISTINA DE OLIVEIRA"
+      },
+      {
+        "name": "MARIANA MALARD SALES ANDRADE"
+      },
+      {
+        "name": "MARIO LUCIO DE AVILA"
+      },
+      {
+        "name": "MAURO EDUARDO DEL GROSSI"
+      },
+      {
+        "name": "MAURO FRANCISCO PINHEIRO DA SILVA"
+      },
+      {
+        "name": "MIKHAEL AEL ROCHA ALVES"
+      },
+      {
+        "name": "MONICA CASTAGNA MOLINA"
+      },
+      {
+        "name": "NATHAN CARVALHO PINHEIRO"
+      },
+      {
+        "name": "OLGAMIR AMANCIA FERREIRA"
+      },
+      {
+        "name": "OTILIE EICHLER VERCILLO"
+      },
+      {
+        "name": "PAULO EDUARDO DE BRITO"
+      },
+      {
+        "name": "PAULO GABRIEL FRANCO DOS SANTOS"
+      },
+      {
+        "name": "PAULO PETRONILIO CORREIA"
+      },
+      {
+        "name": "PHILIPPE POMIER LAYRARGUES"
+      },
+      {
+        "name": "POLIANA DUTRA MAIA"
+      },
+      {
+        "name": "PRISCILLA COPPOLA DE SOUZA RODRIGUES"
+      },
+      {
+        "name": "RAFAELA CARARETO POLYCARPO"
+      },
+      {
+        "name": "RAFAEL LITVIN VILLAS BOAS"
+      },
+      {
+        "name": "REGINA COELLY FERNANDES SARAIVA"
+      },
+      {
+        "name": "REINALDO JOSE DE MIRANDA FILHO"
+      },
+      {
+        "name": "RENATA AQUINO DA SILVA"
+      },
+      {
+        "name": "RICARDO TOLEDO NEDER"
+      },
+      {
+        "name": "RODOLPHO PINHEIRO DAZEVEDO"
+      },
+      {
+        "name": "RODRIGO MILONI SANTUCCI"
+      },
+      {
+        "name": "ROGERIO CESAR DOS SANTOS"
+      },
+      {
+        "name": "ROGERIO FERREIRA"
+      },
+      {
+        "name": "ROMULO JOSE DA COSTA RIBEIRO"
+      },
+      {
+        "name": "ROSINEIDE MAGALHAES DE SOUSA"
+      },
+      {
+        "name": "ROSYLANE DORIS DE VASCONCELOS"
+      },
+      {
+        "name": "SERGIO SAUER"
+      },
+      {
+        "name": "SILVIA REGINA STARLING ASSAD DE AVILA"
+      },
+      {
+        "name": "SIMONE VASCONCELOS DA SILVA"
+      },
+      {
+        "name": "SUSAN ELIZABETH MARTINS CESAR DE OLIVEIRA"
+      },
+      {
+        "name": "SUSANNE TAINA RAMALHO MACIEL"
+      },
+      {
+        "name": "TAMIEL KHAN BAIOCCHI JACOBSON"
+      },
+      {
+        "name": "TANIA CRISTINA DA SILVA CRUZ"
+      },
+      {
+        "name": "TATIANA BARBOSA ROSADO LAVIOLA"
+      },
+      {
+        "name": "TIBERIO LEONARDO GUITTON"
+      },
+      {
+        "name": "VANIA FERREIRA ROQUE SPECHT"
+      },
+      {
+        "name": "VIVIANE APARECIDA DA SILVA FALCOMER"
+      },
+      {
+        "name": "WELLINGTON LOURENCO DE ALMEIDA"
+      },
+      {
+        "name": "WESCLEY WELL VICENTE BEZERRA"
+      },
+      {
+        "name": "WILLIAM SANTANA"
+      },
+      {
+        "name": "CLARICE APARECIDA DOS SANTOS"
+      },
+      {
+        "name": "ALANIELSON DA CAMARA DANTAS FERREIRA"
+      },
+      {
+        "name": "BEATRIZ MIRANDA GOMES"
+      },
+      {
+        "name": "EMANUELLA LISBOA BAIAO LIRA"
+      },
+      {
+        "name": "JANDERSON SILVA SANTOS"
+      },
+      {
+        "name": "LUARA DAL CHIAVON"
+      },
+      {
+        "name": "TITO RICARDO VAZ DA COSTA"
+      },
+      {
+        "name": "VANIA DOS SANTOS SILVA"
+      },
+      {
+        "name": "ALISSON MENDES RODRIGUES"
+      },
+      {
+        "name": "WELLINGTON MARCOS DA SILVA"
+      }
+    ]
   },
   {
     "department": "FACULDADE DE TECNOLOGIA",
@@ -309,11 +7906,421 @@
   },
   {
     "department": "FACULDADE DO GAMA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALESSANDRO BORGES DE SOUSA OLIVEIRA"
+      },
+      {
+        "name": "ALEX REIS"
+      },
+      {
+        "name": "ANDRE BARROS DE SALES"
+      },
+      {
+        "name": "ANDREIA ALVES COSTA LINDINGER"
+      },
+      {
+        "name": "ANDRE LUIZ ALMEIDA PENNA"
+      },
+      {
+        "name": "ANDRE LUIZ PERON MARTINS LANNA"
+      },
+      {
+        "name": "ARTEM ANDRIANOV"
+      },
+      {
+        "name": "ARTUR ELIAS DE MORAIS BERTOLDI"
+      },
+      {
+        "name": "AUGUSTO CESAR DE MENDONCA BRASIL"
+      },
+      {
+        "name": "BRUNO CESAR RIBAS"
+      },
+      {
+        "name": "BRUNO LUIZ PEREIRA"
+      },
+      {
+        "name": "CARLA SILVA ROCHA AGUIAR"
+      },
+      {
+        "name": "CARLA TATIANA MOTA ANFLOR"
+      },
+      {
+        "name": "CLAUDIA PATRICIA OCHOA DIAZ"
+      },
+      {
+        "name": "CRISTIANE SOARES RAMOS"
+      },
+      {
+        "name": "CRISTIANO JACQUES MIOSSO RODRIGUES MENDES"
+      },
+      {
+        "name": "DANIEL COSTA ARAUJO"
+      },
+      {
+        "name": "DANIEL MAURICIO MUNOZ ARBOLEDA"
+      },
+      {
+        "name": "DANIEL SUNDFELD LIMA"
+      },
+      {
+        "name": "DIOGO CAETANO GARCIA"
+      },
+      {
+        "name": "EBERTH DE ALMEIDA CORREA"
+      },
+      {
+        "name": "EDISON GUSTAVO CUEVA GALARRAGA"
+      },
+      {
+        "name": "EDSON ALVES DA COSTA JUNIOR"
+      },
+      {
+        "name": "ELAINE VENSON"
+      },
+      {
+        "name": "EMMANUEL PACHECO ROCHA LIMA"
+      },
+      {
+        "name": "ENEIDA GONZALEZ VALDES"
+      },
+      {
+        "name": "EULER DE VILHENA GARCIA"
+      },
+      {
+        "name": "EVANDRO LEONARDO SILVA TEIXEIRA"
+      },
+      {
+        "name": "FABIANA FREITAS MENDES"
+      },
+      {
+        "name": "FABIANO ARAUJO SOARES"
+      },
+      {
+        "name": "FABIO ALFAIA DA CUNHA"
+      },
+      {
+        "name": "FABIO CORDEIRO DE LISBOA"
+      },
+      {
+        "name": "FABIO MACEDO MENDES"
+      },
+      {
+        "name": "FABRICIO ATAIDES BRAZ"
+      },
+      {
+        "name": "FELIPE CHAGAS STORTI"
+      },
+      {
+        "name": "FELIX MARTIN CARBAJAL GAMARRA"
+      },
+      {
+        "name": "FERNANDO PAIVA SCARDUA"
+      },
+      {
+        "name": "FERNANDO WILLIAM CRUZ"
+      },
+      {
+        "name": "FLAVIO HENRIQUE JUSTINIANO RIBEIRO DA SILVA"
+      },
+      {
+        "name": "GABRIELA CUNHA POSSA"
+      },
+      {
+        "name": "GEORGE MARSICANO CORREA"
+      },
+      {
+        "name": "GERARDO ANTONIO IDROBO PIZO"
+      },
+      {
+        "name": "GILMAR SILVA BESERRA"
+      },
+      {
+        "name": "GIOVANNI ALMEIDA SANTOS"
+      },
+      {
+        "name": "GLAUCENY CIRNE DE MEDEIROS"
+      },
+      {
+        "name": "GLAUCO VITOR PEDROSA"
+      },
+      {
+        "name": "GUILLERMO ALVAREZ BESTARD"
+      },
+      {
+        "name": "HENRIQUE GOMES DE MOURA"
+      },
+      {
+        "name": "HENRIQUE MARRA TAIRA MENEGAZ"
+      },
+      {
+        "name": "HILMER RODRIGUES NERI"
+      },
+      {
+        "name": "HIMILSYS HERNANDEZ GONZALEZ"
+      },
+      {
+        "name": "JHON NERO VAZ GOULART"
+      },
+      {
+        "name": "JOHN LENON CARDOSO GARDENGHI"
+      },
+      {
+        "name": "JORGE ANDRES CORMANE ANGARITA"
+      },
+      {
+        "name": "JOSIANE DO SOCORRO AGUIAR DE SOUZA DE OLIVEIRA CAMPOS"
+      },
+      {
+        "name": "JULIANA PETROCCHI RODRIGUES"
+      },
+      {
+        "name": "JUNGPYO LEE"
+      },
+      {
+        "name": "LEANDRO XAVIER CARDOSO"
+      },
+      {
+        "name": "LINDOMAR BOMFIM DE CARVALHO DE JESUS"
+      },
+      {
+        "name": "LOANA NUNES VELASCO"
+      },
+      {
+        "name": "LUCIANO EMIDIO NEVES DA FONSECA"
+      },
+      {
+        "name": "LUCIANO GONCALVES NOLETO"
+      },
+      {
+        "name": "LUIS FILOMENO DE JESUS FERNANDES"
+      },
+      {
+        "name": "LUI TXAI CALVOSO HABL"
+      },
+      {
+        "name": "LUIZA YOKO TANEGUTI"
+      },
+      {
+        "name": "LUIZ CARLOS MIYADAIRA RIBEIRO JUNIOR"
+      },
+      {
+        "name": "MANUEL NASCIMENTO DIAS BARCELOS JUNIOR"
+      },
+      {
+        "name": "MARCELINO MONTEIRO DE ANDRADE"
+      },
+      {
+        "name": "MARCELO BENTO DA SILVA"
+      },
+      {
+        "name": "MARCUS VINICIUS BATISTUTA"
+      },
+      {
+        "name": "MARCUS VINICIUS CHAFFIM COSTA"
+      },
+      {
+        "name": "MARIA ALZIRA DE ARAUJO NUNES"
+      },
+      {
+        "name": "MARIA DEL PILAR HIDALGO FALLA"
+      },
+      {
+        "name": "MARIANA COSTA BERNARDES MATIAS"
+      },
+      {
+        "name": "MARIA VITORIA DUARTE FERRARI"
+      },
+      {
+        "name": "MARILIA MIRANDA FORTE GOMES"
+      },
+      {
+        "name": "MARIO DE OLIVEIRA ANDRADE"
+      },
+      {
+        "name": "MATEUS RODRIGUES MIRANDA"
+      },
+      {
+        "name": "MATHEUS BERNARDINI DE SOUZA"
+      },
+      {
+        "name": "MAURA ANGELICA MILFONT SHZU"
+      },
+      {
+        "name": "MAURICIO SERRANO"
+      },
+      {
+        "name": "MILENE SERRANO"
+      },
+      {
+        "name": "NILTON CORREIA DA SILVA"
+      },
+      {
+        "name": "OLEXIY SHYNKARENKO"
+      },
+      {
+        "name": "PATRICIA REGINA SOBRAL BRAGA"
+      },
+      {
+        "name": "PAULA MEYER SOARES"
+      },
+      {
+        "name": "POLLIANA CANDIDA OLIVEIRA MARTINS"
+      },
+      {
+        "name": "RAFAEL CASTILHO FARIA MENDES"
+      },
+      {
+        "name": "RAFAEL MORGADO SILVA"
+      },
+      {
+        "name": "RAFAEL RODRIGUES DA SILVA"
+      },
+      {
+        "name": "REJANE MARIA DA COSTA FIGUEIREDO"
+      },
+      {
+        "name": "RENAN UTIDA BARBOSA FERREIRA"
+      },
+      {
+        "name": "RENATO CORAL SAMPAIO"
+      },
+      {
+        "name": "RENATO VILELA LOPES"
+      },
+      {
+        "name": "RHANDER VIANA"
+      },
+      {
+        "name": "RICARDO AJAX DIAS KOSLOSKI"
+      },
+      {
+        "name": "RICARDO MATOS CHAIM"
+      },
+      {
+        "name": "RICARDO RAMOS FRAGELLI"
+      },
+      {
+        "name": "RITA DE CASSIA SILVA"
+      },
+      {
+        "name": "ROBERTO DE SOUZA BAPTISTA"
+      },
+      {
+        "name": "RODRIGO ANDRES MIRANDA CERDA"
+      },
+      {
+        "name": "RODRIGO ARBEY MUNOZ MENESES"
+      },
+      {
+        "name": "RONNE TOLEDO"
+      },
+      {
+        "name": "RONNI GERALDO GOMES DE AMORIM"
+      },
+      {
+        "name": "ROSEANY DE VASCONCELOS VIEIRA LOPES"
+      },
+      {
+        "name": "RUDI HENRI VAN ELS"
+      },
+      {
+        "name": "SALEH BARBOSA KHALIL"
+      },
+      {
+        "name": "SANDRA MARIA DA LUZ"
+      },
+      {
+        "name": "SANDRA MARIA FALEIROS LIMA"
+      },
+      {
+        "name": "SANDRO AUGUSTO PAVLIK HADDAD"
+      },
+      {
+        "name": "SEBASTIEN ROLAND MARIE JOSEPH RONDINEAU"
+      },
+      {
+        "name": "SERGIO ANTONIO ANDRADE DE FREITAS"
+      },
+      {
+        "name": "SERGIO HENRIQUE DA SILVA CARNEIRO"
+      },
+      {
+        "name": "SUELIA DE SIQUEIRA RODRIGUES FLEURY ROSA"
+      },
+      {
+        "name": "SUZANA MOREIRA AVILA"
+      },
+      {
+        "name": "TAIS CALLIERO TOGNETTI"
+      },
+      {
+        "name": "TATIANE DA SILVA EVANGELISTA"
+      },
+      {
+        "name": "THIAGO FELIPPE KURUDEZ CORDEIRO"
+      },
+      {
+        "name": "TIAGO ALVES DA FONSECA"
+      },
+      {
+        "name": "VANDOR ROBERTO VILARDI RISSOLI"
+      },
+      {
+        "name": "VANESSA MARIA DE CASTRO"
+      },
+      {
+        "name": "VINICIUS DE CARVALHO RISPOLI"
+      },
+      {
+        "name": "WANDER CLEBER MARIA PEREIRA DA SILVA"
+      },
+      {
+        "name": "WELLINGTON AVELINO DO AMARAL"
+      },
+      {
+        "name": "WILLIAM REIS SILVA"
+      },
+      {
+        "name": "WYTLER CORDEIRO DOS SANTOS"
+      },
+      {
+        "name": "YEVSEY YEHOSHUA SOBOLEVSKY"
+      },
+      {
+        "name": "PAOLO GESSINI"
+      },
+      {
+        "name": "CLENIO EMIDIO DA FONSECA"
+      },
+      {
+        "name": "CRISTIANE LOESCH DE SOUZA COSTA"
+      },
+      {
+        "name": "EUCLIDES DELGADO MARQUES SANT ANNA"
+      },
+      {
+        "name": "ROSE YURI SHIMIZU"
+      },
+      {
+        "name": "TIAGO MARTINS DE BRITO"
+      },
+      {
+        "name": "WESLEY FERREIRA LOPES"
+      }
+    ]
   },
   {
     "department": "FACULDADE ECONOMIA,  ADMINISTRAÇÃO,  CONTABILIDADE E  GEST POL PÚBLICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "JOSE MARCIO CARVALHO"
+      },
+      {
+        "name": "MARIANA GUERRA"
+      }
+    ]
   },
   {
     "department": "HOSP",
@@ -321,19 +8328,161 @@
   },
   {
     "department": "INSTITUTO DE ARTES",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "FABIANA LAZZARI DE OLIVEIRA"
+      },
+      {
+        "name": "MARCUS SANTOS MOTA"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE CIÊNCIA POLÍTICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIAN NICOLAS ALBALA YOUNG"
+      },
+      {
+        "name": "ANDRE BORGES DE CARVALHO"
+      },
+      {
+        "name": "ANINHO MUCUNDRAMO IRACHANDE"
+      },
+      {
+        "name": "ARNALDO MAUERBERG JUNIOR"
+      },
+      {
+        "name": "CARLOS AUGUSTO MELLO MACHADO"
+      },
+      {
+        "name": "CARLOS MARCOS BATISTA"
+      },
+      {
+        "name": "DANIELLA NAVES DE CASTRO ROCHA"
+      },
+      {
+        "name": "DANUSA MARQUES"
+      },
+      {
+        "name": "DEBORA CRISTINA REZENDE DE ALMEIDA"
+      },
+      {
+        "name": "DENILSON BANDEIRA COELHO"
+      },
+      {
+        "name": "ERIKA LAURINDA AMUSQUIVAR"
+      },
+      {
+        "name": "FLAVIA MILLENA BIROLI TOKARSKI"
+      },
+      {
+        "name": "FREDERICO BERTHOLINI SANTOS RODRIGUES"
+      },
+      {
+        "name": "GRAZIELA DIAS TEIXEIRA"
+      },
+      {
+        "name": "GUSTAVO RODRIGUES MESQUITA"
+      },
+      {
+        "name": "JOSCIMAR SOUZA SILVA"
+      },
+      {
+        "name": "JOSE ALVES DONIZETH"
+      },
+      {
+        "name": "LUCIO REMUZAT RENNO JUNIOR"
+      },
+      {
+        "name": "LUIS FELIPE MIGUEL"
+      },
+      {
+        "name": "MARILDE LOIOLA DE MENEZES"
+      },
+      {
+        "name": "MARISA VON BULOW"
+      },
+      {
+        "name": "MATHIEU TURGEON"
+      },
+      {
+        "name": "MICHELLE VIEIRA FERNANDEZ DE OLIVEIRA"
+      },
+      {
+        "name": "PABLO HOLMES CHAVES"
+      },
+      {
+        "name": "PAULO AFONSO FRANCISCO DE CARVALHO"
+      },
+      {
+        "name": "PAULO CARLOS DU PIN CALMON"
+      },
+      {
+        "name": "REBECCA NEAERA ABERS"
+      },
+      {
+        "name": "RICARDO WAHRENDORFF CALDAS"
+      },
+      {
+        "name": "THIAGO APARECIDO TRINDADE"
+      },
+      {
+        "name": "VLADIMIR FERRARI PUZONE"
+      },
+      {
+        "name": "ANDRE LUIZ VIEIRA DIAS"
+      },
+      {
+        "name": "CAIO EDUARDO TEIXEIRA VASCONCELLOS"
+      },
+      {
+        "name": "GUILHERME PAIVA STAMM THUDIUM"
+      },
+      {
+        "name": "LUMA DONE MIRANDA"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALICE MELO RIBEIRO"
+      },
+      {
+        "name": "ANA JULIA LEMOS ALVES PEDREIRA"
+      },
+      {
+        "name": "JOAO CARLOS HOHL ABRAHAO"
+      },
+      {
+        "name": "JOAO PAULO CUNHA DE MENEZES"
+      },
+      {
+        "name": "MARCOS ANTONIO DOS SANTOS SILVA FERRAZ"
+      },
+      {
+        "name": "MARIANA DE SENZI ZANCUL"
+      },
+      {
+        "name": "MARIA RITA AVANZI"
+      },
+      {
+        "name": "SAMUEL MOLINA SCHNORR"
+      },
+      {
+        "name": "LUCELIA CABRAL"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE CIÊNCIAS EXATAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "RICARDO RUVIARO"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE CIÊNCIAS HUMANAS",
@@ -341,31 +8490,722 @@
   },
   {
     "department": "INSTITUTO DE CIÊNCIAS SOCIAIS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALEXANDRE BRANCO PEREIRA"
+      },
+      {
+        "name": "ZAKIA ISMAIL HACHEM"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE FÍSICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADRIANA PEREIRA IBALDO"
+      },
+      {
+        "name": "ADRIANE BEATRIZ SCHELIN"
+      },
+      {
+        "name": "ALEKSANDR NIKOLAIEVICH PINZUL"
+      },
+      {
+        "name": "ALESSANDRA FERREIRA ALBERNAZ"
+      },
+      {
+        "name": "ALEXANDRA MOCELLIN"
+      },
+      {
+        "name": "ALEXANDRE CAVALHEIRO DIAS"
+      },
+      {
+        "name": "ALEXANDRE DODONOV"
+      },
+      {
+        "name": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO"
+      },
+      {
+        "name": "ANNIBAL DIAS DE FIGUEIREDO NETO"
+      },
+      {
+        "name": "ANTONIO CARLOS PEDROZA"
+      },
+      {
+        "name": "ANTONY MARCO MOTA POLITO"
+      },
+      {
+        "name": "ARSEN ROBERT MELIKYAN"
+      },
+      {
+        "name": "BERNARDO DE ASSUNCAO MELLO"
+      },
+      {
+        "name": "CAIO CESAR HOLANDA RIBEIRO"
+      },
+      {
+        "name": "CAROLINA MATTE GREGORY"
+      },
+      {
+        "name": "CASSIO COSTA LARANJEIRAS"
+      },
+      {
+        "name": "CLODOALDO RODRIGUES DA COSTA JUNIOR"
+      },
+      {
+        "name": "CLOVIS ACHY SOARES MAIA"
+      },
+      {
+        "name": "DANIEL LIMA NASCIMENTO"
+      },
+      {
+        "name": "DANIEL MULLER"
+      },
+      {
+        "name": "DAVID LIMA AZEVEDO"
+      },
+      {
+        "name": "DEMETRIO ANTONIO DA SILVA FILHO"
+      },
+      {
+        "name": "ERONDINA AZEVEDO DE LIMA"
+      },
+      {
+        "name": "FABIO FERREIRA MONTEIRO"
+      },
+      {
+        "name": "FABIO LUIS DE OLIVEIRA PAULA"
+      },
+      {
+        "name": "FABIO MENEZES DE SOUZA LIMA"
+      },
+      {
+        "name": "FELIPPE GUIMARAES MACIEL"
+      },
+      {
+        "name": "GERALDO JOSE DA SILVA"
+      },
+      {
+        "name": "GERALDO MAGELA E SILVA"
+      },
+      {
+        "name": "HELENA DE SOUZA BRAGANCA ROCHA"
+      },
+      {
+        "name": "ISMAEL SEGUNDO DA SILVA CARRASCO"
+      },
+      {
+        "name": "JEROME DEPEYROT"
+      },
+      {
+        "name": "JORLANDIO FRANCISCO FELIX"
+      },
+      {
+        "name": "JOSE ANTONIO HUAMANI COAQUIRA"
+      },
+      {
+        "name": "JOSE EDUARDO MARTINS"
+      },
+      {
+        "name": "JOSE FELIPPE BEAKLINI FILHO"
+      },
+      {
+        "name": "JOSE FRANCISCO DA ROCHA NETO"
+      },
+      {
+        "name": "JOSE LEONARDO FERREIRA"
+      },
+      {
+        "name": "KHALIL OLIVEIRA PORTUGAL"
+      },
+      {
+        "name": "LEONARDO LUIZ E CASTRO"
+      },
+      {
+        "name": "LETICIA GONCALVES NUNES COELHO"
+      },
+      {
+        "name": "LUANA CRISTINA WOUK"
+      },
+      {
+        "name": "LUIZ ANTONIO RIBEIRO JUNIOR"
+      },
+      {
+        "name": "LUIZ FERNANDO RONCARATTI JUNIOR"
+      },
+      {
+        "name": "MARCELLO FERREIRA"
+      },
+      {
+        "name": "MARCO CEZAR BARBOSA FERNANDES"
+      },
+      {
+        "name": "MARIA APARECIDA GODOY SOLER PAJANIAN"
+      },
+      {
+        "name": "MARIA DE FATIMA RODRIGUES MAKIUCHI"
+      },
+      {
+        "name": "MARIANA PENNA LIMA VITENTI"
+      },
+      {
+        "name": "NADIA MARIA DE LIZ KOCHE"
+      },
+      {
+        "name": "NILO MAKIUCHI"
+      },
+      {
+        "name": "OLAVO LEOPOLDINO DA SILVA FILHO"
+      },
+      {
+        "name": "PAULO EDUARDO NARCIZO DE SOUZA"
+      },
+      {
+        "name": "PAULO ROBERTO MENEZES LIMA JUNIOR"
+      },
+      {
+        "name": "PAULO SERGIO DA SILVA CALDAS"
+      },
+      {
+        "name": "PEDRO AUGUSTO MATOS RODRIGUES"
+      },
+      {
+        "name": "PEDRO HENRIQUE DE OLIVEIRA NETO"
+      },
+      {
+        "name": "RAFAEL BESSE"
+      },
+      {
+        "name": "RICARDO DOS REIS TEIXEIRA MARINHO"
+      },
+      {
+        "name": "RICARDO GARGANO"
+      },
+      {
+        "name": "SEBASTIAO WILLIAM DA SILVA"
+      },
+      {
+        "name": "SERGIO COSTA ULHOA"
+      },
+      {
+        "name": "TARCISIO MARCIANO DA ROCHA FILHO"
+      },
+      {
+        "name": "VANESSA CARVALHO DE ANDRADE"
+      },
+      {
+        "name": "WILIAM FERREIRA DA CUNHA"
+      },
+      {
+        "name": "FILIPPO GHIGLIENO"
+      },
+      {
+        "name": "FERNANDA PONTES SILVA"
+      },
+      {
+        "name": "FRANCISCO CARLOS ROCHA FERNANDES"
+      },
+      {
+        "name": "GALINA GULIS"
+      },
+      {
+        "name": "JAILTON CORREIA FRAGA JUNIOR"
+      },
+      {
+        "name": "JOAO PAULO ARAUJO SOUZA"
+      },
+      {
+        "name": "JULIANI PENHA CALAND"
+      },
+      {
+        "name": "FERMIN FIDEL HERRERA ARAGON"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE GEOCIÊNCIAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ADALENE MOREIRA SILVA"
+      },
+      {
+        "name": "ADRIANA CHATACK CARMELO"
+      },
+      {
+        "name": "ADRIANO DOMINGOS DOS REIS"
+      },
+      {
+        "name": "ALICE CESAR FASSONI DE ANDRADE"
+      },
+      {
+        "name": "CAIO ARTHUR SANTOS"
+      },
+      {
+        "name": "CARLOS JORGE DE ABREU"
+      },
+      {
+        "name": "CATARINA LABOURE BEMFICA TOLEDO"
+      },
+      {
+        "name": "CLAUDINEI GOUVEIA DE OLIVEIRA"
+      },
+      {
+        "name": "DERMEVAL APARECIDO DO CARMO"
+      },
+      {
+        "name": "EDILSON DE SOUZA BIAS"
+      },
+      {
+        "name": "ELDER YOKOYAMA"
+      },
+      {
+        "name": "ELIZA INEZ NUNES PEIXOTO"
+      },
+      {
+        "name": "ELTON LUIZ DANTAS"
+      },
+      {
+        "name": "FEDERICO ALBERTO CUADROS JIMENEZ"
+      },
+      {
+        "name": "GIULIANO SANT ANNA MAROTTA"
+      },
+      {
+        "name": "GUILHERME DE OLIVEIRA GONCALVES"
+      },
+      {
+        "name": "GUILHERME GOMES PESSOA"
+      },
+      {
+        "name": "GUSTAVO MACEDO DE MELLO BAPTISTA"
+      },
+      {
+        "name": "HENRIQUE LLACER ROIG"
+      },
+      {
+        "name": "JEREMIE GARNIER"
+      },
+      {
+        "name": "JOAO WILLY CORREA ROSA"
+      },
+      {
+        "name": "JOSE EDUARDO PEREIRA SOARES"
+      },
+      {
+        "name": "JOSE ELOI GUIMARAES CAMPOS"
+      },
+      {
+        "name": "JOSE WILSON CORREA ROSA"
+      },
+      {
+        "name": "JULIA BARBOSA CURTO MA"
+      },
+      {
+        "name": "LUCAS VIEIRA BARROS"
+      },
+      {
+        "name": "LUCIANO SOARES DA CUNHA"
+      },
+      {
+        "name": "LUCIETH CRUZ VIEIRA"
+      },
+      {
+        "name": "LUIS GUSTAVO FERREIRA VIEGAS"
+      },
+      {
+        "name": "MARCELO PERES ROCHA"
+      },
+      {
+        "name": "MARCO IANNIRUBERTO"
+      },
+      {
+        "name": "MARIA EMILIA SCHUTESKY"
+      },
+      {
+        "name": "MARTINO GIORGIONI"
+      },
+      {
+        "name": "MONICA GIANNOCCARO VON HUELSEN"
+      },
+      {
+        "name": "NATALIA HAUSER"
+      },
+      {
+        "name": "NILSON FRANCISQUINI BOTELHO"
+      },
+      {
+        "name": "PAOLA FERREIRA BARBOSA"
+      },
+      {
+        "name": "REJANE ENNES CICERELLI"
+      },
+      {
+        "name": "RICARDO LOURENCO PINTO"
+      },
+      {
+        "name": "ROBERTA MARY VIDOTTI"
+      },
+      {
+        "name": "ROBERTO VENTURA SANTOS"
+      },
+      {
+        "name": "SUZAN WALESKA PEQUENO RODRIGUES"
+      },
+      {
+        "name": "SYLVIA MARIA DE ARAUJO"
+      },
+      {
+        "name": "TATI DE ALMEIDA"
+      },
+      {
+        "name": "TIAGO LUIS REIS JALOWITZKI"
+      },
+      {
+        "name": "UIDEMAR MORAIS BARRAL"
+      },
+      {
+        "name": "VALMIR DA SILVA SOUZA"
+      },
+      {
+        "name": "WELITOM RODRIGUES BORGES"
+      },
+      {
+        "name": "WOLF UWE REIMOLD"
+      },
+      {
+        "name": "ANTONIO DE PADUA MENDONCA FRAGASSI"
+      },
+      {
+        "name": "MARCO ANTONIO CACADOR MARTINS FERREIRA"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE LETRAS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA HELENA ROSSI"
+      },
+      {
+        "name": "SORAYA FERREIRA ALVES"
+      },
+      {
+        "name": "CELIA MARIA MAGALHAES"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE PSICOLOGIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "FABRICIA TEIXEIRA BORGES"
+      },
+      {
+        "name": "MARIA INES GANDOLFO CONCEICAO"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE QUÍMICA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ALEXANDRE FONSECA"
+      },
+      {
+        "name": "ALEXANDRE PEREZ UMPIERRE"
+      },
+      {
+        "name": "ALINE LIMA DE OLIVEIRA PATERNO"
+      },
+      {
+        "name": "ANA CRISTI BASILE DIAS"
+      },
+      {
+        "name": "ANDRESSA REGINA VASQUES MENDONCA"
+      },
+      {
+        "name": "ANGELO HENRIQUE DE LIRA MACHADO"
+      },
+      {
+        "name": "BRENNO AMARO DA SILVEIRA NETO"
+      },
+      {
+        "name": "CARLOS KLEBER ZAGO DE ANDRADE"
+      },
+      {
+        "name": "CARLOS MARTIN INFANTE CORDOVA"
+      },
+      {
+        "name": "CLAUDIA CRISTINA GATTO"
+      },
+      {
+        "name": "CLAUDIA JORGE DO NASCIMENTO"
+      },
+      {
+        "name": "CYRO LUCAS SILVA CHAGAS"
+      },
+      {
+        "name": "DANIEL FRANCISCO SCALABRINI MACHADO"
+      },
+      {
+        "name": "DAVI ALEXSANDRO CARDOSO FERREIRA"
+      },
+      {
+        "name": "DOUGLAS DA COSTA GONTIJO"
+      },
+      {
+        "name": "EDGARDO GARCIA"
+      },
+      {
+        "name": "EDUARDO LUIZ DIAS CAVALCANTI"
+      },
+      {
+        "name": "ELAINE ROSE MAIA"
+      },
+      {
+        "name": "EVELYN JENIFFER DE LIMA TOLEDO"
+      },
+      {
+        "name": "FABIO MOREIRA DA SILVA"
+      },
+      {
+        "name": "FABRICIO MACHADO SILVA"
+      },
+      {
+        "name": "FERNANDA VASCONCELOS DE ALMEIDA"
+      },
+      {
+        "name": "FERNANDO DE MAGALHAES COUTINHO VIEIRA"
+      },
+      {
+        "name": "FERNANDO FABRIZ SODRE"
+      },
+      {
+        "name": "GABRIEL SILVA VIGNOLI MUNIZ"
+      },
+      {
+        "name": "GERSON DE SOUZA MOL"
+      },
+      {
+        "name": "GESLEY ALEX VELOSO MARTINS"
+      },
+      {
+        "name": "GRACE FERREIRA GHESTI"
+      },
+      {
+        "name": "GUILHERME DOTTO BRAND"
+      },
+      {
+        "name": "IANTO OLIVEIRA MARTINS"
+      },
+      {
+        "name": "INGRID TAVORA WEBER"
+      },
+      {
+        "name": "JEZ WILLIAN BATISTA BRAGA"
+      },
+      {
+        "name": "JHENIFFER MICHELINE CORTEZ"
+      },
+      {
+        "name": "JOAO BATISTA LOPES MARTINS"
+      },
+      {
+        "name": "JOSE ALVES DIAS"
+      },
+      {
+        "name": "JOSE JOAQUIN LINARES LEON"
+      },
+      {
+        "name": "JOSE ROBERTO DOS SANTOS POLITI"
+      },
+      {
+        "name": "JULIO LEMOS DE MACEDO"
+      },
+      {
+        "name": "JURANDIR RODRIGUES DE SOUZA"
+      },
+      {
+        "name": "KALINE AMARAL WANDERLEY"
+      },
+      {
+        "name": "KATIA MARA DE OLIVEIRA"
+      },
+      {
+        "name": "LARISSA MICHELLE PERDIGAO NASS"
+      },
+      {
+        "name": "LEONARDO GIORDANO PATERNO"
+      },
+      {
+        "name": "LIDIANE PEREIRA BESSA"
+      },
+      {
+        "name": "MARCELLO MOREIRA SANTOS"
+      },
+      {
+        "name": "MARCELO OLIVEIRA RODRIGUES"
+      },
+      {
+        "name": "MARCOS JULIANO PRAUCHNER"
+      },
+      {
+        "name": "MARIA JOSE ARAUJO SALES"
+      },
+      {
+        "name": "MARIA LUCILIA DOS SANTOS"
+      },
+      {
+        "name": "MARIA MARCIA MURTA"
+      },
+      {
+        "name": "MARLY EIKO OSUGI"
+      },
+      {
+        "name": "MARYENE ALVES CAMARGO"
+      },
+      {
+        "name": "MAURO VICENTINI CORREIA"
+      },
+      {
+        "name": "PATRICIA FERNANDES LOOTENS MACHADO"
+      },
+      {
+        "name": "PAULO ANSELMO ZIANI SUAREZ"
+      },
+      {
+        "name": "RAFAEL OLIVEIRA ROCHA"
+      },
+      {
+        "name": "RICARDO BASTOS CUNHA"
+      },
+      {
+        "name": "RICARDO GAUCHE"
+      },
+      {
+        "name": "SARAH SILVA BRUM"
+      },
+      {
+        "name": "SILVIA CLAUDIA LOUREIRO DIAS"
+      },
+      {
+        "name": "TALITA DE ALMEIDA FERNANDES CORREIA"
+      },
+      {
+        "name": "TARCISIO SILVA DE ALMEIDA"
+      },
+      {
+        "name": "VALERIA REGINA BELLOTTO"
+      },
+      {
+        "name": "WENDER ALVES DA SILVA"
+      },
+      {
+        "name": "CHRISTIAN GIANFRANCO VALDIVIA RODRIGUEZ"
+      },
+      {
+        "name": "RENAN TAVARES FIGUEIREDO"
+      },
+      {
+        "name": "JOSENAIDE PEREIRA DO NASCIMENTO"
+      }
+    ]
   },
   {
     "department": "INSTITUTO DE RELAÇÕES INTERNACIONAIS",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "ANA FLAVIA GRANJA E BARROS"
+      },
+      {
+        "name": "ANTONIO CARLOS MORAES LESSA"
+      },
+      {
+        "name": "ANTONIO JORGE RAMALHO DA ROCHA"
+      },
+      {
+        "name": "CARLOS ROBERTO PIO DA COSTA FILHO"
+      },
+      {
+        "name": "CAROLINA DE ABREU BATISTA CLARO"
+      },
+      {
+        "name": "CRISTINA YUMIE AOKI INOUE"
+      },
+      {
+        "name": "DANIELLY SILVA RAMOS BECARD"
+      },
+      {
+        "name": "FIDEL IRVING PEREZ FLORES"
+      },
+      {
+        "name": "JORG NOWAK"
+      },
+      {
+        "name": "JULIA DOLORES SCHMIED ZAPATA"
+      },
+      {
+        "name": "LUIZ DANIEL JATOBA FRANCA"
+      },
+      {
+        "name": "MARCIO FLORENCIO NUNES CAMBRAIA"
+      },
+      {
+        "name": "NIELS SOENDERGAARD"
+      },
+      {
+        "name": "NORMA BREDA DOS SANTOS"
+      },
+      {
+        "name": "PIO PENNA FILHO"
+      },
+      {
+        "name": "ROBERTO GOULART MENEZES"
+      },
+      {
+        "name": "RODRIGO PIRES DE CAMPOS"
+      },
+      {
+        "name": "TANIA MARIA PECHIR GOMES MANZUR"
+      },
+      {
+        "name": "VANIA ISABEL CARVALHO PINTO"
+      },
+      {
+        "name": "ALCIDES COSTA VAZ"
+      },
+      {
+        "name": "JULIANO DA SILVA CORTINHAS"
+      },
+      {
+        "name": "THIAGO GEHRE GALVAO"
+      },
+      {
+        "name": "LUCIANA MARIA BRASSOLATTI DE OLIVEIRA"
+      },
+      {
+        "name": "LUCIANO DA ROSA MUNOZ"
+      },
+      {
+        "name": "VINICIUS WINGLER BORBA SANTIAGO"
+      },
+      {
+        "name": "ADRIANA IOP BELLINTANI"
+      },
+      {
+        "name": "DIANA AGUIAR ORRICO SANTOS"
+      },
+      {
+        "name": "HAROLDO RAMANZINI JUNIOR"
+      },
+      {
+        "name": "TCHELLA FERNANDES MASO"
+      },
+      {
+        "name": "VERONICA KORBER GONCALVES"
+      }
+    ]
   },
   {
     "department": "OBSERVATÓRIO SISMOLÓGICO",
@@ -381,7 +9221,11 @@
   },
   {
     "department": "REITORIA",
-    "teachers": []
+    "teachers": [
+      {
+        "name": "MARCIA ABRAHAO MOURA"
+      }
+    ]
   },
   {
     "department": "SECRETARIA DE ADMINISTRACAO ACADEMICA",

@@ -1,3 +1,7 @@
 google-chrome-stable_current_amd64.deb
 
 me-livra-scraping
+
+*.csv
+
+files/geral/teachers.json

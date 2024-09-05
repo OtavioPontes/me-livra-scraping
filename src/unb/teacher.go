@@ -15,14 +15,18 @@ func getTeachersList(ctx context.Context, value string) ([]models.Teacher, error
 	var names []string
 
 	err := chromedp.Run(ctx,
-		chromedp.Navigate("https://sigaa.unb.br/sigaa/public/docente/busca_docentes.jsf?aba=p-academico"),
+		chromedp.Navigate("https://sigaa.unb.br/sigaa/public/docente/busca_docentes.jsf"),
+		// Espera a página carregar
+		chromedp.WaitVisible(`form:departamento`),
+		// Preenche o campo do instituto
 		chromedp.SetValue(`form:departamento`, value),
+		// Clica no botão buscar
 		chromedp.Click(`form:buscar`),
-
+		// Espera a tabela de resultados aparecer
 		chromedp.WaitVisible(`table`),
-		chromedp.Evaluate(`Array.from(document.querySelectorAll('.listagem td .nome')).map(name => name.outerHTML);`, &names),
+		// Extract the names using XPath
+		chromedp.Evaluate(`Array.from(document.querySelectorAll(".listagem td .nome")).map(el => el.textContent)`, &names),
 	)
-
 	if err != nil {
 		return nil, err
 	}
@@ -55,7 +59,18 @@ func WriteTeachersToJSON() error {
 
 	teachersObject := make([]map[string]interface{}, len(departments))
 
-	ctx, cancel := chromedp.NewContext(context.Background())
+	opts := append(chromedp.DefaultExecAllocatorOptions[:],
+		chromedp.Flag("headless", true),        // Desativa o modo headless
+		chromedp.Flag("disable-gpu", false),    // Não desabilita a GPU
+		chromedp.Flag("start-maximized", true), // Inicia maximizado
+	)
+
+	allocCtx, cancel := chromedp.NewExecAllocator(context.Background(), opts...)
+
+	defer cancel()
+
+	ctx, cancel := chromedp.NewContext(allocCtx)
+
 	defer cancel()
 
 	for i, dep := range departments {

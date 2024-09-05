@@ -8,3 +8,8 @@ type Department struct {
 type Teacher struct {
 	Name string `json:"name"`
 }
+
+type UfmgTeacher struct {
+	Name      string `json:"name"`
+	Institute string `json:"institute"`
+}
