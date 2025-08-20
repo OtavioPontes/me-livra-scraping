@@ -5,6 +5,9 @@ go 1.20
 require (
 	github.com/chromedp/chromedp v0.10.0
 	github.com/gocolly/colly v1.2.0
+	github.com/lib/pq v1.10.9
+	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342
+	golang.org/x/text v0.17.0
 )
 
 require (
@@ -28,7 +31,6 @@ require (
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sys v0.23.0 // indirect
-	golang.org/x/text v0.17.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 )

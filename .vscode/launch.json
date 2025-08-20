@@ -10,6 +10,13 @@
       "request": "launch",
       "mode": "auto",
       "program": "${workspaceFolder}"
+    },
+    {
+      "name": "Upsert Data",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "program": "${workspaceFolder}/src/scripts/upsert.go"
     }
   ]
 }
